@@ -67,6 +67,9 @@
         <mark key="^" line="30" column="31" />
         <mark key="." line="30" column="31" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/textAreaFragment.xhtml" timestamp="1517848474261">
+        <mark key="'" line="13" column="86" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/GebruikersVoorkeurenAction.java" timestamp="1509632927920">
         <mark key="'" line="191" column="28" />
         <mark key="[" line="812" column="0" />
@@ -139,12 +142,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1517846564765">
-        <mark key="'" line="16" column="113" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="27" column="125" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1517848370295">
+        <mark key="'" line="60" column="128" />
+        <mark key="[" line="70" column="77" />
+        <mark key="]" line="70" column="90" />
+        <mark key="^" line="70" column="90" />
+        <mark key="." line="70" column="90" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
         <mark key="[" line="4" column="0" />
@@ -158,12 +161,12 @@
         <mark key="^" line="57" column="7" />
         <mark key="." line="57" column="7" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" timestamp="1517838370045">
-        <mark key="'" line="1940" column="0" />
-        <mark key="[" line="2293" column="21" />
-        <mark key="]" line="2293" column="22" />
-        <mark key="^" line="2283" column="20" />
-        <mark key="." line="2293" column="22" />
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" timestamp="1517848222065">
+        <mark key="'" line="2199" column="29" />
+        <mark key="[" line="2265" column="0" />
+        <mark key="]" line="2293" column="0" />
+        <mark key="^" line="2273" column="66" />
+        <mark key="." line="2273" column="66" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/login.xhtml" timestamp="1517001337739">
         <mark key="'" line="14" column="14" />
@@ -189,10 +192,10 @@
         <mark key="." line="55" column="19" />
         <mark key="^" line="55" column="19" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_primaire_delict.xhtml" timestamp="1517838963590">
-        <mark key="'" line="52" column="73" />
-        <mark key="[" line="34" column="80" />
-        <mark key="]" line="34" column="159" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_primaire_delict.xhtml" timestamp="1517846977541">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="61" column="42" />
         <mark key="." line="56" column="24" />
         <mark key="^" line="70" column="17" />
       </file>
@@ -641,13 +644,88 @@
         <mark key="^" line="198" column="26" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="51" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_primaire_delict.xhtml" />
+      <jump line="52" column="128" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
+      <jump line="54" column="126" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
+      <jump line="57" column="50" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
+      <jump line="59" column="50" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
+      <jump line="60" column="128" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
+      <jump line="2249" column="13" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
+      <jump line="2220" column="25" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
+      <jump line="2195" column="42" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
+      <jump line="2198" column="29" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
+      <jump line="13" column="86" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/textAreaFragment.xhtml" />
+    </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6dGV4dEFyZWFGcmFnbWVudCB2ZWxkTmFhbT0idWFfYXJiZWlkc3Bvc2l0aWVfdGV4dGFyZWEiIGhpZGVMYWJlbD0idHJ1ZSIgdGV4dEFyZWFTaXplPSJCSUciIHNob3dJbmZvVGVrc3Q9ImZhbHNlIiBlZGl0b3JXaWR0aD0iNDMwIiB2b2xnTnI9IjEwOCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiaWdDb2x1bW5zPSIzIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
+        <text>------ Veld definitie ua_delictverleden_gevolgen
+MERGE INTO VELD_DEFINITIES VDE
+USING
+  (SELECT 'ua_delictverleden_gevolgen' AS NAAM
+   FROM DUAL) D
+ON (VDE.NAAM = D.NAAM)
+WHEN MATCHED THEN
+UPDATE SET
+  VDE.OMSCHRIJVING = 'Inschatting ernst gevolgen van de delict(en)'
+  , VDE.ITEKST_ID  = (SELECT ID
+                      FROM INFOTEKSTEN
+                      WHERE CODE = 'U9708')
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , NAAM
+  , OMSCHRIJVING
+  , WAARDE_BEREIK_ID
+  , ITEKST_ID)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_delictverleden_gevolgen'
+    , 'Inschatting ernst gevolgen van de delict(en)'
+    , (SELECT id
+       FROM waarde_bereiken
+       WHERE naam = 'ua_delictverleden_gevolgen')
+    , (SELECT ID
+       FROM INFOTEKSTEN
+       WHERE CODE = 'U9708'))
+/</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpZ0NvbHVtbnM9IjMiIGVuYWJsZUFqYXg9ImZhbHNlIi8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>------ Veld definitie ua_delictverleden_gevolgen_anders
+MERGE INTO VELD_DEFINITIES VDE
+USING
+  (SELECT 'ua_delictverleden_gevolgen_anders' AS NAAM
+   FROM DUAL) D
+ON (VDE.NAAM = D.NAAM)
+WHEN MATCHED THEN
+UPDATE SET
+  VDE.OMSCHRIJVING = 'Inschatting ernst gevolgen van de delict(en)'
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , NAAM
+  , OMSCHRIJVING
+  , WAARDE_BEREIK_ID)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_delictverleden_gevolgen_anders'
+    , 'Inschatting ernst gevolgen van de delict(en)'
+    , (SELECT id
+       FROM waarde_bereiken
+       WHERE naam = 'Unbound'))
+/</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -684,64 +762,60 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ua_delictverleden_gevolgen</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;\/</text>
+        <text>SMALL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aXJpczp0ZXh0Qm94RnJhZ21lbnQgdmVsZE5hYW09InVhX2FyYmVpZHNwb3NpdGllX2FuZGVycyIgdGFibGVDbGFzcz0ibWFyZ2luRGFnYmVzdGVkaW5nQW5kZXJzIiBmcmFnbWVudExhYmVsQ2xhc3M9IndpZHRoMjAiIGhpZGVMYWJlbD0idHJ1ZSIgc2hvd0luZm9UZWtzdD0iZmFsc2UiIHZvbGdOcj0iMTA3IiBlbmFibGVBamF4PSJmYWxzZSIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJpZ0NvbHVtbnM9IjMiIGVuYWJsZUFqYXg9ImZhbHNlIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgIFdIRVJFIENPREUgPSAnVTk3MDgnKSkK</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNob3dJbmZvVGVrc3Q9ImZhbHNlIiBlZGl0b3JXaWR0aD0iNDMwIiB2b2xnTnI9IjEwOCIK</text>
+        <text encoding="base64">ICAgICAgIEZST00gSU5GT1RFS1NURU4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYUZyYWdtZW50IHZlbGROYWFtPSJ1YV9hcmJlaWRzcG9zaXRpZV90ZXh0YXJlYSIgaGlkZUxhYmVsPSJ0cnVlIiB0ZXh0QXJlYVNpemU9IkJJRyIK</text>
+        <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAsIElURUtTVF9JRCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0Qm94RnJhZ21lbnQgdmVsZE5hYW09InVhX2FyYmVpZHNwb3NpdGllX2FuZGVycyIgdGFibGVDbGFzcz0ibWFyZ2luRGFnYmVzdGVkaW5nQW5kZXJzIiBmcmFnbWVudExhYmVsQ2xhc3M9IndpZHRoMjAiIGhpZGVMYWJlbD0idHJ1ZSIgc2hvd0luZm9UZWtzdD0iZmFsc2UiIHZvbGdOcj0iMTA3IiBlbmFibGVBamF4PSJmYWxzZSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFdIRVJFIENPREUgPSAnVTk3MDgnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIEZST00gSU5GT1RFS1NURU4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyZWRTZXBhcmF0b3IiLz4K</text>
+        <text encoding="base64">ICAsIFZERS5JVEVLU1RfSUQgID0gKFNFTEVDVCBJRAo=</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tLS0+YW50YWwgZWVyZGVyZSBqdXN0Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6cmFkaW9XaXRoQ3VzdG9tRnJhZ21lbnQgY29kZT0idWFfZGVsaWN0X21vdGllZl9vbmJla2VuZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYm92ZW5saWdnZW5kZU5hYW09InVhX2RlbGljdHZlcmxlZGVuX2dldm9sZ2VuIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2b2xnTnI9IjciIGVuYWJsZUFqYXg9ImZhbHNlIi8+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;\/</last-search>
+      <last-search>SMALL</last-search>
       <last-offset />
-      <last-pattern>&quot;\/</last-pattern>
+      <last-pattern>SMALL</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>taglib</entry>
-        <entry>\cfragment</entry>
-        <entry>textboxFr</entry>
-        <entry>tekstbox</entry>
         <entry>fragment</entry>
         <entry>Fragment</entry>
         <entry>radioButtonFragment</entry>
@@ -758,6 +832,10 @@ VALUES
         <entry>Categorie criminele</entry>
         <entry>\/</entry>
         <entry>&quot;\/</entry>
+        <entry>6</entry>
+        <entry>gevolgen_anders</entry>
+        <entry>TEXT</entry>
+        <entry>SMALL</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
