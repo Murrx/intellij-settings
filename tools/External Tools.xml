@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="copy single file" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="python3" />
+      <option name="PARAMETERS" value="$USER_HOME$/git/scripts-IRIS/python/copy_current_file.py $FileDirRelativeToProjectRoot$ $FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="deploy to eap" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="python3" />
+      <option name="PARAMETERS" value="$USER_HOME$/git/scripts-IRIS/python/deploy_ear.py" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/git/scripts-IRIS/python" />
+    </exec>
+  </tool>
+</toolSet>
