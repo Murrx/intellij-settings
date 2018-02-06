@@ -28,6 +28,7 @@
         <mark key="^" line="1748" column="23" />
         <mark key="." line="1748" column="24" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/layout.xhtml" timestamp="1517926445265" />
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.072.sql" timestamp="1515756729300">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -102,12 +103,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1517924504965">
-        <mark key="'" line="925" column="44" />
-        <mark key="[" line="1229" column="7" />
-        <mark key="]" line="1229" column="21" />
-        <mark key="." line="1229" column="21" />
-        <mark key="^" line="1229" column="21" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1517927754651">
+        <mark key="'" line="444" column="1" />
+        <mark key="[" line="1238" column="25" />
+        <mark key="]" line="1238" column="25" />
+        <mark key="." line="1238" column="25" />
+        <mark key="^" line="1238" column="3" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/stam/Regio.java" timestamp="1509631826835">
         <mark key="'" line="75" column="6" />
@@ -142,9 +143,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1517924162555">
-        <mark key="'" line="61" column="128" />
-        <mark key="^" line="23" column="15" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1517927910019">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
         <mark key="[" line="4" column="0" />
@@ -612,6 +614,11 @@
       <file name="$USER_HOME$/git/jsf-playground/src/mypackage/MyBean.java" timestamp="1516987012084">
         <mark key="'" line="79" column="0" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/sneladvies/blok.xhtml" timestamp="1517926629835">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/repeatableFragment.xhtml" timestamp="1513696256138">
         <mark key="[" line="7" column="152" />
         <mark key="]" line="7" column="152" />
@@ -687,13 +694,18 @@
       <jump line="71" column="12" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="76" column="15" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="925" column="44" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="7" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
+      <jump line="46" column="8" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
+      <jump line="6" column="20" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
+      <jump line="48" column="22" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
+      <jump line="444" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">PHN0cm9uZyBzdHlsZT0iZGlzcGxheTogYmxvY2s7Ij5EZW5rIG9vayBhYW46PC9zdHJvbmc+Cjx1bCBjbGFzcz0iYnVsbGV0TGlzdCBmbG9hdENvbHVtbiI+CjxsaT5BbmFseXNlcyBwcmltYWlyZSBkZWxpY3RlbiB1aXQgZWVyZGVyZSBhZHZpZXNyYXBwb3J0ZW48L2xpPgo8bGk+UG9saXRpZW11dGF0aWVzIGFuZGVycyBkYW4gdmVyb29yZGVsaW5nZW48L2xpPgo8L3VsPgo8cD5UZWtzdCB2b29yIGluIGhldCBhZHZpZXNyYXBwb3J0PC9wPgo=</text>
+        <text>style=&quot;background: #F2DBDB;&quot;</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -739,37 +751,37 @@ VALUES
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyZWRTZXBhcmF0b3IiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLVRPRE86IFJvemUgYWNodGVyZ3JvbmQgdG90IGhpZXItLT4K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PHN0cm9uZyBzdHlsZT0iZGlzcGxheTogYmxvY2s7Ij5EZW5rIG9vayBhYW46PC9zdHJvbmc+Cjx1bCBjbGFzcz0iYnVsbGV0TGlzdCBmbG9hdENvbHVtbiI+CjxsaT5BbmFseXNlcyBwcmltYWlyZSBkZWxpY3RlbiB1aXQgZWVyZGVyZSBhZHZpZXNyYXBwb3J0ZW48L2xpPgo8bGk+UG9saXRpZW11dGF0aWVzIGFuZGVycyBkYW4gdmVyb29yZGVsaW5nZW48L2xpPgo8L3VsPgo8cD5UZWtzdCB2b29yIGluIGhldCBhZHZpZXNyYXBwb3J0PC9wPgo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLVRPRE86IFJvemUgYWNodGVncm9uZCBrbGV1ci0tPgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PHVpOmNvbXBvc2l0aW9uIHhtbG5zOnVpPSJodHRwOi8vamF2YS5zdW4uY29tL2pzZi9mYWNlbGV0cyI+Cg==</text>
+      <register name="4" type="4">
+        <text>style=&quot;background: #F2DBDB;&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC91aTpjb21wb3NpdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9pcmlzOmxheW91dD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+QWFud2V6aWdoZWlkIHZlcnN0YW5kZWxpamtlIGJlcGVya2luZzwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6bGF5b3V0Pgo=</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+VmVyc2xhdmluZ3MtIC8gcHN5Y2hpc2NoZSBwcm9ibGVtYXRpZWs8L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICA8LzpsYXlvdXQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+TmV0d2VyayBvbmRlcnN0ZXVudCBnZWRyYWdzdmVyYW5kZXJpbmc8L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICA8aXJpczpsYXlvdXQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
