@@ -405,10 +405,11 @@
         <mark key="^" line="18" column="140" />
         <mark key="." line="18" column="140" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/checkBoxFragment.xhtml" timestamp="1517929644454">
-        <mark key="[" line="29" column="56" />
-        <mark key="]" line="29" column="56" />
-        <mark key="." line="29" column="56" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/checkBoxFragment.xhtml" timestamp="1517931174950">
+        <mark key="[" line="15" column="74" />
+        <mark key="]" line="30" column="84" />
+        <mark key="." line="30" column="84" />
+        <mark key="^" line="30" column="84" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/web.xml" timestamp="1516999884092">
         <mark key="'" line="0" column="0" />
