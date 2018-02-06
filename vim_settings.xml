@@ -103,8 +103,8 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1517927754651">
-        <mark key="'" line="444" column="1" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1517929695604">
+        <mark key="'" line="315" column="82" />
         <mark key="[" line="1238" column="25" />
         <mark key="]" line="1238" column="25" />
         <mark key="." line="1238" column="25" />
@@ -405,6 +405,11 @@
         <mark key="^" line="18" column="140" />
         <mark key="." line="18" column="140" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/checkBoxFragment.xhtml" timestamp="1517929644454">
+        <mark key="[" line="29" column="56" />
+        <mark key="]" line="29" column="56" />
+        <mark key="." line="29" column="56" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/web.xml" timestamp="1516999884092">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="46" />
@@ -699,13 +704,18 @@
       <jump line="6" column="20" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
       <jump line="48" column="22" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
       <jump line="444" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="1219" column="21" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="374" column="20" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="921" column="22" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="1148" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="315" column="82" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>style=&quot;background: #F2DBDB;&quot;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>checkbox,checkboxlabel</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -742,10 +752,10 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>checkbox,checkboxlabel</text>
       </register>
       <register name="/" type="4">
-        <text>rf-tgp</text>
+        <text>checkboxlabel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyZWRTZXBhcmF0b3IiLz4K</text>
@@ -788,16 +798,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>rf-tgp</last-search>
+      <last-search>checkboxlabel</last-search>
       <last-offset />
-      <last-pattern>rf-tgp</last-pattern>
+      <last-pattern>checkboxlabel</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Vertical</entry>
-        <entry>categorie</entry>
         <entry>Geen (first offender</entry>
         <entry>Aantal eerdere</entry>
         <entry>Infotekst</entry>
@@ -816,6 +824,8 @@ VALUES
         <entry>background-color</entry>
         <entry>rf-cp</entry>
         <entry>rf-tgp</entry>
+        <entry>checkbox</entry>
+        <entry>checkboxlabel</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
