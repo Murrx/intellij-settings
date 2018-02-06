@@ -102,8 +102,8 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1516974872729">
-        <mark key="'" line="672" column="4" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1517924504965">
+        <mark key="'" line="925" column="44" />
         <mark key="[" line="1229" column="7" />
         <mark key="]" line="1229" column="21" />
         <mark key="." line="1229" column="21" />
@@ -142,12 +142,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1517906246397">
-        <mark key="'" line="58" column="128" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="68" column="111" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1517924162555">
+        <mark key="'" line="61" column="128" />
+        <mark key="^" line="23" column="15" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
         <mark key="[" line="4" column="0" />
@@ -390,11 +387,11 @@
         <mark key="^" line="7" column="68" />
         <mark key="." line="7" column="68" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/util/taxatie_analyse.xhtml" timestamp="1517906564099">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="1" column="4" />
-        <mark key="^" line="1" column="3" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/util/taxatie_analyse.xhtml" timestamp="1517923303722">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1517498540620">
         <mark key="[" line="0" column="0" />
@@ -665,13 +662,38 @@
       <jump line="25" column="17" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.071.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.071.sql" />
       <jump line="183" column="45" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="1223" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="14" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="64" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="68" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="72" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="77" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="483" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="487" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="491" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="722" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="963" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="1029" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="57" column="20" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="930" column="22" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="935" column="22" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="939" column="61" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="948" column="67" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="962" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="966" column="71" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="22" column="11" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="63" column="14" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="67" column="13" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="71" column="12" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="76" column="15" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="925" column="44" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">PHN0cm9uZyBzdHlsZT0iZGlzcGxheTogYmxvY2s7Ij5EZW5rIG9vayBhYW46PC9zdHJvbmc+Cjx1bCBjbGFzcz0iYnVsbGV0TGlzdCBmbG9hdENvbHVtbiI+CjxsaT5Nb3RpdmF0aWUgdm9vciBnZWRyYWdzdmVyYW5kZXJpbmc8L2xpPgo8bGk+TW90aXZhdGllIHZvb3IgaHVscHZlcmxlbmluZzwvbGk+CjxsaT5OZXR3ZXJrIG9uZGVyc3RldW50IGdlZHJhZ3N2ZXJhbmRlcmluZzwvbGk+CjxsaT5WZXJzbGF2aW5ncy0gLyBwc3ljaGlzY2hlIHByb2JsZW1hdGllazwvbGk+CjxsaT5BYW53ZXppZ2hlaWQgdmVyc3RhbmRlbGlqa2UgYmVwZXJraW5nPC9saT4KPC91bD4KPHVsIGNsYXNzPSJidWxsZXRMaXN0IGZsb2F0Q29sdW1uIj4KPGxpPkZ5c2lla2Ugb2YgcHN5Y2hpc2NoZSBiZXBlcmtpbmdlbjwvbGk+CjxsaT5HZWJyZWtraWdlIGJlaGVlcnNpbmcgTmVkZXJsYW5kc2UgdGFhbDwvbGk+CjxsaT5Hcm9lcHNnZXNjaGlrdCAvIHdlZXJiYWFyaGVpZDwvbGk+CjxsaT5TZWtzZSAvIGN1bHR1cmVsZSBzcGVjaWZpZWtlIGt3ZXN0aWVzPC9saT4KPGxpPkFudGlzb2NpYWxlIHBlcnNvb25saWpraGVpZHNzdG9vcm5pcyAvIHBzeWNob3BhdGhpZTwvbGk+CjwvdWw+</text>
+        <text encoding="base64">PHN0cm9uZyBzdHlsZT0iZGlzcGxheTogYmxvY2s7Ij5EZW5rIG9vayBhYW46PC9zdHJvbmc+Cjx1bCBjbGFzcz0iYnVsbGV0TGlzdCBmbG9hdENvbHVtbiI+CjxsaT5BbmFseXNlcyBwcmltYWlyZSBkZWxpY3RlbiB1aXQgZWVyZGVyZSBhZHZpZXNyYXBwb3J0ZW48L2xpPgo8bGk+UG9saXRpZW11dGF0aWVzIGFuZGVycyBkYW4gdmVyb29yZGVsaW5nZW48L2xpPgo8L3VsPgo8cD5UZWtzdCB2b29yIGluIGhldCBhZHZpZXNyYXBwb3J0PC9wPgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PHN0cm9uZyBzdHlsZT0iZGlzcGxheTogYmxvY2s7Ij5EZW5rIG9vayBhYW46PC9zdHJvbmc+Cjx1bCBjbGFzcz0iYnVsbGV0TGlzdCBmbG9hdENvbHVtbiI+CjxsaT5Nb3RpdmF0aWUgdm9vciBnZWRyYWdzdmVyYW5kZXJpbmc8L2xpPgo8bGk+TW90aXZhdGllIHZvb3IgaHVscHZlcmxlbmluZzwvbGk+CjxsaT5OZXR3ZXJrIG9uZGVyc3RldW50IGdlZHJhZ3N2ZXJhbmRlcmluZzwvbGk+CjxsaT5WZXJzbGF2aW5ncy0gLyBwc3ljaGlzY2hlIHByb2JsZW1hdGllazwvbGk+CjxsaT5BYW53ZXppZ2hlaWQgdmVyc3RhbmRlbGlqa2UgYmVwZXJraW5nPC9saT4KPC91bD4KPHVsIGNsYXNzPSJidWxsZXRMaXN0IGZsb2F0Q29sdW1uIj4KPGxpPkZ5c2lla2Ugb2YgcHN5Y2hpc2NoZSBiZXBlcmtpbmdlbjwvbGk+CjxsaT5HZWJyZWtraWdlIGJlaGVlcnNpbmcgTmVkZXJsYW5kc2UgdGFhbDwvbGk+CjxsaT5Hcm9lcHNnZXNjaGlrdCAvIHdlZXJiYWFyaGVpZDwvbGk+CjxsaT5TZWtzZSAvIGN1bHR1cmVsZSBzcGVjaWZpZWtlIGt3ZXN0aWVzPC9saT4KPGxpPkFudGlzb2NpYWxlIHBlcnNvb25saWpraGVpZHNzdG9vcm5pcyAvIHBzeWNob3BhdGhpZTwvbGk+CjwvdWw+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -708,16 +730,16 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>ua_delictverleden_gevolgen</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
-        <text>respons</text>
+        <text>rf-tgp</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICA8c3Ryb25nIHN0eWxlPSJkaXNwbGF5OiBibG9jazsiPkRlbmsgb29rIGFhbjo8L3N0cm9uZz4KICAgICAgICA8dWwgY2xhc3M9ImJ1bGxldExpc3QgZmxvYXRDb2x1bW4iPgogICAgICAgICAgICA8bGk+TW90aXZhdGllIHZvb3IgZ2VkcmFnc3ZlcmFuZGVyaW5nPC9saT4KICAgICAgICAgICAgPGxpPk1vdGl2YXRpZSB2b29yIGh1bHB2ZXJsZW5pbmc8L2xpPgogICAgICAgICAgICA8bGk+TmV0d2VyayBvbmRlcnN0ZXVudCBnZWRyYWdzdmVyYW5kZXJpbmc8L2xpPgogICAgICAgICAgICA8bGk+VmVyc2xhdmluZ3MtIC8gcHN5Y2hpc2NoZSBwcm9ibGVtYXRpZWs8L2xpPgogICAgICAgICAgICA8bGk+QWFud2V6aWdoZWlkIHZlcnN0YW5kZWxpamtlIGJlcGVya2luZzwvbGk+CiAgICAgICAgPC91bD4KICAgICAgICA8dWwgY2xhc3M9ImJ1bGxldExpc3QgZmxvYXRDb2x1bW4iPgogICAgICAgICAgICA8bGk+RnlzaWVrZSBvZiBwc3ljaGlzY2hlIGJlcGVya2luZ2VuPC9saT4KICAgICAgICAgICAgPGxpPkdlYnJla2tpZ2UgYmVoZWVyc2luZyBOZWRlcmxhbmRzZSB0YWFsPC9saT4KICAgICAgICAgICAgPGxpPkdyb2Vwc2dlc2NoaWt0IC8gd2VlcmJhYXJoZWlkPC9saT4KICAgICAgICAgICAgPGxpPlNla3NlIC8gY3VsdHVyZWxlIHNwZWNpZmlla2Uga3dlc3RpZXM8L2xpPgogICAgICAgICAgICA8bGk+QW50aXNvY2lhbGUgcGVyc29vbmxpamtoZWlkc3N0b29ybmlzIC8gcHN5Y2hvcGF0aGllPC9saT4KICAgICAgICA8L3VsPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyZWRTZXBhcmF0b3IiLz4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PHN0cm9uZyBzdHlsZT0iZGlzcGxheTogYmxvY2s7Ij5EZW5rIG9vayBhYW46PC9zdHJvbmc+Cjx1bCBjbGFzcz0iYnVsbGV0TGlzdCBmbG9hdENvbHVtbiI+CjxsaT5Nb3RpdmF0aWUgdm9vciBnZWRyYWdzdmVyYW5kZXJpbmc8L2xpPgo8bGk+TW90aXZhdGllIHZvb3IgaHVscHZlcmxlbmluZzwvbGk+CjxsaT5OZXR3ZXJrIG9uZGVyc3RldW50IGdlZHJhZ3N2ZXJhbmRlcmluZzwvbGk+CjxsaT5WZXJzbGF2aW5ncy0gLyBwc3ljaGlzY2hlIHByb2JsZW1hdGllazwvbGk+CjxsaT5BYW53ZXppZ2hlaWQgdmVyc3RhbmRlbGlqa2UgYmVwZXJraW5nPC9saT4KPC91bD4KPHVsIGNsYXNzPSJidWxsZXRMaXN0IGZsb2F0Q29sdW1uIj4KPGxpPkZ5c2lla2Ugb2YgcHN5Y2hpc2NoZSBiZXBlcmtpbmdlbjwvbGk+CjxsaT5HZWJyZWtraWdlIGJlaGVlcnNpbmcgTmVkZXJsYW5kc2UgdGFhbDwvbGk+CjxsaT5Hcm9lcHNnZXNjaGlrdCAvIHdlZXJiYWFyaGVpZDwvbGk+CjxsaT5TZWtzZSAvIGN1bHR1cmVsZSBzcGVjaWZpZWtlIGt3ZXN0aWVzPC9saT4KPGxpPkFudGlzb2NpYWxlIHBlcnNvb25saWpraGVpZHNzdG9vcm5pcyAvIHBzeWNob3BhdGhpZTwvbGk+CjwvdWw+</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
@@ -725,48 +747,43 @@ VALUES
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">YmxhCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PHN0cm9uZyBzdHlsZT0iZGlzcGxheTogYmxvY2s7Ij5EZW5rIG9vayBhYW46PC9zdHJvbmc+Cjx1bCBjbGFzcz0iYnVsbGV0TGlzdCBmbG9hdENvbHVtbiI+CjxsaT5BbmFseXNlcyBwcmltYWlyZSBkZWxpY3RlbiB1aXQgZWVyZGVyZSBhZHZpZXNyYXBwb3J0ZW48L2xpPgo8bGk+UG9saXRpZW11dGF0aWVzIGFuZGVycyBkYW4gdmVyb29yZGVsaW5nZW48L2xpPgo8L3VsPgo8cD5UZWtzdCB2b29yIGluIGhldCBhZHZpZXNyYXBwb3J0PC9wPgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PHRhYmxlIHN0eWxlPSJtYXJnaW4tYm90dG9tOiA1cHg7Ij4KCTx0cj4KCQk8dGg+PGI+RGVuayBvb2sgYWFuOjwvYj48L3RoPgogIAk8L3RyPgoJPHRyPgoJCTx0ZD4KCQkJPHVsPgoJCQkJPGxpIHN0eWxlPSJsaXN0LXN0eWxlOiBkaXNjIGluc2lkZTsiPkxlZWZ0aWpkIDE8c3VwPmU8L3N1cD4gZGVsaWN0PC9saT4KCQkJCTxsaSBzdHlsZT0ibGlzdC1zdHlsZTogZGlzYyBpbnNpZGU7Ij5UeXBlIGRlbGljdHBsZWdpbmc8L2xpPgoJCQkJPGxpIHN0eWxlPSJsaXN0LXN0eWxlOiBkaXNjIGluc2lkZTsiPk9tc3RhbmRpZ2hlZGVuIGRlbGljdHBsZWdpbmc8L2xpPgoJCQkJPGxpIHN0eWxlPSJsaXN0LXN0eWxlOiBkaXNjIGluc2lkZTsiPkVlcmRlcmUgZW4gYWN0dWVsZSByZWNsYXNzZXJpbmdzY29udGFjdGVuPC9saT4KCQkJCTxsaSBzdHlsZT0ibGlzdC1zdHlsZTogZGlzYyBpbnNpZGU7Ij5GcmVxdWVudGllIGRlbGljdHBsZWdpbmc8L2xpPgoJCQkJPGxpIHN0eWxlPSJsaXN0LXN0eWxlOiBkaXNjIGluc2lkZTsiPlNpbmRzIHdhbm5lZXIgZGl0IGRlbGljdHBhdHJvb24/PC9saT4KCQkJCTxsaSBzdHlsZT0ibGlzdC1zdHlsZTogZGlzYyBpbnNpZGU7Ij5BbmRlcmUgcmVsZXZhbnRlIGRlbGljdCBvbXN0YW5kaWdoZWRlbjwvbGk+CgkJCQk8bGkgc3R5bGU9Imxpc3Qtc3R5bGU6IGRpc2MgaW5zaWRlOyI+U3RhdHVzIHZlZWxwbGVnZXI8L2xpPgoJCQk8L3VsPgoJCTwvdGQ+Cgk8L3RyPgo8L3RhYmxlPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">PHVpOmNvbXBvc2l0aW9uIHhtbG5zOnVpPSJodHRwOi8vamF2YS5zdW4uY29tL2pzZi9mYWNlbGV0cyI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGlyaXM6cmFkaW9CdXR0b25GcmFnbWVudCB2ZWxkTmFhbT0idWFfZGVsaWN0dmVybGVkZW5fZ2V2b2xnZW4iIHZvbGdOcj0iNyIgcmFkaW9EaXJlY3Rpb249IlZlcnRpY2FsIi0tPgogICAgICAgIDwhLS1lbmFibGVBamF4PSJmYWxzZSIgZW5hYmxlRGVzZWxlY3RCdG5SZW5kZXJsZXNzPSJ0cnVlIiBkZXNlbGVjdGllQnRuQm90dG9tPSJ0cnVlIi8+LS0+Cg==</text>
+        <text encoding="base64">PC91aTpjb21wb3NpdGlvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGlyaXM6dGV4dEFyZWFGcmFnbWVudCB2ZWxkTmFhbT0idWFfaHVpc3Zlc3RpbmdfYWFudGVrZW5pbmciIHNtYWxsQ29sdW1ucz0iMSIgc2hvd0luZm9UZWtzdD0iZmFsc2UiIGVuYWJsZUJvbGQ9InRydWUiIHZvbGdOcj0iMTIiIGVuYWJsZUFqYXg9ImZhbHNlIi8+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGk+PC9saT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V0hFUkUgYWxpYXMuOwo=</text>
+        <text encoding="base64">ICAgICAgICA8bGk+QWFud2V6aWdoZWlkIHZlcnN0YW5kZWxpamtlIGJlcGVya2luZzwvbGk+Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RlJPTSAgYWxpYXMK</text>
+        <text encoding="base64">ICAgICAgICA8bGk+VmVyc2xhdmluZ3MtIC8gcHN5Y2hpc2NoZSBwcm9ibGVtYXRpZWs8L2xpPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUIGNvdW50KCopCg==</text>
+        <text encoding="base64">ICAgICAgICA8bGk+TmV0d2VyayBvbmRlcnN0ZXVudCBnZWRyYWdzdmVyYW5kZXJpbmc8L2xpPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>respons</last-search>
+      <last-search>rf-tgp</last-search>
       <last-offset />
-      <last-pattern>respons</last-pattern>
+      <last-pattern>rf-tgp</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Fragment</entry>
-        <entry>radioButtonFragment</entry>
-        <entry>check</entry>
-        <entry>label</entry>
-        <entry>radioDirection</entry>
         <entry>Vertical</entry>
         <entry>categorie</entry>
         <entry>Geen (first offender</entry>
@@ -782,6 +799,11 @@ VALUES
         <entry>TEXT</entry>
         <entry>SMALL</entry>
         <entry>respons</entry>
+        <entry>white !imp</entry>
+        <entry>background color</entry>
+        <entry>background-color</entry>
+        <entry>rf-cp</entry>
+        <entry>rf-tgp</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
