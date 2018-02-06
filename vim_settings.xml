@@ -143,10 +143,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1517927910019">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1517932553112">
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="58" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
         <mark key="[" line="4" column="0" />
@@ -178,6 +179,12 @@
         <mark key="]" line="12" column="40" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" timestamp="1517932516351">
+        <mark key="[" line="8060" column="13" />
+        <mark key="]" line="8060" column="33" />
+        <mark key="^" line="8060" column="33" />
+        <mark key="." line="8060" column="33" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/sneladvies/blokNoLayout.xhtml" timestamp="1516008905339">
         <mark key="[" line="55" column="0" />
@@ -231,9 +238,6 @@
         <mark key="]" line="83" column="3" />
         <mark key="^" line="83" column="2" />
         <mark key="." line="83" column="3" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1517498582674">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/component/activiteit/uitgebreidadvies/uitgebreidadvies.pages.xml" timestamp="1516033578031">
         <mark key="[" line="41" column="0" />
@@ -355,9 +359,6 @@
         <mark key="." line="10" column="147" />
         <mark key="^" line="10" column="147" />
       </file>
-      <file name="/Groovy JUnit Test Case.txt.ft" timestamp="1517498586764">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/IRIS/iris-common/src/main/java/nl/reclassering/iris/common/utils/MessageTranslator.java" timestamp="1507888686880">
         <mark key="[" line="77" column="20" />
         <mark key="]" line="77" column="21" />
@@ -395,9 +396,6 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1517498540620">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/totaalscoreFragment.xhtml" timestamp="1516198039570">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="137" />
@@ -405,11 +403,11 @@
         <mark key="^" line="18" column="140" />
         <mark key="." line="18" column="140" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/checkBoxFragment.xhtml" timestamp="1517931174950">
-        <mark key="[" line="15" column="74" />
-        <mark key="]" line="30" column="84" />
-        <mark key="." line="30" column="84" />
-        <mark key="^" line="30" column="84" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/checkBoxFragment.xhtml" timestamp="1517932444258">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="36" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/web.xml" timestamp="1516999884092">
         <mark key="'" line="0" column="0" />
@@ -445,9 +443,6 @@
         <mark key="]" line="23" column="29" />
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
-      </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1517498582744">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.078.sql" timestamp="1517487780995">
         <mark key="'" line="0" column="0" />
@@ -713,10 +708,10 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>style=&quot;background: #F2DBDB;&quot;</text>
+        <text>checkboxlabelClass</text>
       </register>
       <register name="&quot;" type="4">
-        <text>checkbox,checkboxlabel</text>
+        <text>checkboxlabelClass</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -753,7 +748,7 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>checkbox,checkboxlabel</text>
+        <text>checkboxlabel</text>
       </register>
       <register name="/" type="4">
         <text>checkboxlabel</text>
