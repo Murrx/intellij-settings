@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="lblupd" value="UPDATE VELD_DEFINITIES&#10;SET OMSCHRIJVING = '$omschrijving$'&#10;WHERE NAAM = '$naam$'&#10;/&#10;$END$" description="update label" toReformat="true" toShortenFQNames="true">
+    <variable name="omschrijving" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="naam" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>
