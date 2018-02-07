@@ -78,12 +78,12 @@
         <mark key="^" line="815" column="25" />
         <mark key="." line="815" column="25" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518009762883">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518013217101">
         <mark key="'" line="159" column="58" />
-        <mark key="[" line="161" column="53" />
-        <mark key="]" line="161" column="81" />
-        <mark key="." line="161" column="81" />
-        <mark key="^" line="161" column="81" />
+        <mark key="[" line="167" column="62" />
+        <mark key="]" line="167" column="96" />
+        <mark key="." line="167" column="96" />
+        <mark key="^" line="167" column="96" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1516184216694">
         <mark key="[" line="66" column="34" />
@@ -396,12 +396,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1518012297333">
-        <mark key="'" line="42" column="3" />
-        <mark key="[" line="176" column="8" />
-        <mark key="]" line="182" column="23" />
-        <mark key="^" line="176" column="7" />
-        <mark key="." line="176" column="8" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1518013540810">
+        <mark key="'" line="24" column="50" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="24" column="50" />
+        <mark key="^" line="24" column="50" />
+        <mark key="." line="24" column="50" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/totaalscoreFragment.xhtml" timestamp="1516198039570">
         <mark key="'" line="0" column="0" />
@@ -705,13 +705,14 @@
       <jump line="42" column="3" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="22" column="42" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_verslaving.xhtml" />
       <jump line="16" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_verslaving.xhtml" />
+      <jump line="24" column="50" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgICAgICA8aDpwYW5lbEdyb3VwPgogICAgICAgICAgICA8IS0tVE9ETzogV2F0IGdlYmV1cmQgZXIgbWV0IGRlemUgZnJhZ21lbnRzPy0tPgogICAgICAgICAgICA8aXJpczp0ZXh0QXJlYUZyYWdtZW50IHZlbGROYWFtPSJ1YV92ZXJzbGF2aW5nX2FhbnRla2VuaW5nIiBzbWFsbENvbHVtbnM9IjEiIGhpZGVMYWJlbD0iZmFsc2UiIHNob3dJbmZvVGVrc3Q9ImZhbHNlIiB2b2xnTnI9IjUyMiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmFibGVCb2xkPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIgb3B0aW9uYWxGb3JDb21wbGV0ZW5lc3M9InRydWUiLz4KICAgICAgICAgICAgPGlyaXM6dGV4dEFyZWFGcmFnbWVudCB2ZWxkTmFhbT0idWFfdmVyc2xhdmluZ19hZHZpZXNyYXBwb3J0IiBoaWRlTGFiZWw9ImZhbHNlIiB0ZXh0QXJlYVNpemU9IkJJRyIgYWR2aWVzQmVzY2hpa2JhYXI9InRydWUiIGVuYWJsZUFqYXg9ImZhbHNlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkdmllc0xvb2t1cD0idWFfdmVyc2xhdmluZ19hZHZpZXNyYXBwb3J0O1VJVEdFQlJFSURfQURWSUVTIiBzaG93SW5mb1Rla3N0PSJmYWxzZSIgZWRpdG9ySGVpZ2h0PSIxMTUiIHZvbGdOcj0iNTIzIiBlbmFibGVCb2xkPSJ0cnVlIi8+CiAgICAgICAgPC9oOnBhbmVsR3JvdXA+</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA8aDpwYW5lbEdyb3VwPgogICAgICAgICAgICA8IS0tVE9ETzogV2F0IGdlYmV1cmQgZXIgbWV0IGRlemUgZnJhZ21lbnRzPy0tPgogICAgICAgICAgICA8aXJpczp0ZXh0QXJlYUZyYWdtZW50IHZlbGROYWFtPSJ1YV92ZXJzbGF2aW5nX2FhbnRla2VuaW5nIiBzbWFsbENvbHVtbnM9IjEiIGhpZGVMYWJlbD0iZmFsc2UiIHNob3dJbmZvVGVrc3Q9ImZhbHNlIiB2b2xnTnI9IjUyMiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmFibGVCb2xkPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIgb3B0aW9uYWxGb3JDb21wbGV0ZW5lc3M9InRydWUiLz4KICAgICAgICAgICAgPGlyaXM6dGV4dEFyZWFGcmFnbWVudCB2ZWxkTmFhbT0idWFfdmVyc2xhdmluZ19hZHZpZXNyYXBwb3J0IiBoaWRlTGFiZWw9ImZhbHNlIiB0ZXh0QXJlYVNpemU9IkJJRyIgYWR2aWVzQmVzY2hpa2JhYXI9InRydWUiIGVuYWJsZUFqYXg9ImZhbHNlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkdmllc0xvb2t1cD0idWFfdmVyc2xhdmluZ19hZHZpZXNyYXBwb3J0O1VJVEdFQlJFSURfQURWSUVTIiBzaG93SW5mb1Rla3N0PSJmYWxzZSIgZWRpdG9ySGVpZ2h0PSIxMTUiIHZvbGdOcj0iNTIzIiBlbmFibGVCb2xkPSJ0cnVlIi8+CiAgICAgICAgPC9oOnBhbmVsR3JvdXA+</text>
+        <text>verslaving.xhtml</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -748,7 +749,7 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9pcmlzOmJsb2s+</text>
+        <text>verslaving.xhtml</text>
       </register>
       <register name="/" type="4">
         <text>Vraag 6</text>
@@ -790,7 +791,7 @@ VALUES
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -831,10 +832,10 @@ VALUES
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q:q</entry>
         <entry>f</entry>
-        <entry>q</entry>
         <entry>fw</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
