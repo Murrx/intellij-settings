@@ -78,7 +78,8 @@
         <mark key="^" line="815" column="25" />
         <mark key="." line="815" column="25" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518008892439">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518009762883">
+        <mark key="'" line="159" column="58" />
         <mark key="[" line="161" column="53" />
         <mark key="]" line="161" column="81" />
         <mark key="." line="161" column="81" />
@@ -694,6 +695,7 @@
       <jump line="1148" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="315" column="82" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="37" column="31" filename="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" />
+      <jump line="159" column="58" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -740,7 +742,7 @@ VALUES
         <text>taxatie_risicos.xhtml</text>
       </register>
       <register name="/" type="4">
-        <text>Analyse van het Uittreksel</text>
+        <text>verslaving</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1aTppbmNsdWRlIHNyYz0iYmxva2tlbi90YXhhdGllX3Jpc2ljb3MueGh0bWwiLz4K</text>
@@ -783,15 +785,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>Analyse van het Uittreksel</last-search>
+      <last-search>verslaving</last-search>
       <last-offset />
-      <last-pattern>Analyse van het Uittreksel</last-pattern>
+      <last-pattern>verslaving</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Anders te weten:</entry>
         <entry>VELD_DEFINITIES</entry>
         <entry>Categorie criminele</entry>
         <entry>\/</entry>
@@ -811,6 +812,7 @@ VALUES
         <entry>blockWithName</entry>
         <entry>\blockwithname</entry>
         <entry>Analyse van het Uittreksel</entry>
+        <entry>verslaving</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
