@@ -21,12 +21,12 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" timestamp="1516975974855">
-        <mark key="'" line="1483" column="0" />
-        <mark key="[" line="1748" column="24" />
-        <mark key="]" line="1752" column="31" />
-        <mark key="^" line="1748" column="23" />
-        <mark key="." line="1748" column="24" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" timestamp="1517999001154">
+        <mark key="'" line="37" column="31" />
+        <mark key="[" line="1481" column="26" />
+        <mark key="]" line="1481" column="39" />
+        <mark key="^" line="1481" column="39" />
+        <mark key="." line="1481" column="39" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/layout.xhtml" timestamp="1517926445265" />
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.072.sql" timestamp="1515756729300">
@@ -705,13 +705,14 @@
       <jump line="921" column="22" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1148" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="315" column="82" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="37" column="31" filename="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>getBlokWithName</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3tnZXRCbG9rV2l0aE5hbWUoInVpdGdlYnJlaWRfZ2VnZXZlbnN2b29yYmxhZCIpfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Analyse van het Uittreksel Justitiële Documentatie (UJD)</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -748,10 +749,10 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>Huisvesting</text>
+        <text>Analyse van het Uittreksel Justitiële Documentatie (UJD)</text>
       </register>
       <register name="/" type="4">
-        <text>\blockwithname</text>
+        <text>Analyse van het Uittreksel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxpcmlzOnNuZWxNZW51SXRlbSBzd2l0Y2hJZD0idWFfaHVpc3Zlc3RpbmciIHNjcm9sbElkPSJ1YV9odWlzdmVzdGluZyIgbWVudUxhYmVsPSJIdWlzdmVzdGluZyIvPgo=</text>
@@ -794,15 +795,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>\blockwithname</last-search>
+      <last-search>Analyse van het Uittreksel</last-search>
       <last-offset />
-      <last-pattern>\blockwithname</last-pattern>
+      <last-pattern>Analyse van het Uittreksel</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Infotekst</entry>
         <entry>Anders te weten:</entry>
         <entry>VELD_DEFINITIES</entry>
         <entry>Categorie criminele</entry>
@@ -822,6 +822,7 @@ VALUES
         <entry>checkboxlabel</entry>
         <entry>blockWithName</entry>
         <entry>\blockwithname</entry>
+        <entry>Analyse van het Uittreksel</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
