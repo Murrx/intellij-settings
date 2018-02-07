@@ -537,11 +537,11 @@
         <mark key="^" line="48" column="103" />
         <mark key="." line="48" column="103" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_verslaving.xhtml" timestamp="1516877849215">
-        <mark key="[" line="57" column="102" />
-        <mark key="]" line="57" column="101" />
-        <mark key="." line="57" column="101" />
-        <mark key="^" line="57" column="101" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_verslaving.xhtml" timestamp="1518010805227">
+        <mark key="[" line="167" column="16" />
+        <mark key="]" line="167" column="55" />
+        <mark key="." line="167" column="55" />
+        <mark key="^" line="167" column="55" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/doelenregistratie/DoelenRegistratieAction.java" timestamp="1511950531109">
         <mark key="'" line="1128" column="6" />
@@ -702,7 +702,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxpcmlzOnNuZWxNZW51SXRlbSBzd2l0Y2hJZD0idWFfZGVsaWN0dmVybGVkZW4iIHNjcm9sbElkPSJ1YV9kZWxpY3R2ZXJsZWRlbiIgbWVudUxhYmVsPSJEZWxpY3R2ZXJsZWRlbiIvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>taxatie_risicos.xhtml</text>
+        <text encoding="base64">LS0+</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -739,7 +739,7 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>taxatie_risicos.xhtml</text>
+        <text encoding="base64">LS0+</text>
       </register>
       <register name="/" type="4">
         <text>verslaving</text>
@@ -748,37 +748,37 @@ VALUES
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1aTppbmNsdWRlIHNyYz0iYmxva2tlbi90YXhhdGllX3Jpc2ljb3MueGh0bWwiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3tnZXRCbG9rV2l0aE5hbWUoInVpdGdlYnJlaWRfZ2VnZXZlbnN2b29yYmxhZCIpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdGRkCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgI3tnZXRCbG9rV2l0aE5hbWUoInVpdGdlYnJlaWRfZ2VnZXZlbnN2b29yYmxhZCIpfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLVRPRE86IFJvemUgYWNodGVyZ3JvbmQgdG90IGhpZXItLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdGRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLVRPRE86IFJvemUgYWNodGVncm9uZCBrbGV1ci0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>style=&quot;background: #F2DBDB;&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLVRPRE86IFJvemUgYWNodGVyZ3JvbmQgdG90IGhpZXItLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLVRPRE86IFJvemUgYWNodGVncm9uZCBrbGV1ci0tPgo=</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9pcmlzOmxheW91dD4K</text>
+      <register name="8" type="4">
+        <text>style=&quot;background: #F2DBDB;&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6bGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
