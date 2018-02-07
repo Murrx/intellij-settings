@@ -78,10 +78,11 @@
         <mark key="^" line="815" column="25" />
         <mark key="." line="815" column="25" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518000532345">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="121" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518008892439">
+        <mark key="[" line="161" column="53" />
+        <mark key="]" line="161" column="81" />
+        <mark key="." line="161" column="81" />
+        <mark key="^" line="161" column="81" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1516184216694">
         <mark key="[" line="66" column="34" />
@@ -699,7 +700,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxpcmlzOnNuZWxNZW51SXRlbSBzd2l0Y2hJZD0idWFfZGVsaWN0dmVybGVkZW4iIHNjcm9sbElkPSJ1YV9kZWxpY3R2ZXJsZWRlbiIgbWVudUxhYmVsPSJEZWxpY3R2ZXJsZWRlbiIvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Analyse van het Uittreksel Justitiële Documentatie (UJD)</text>
+        <text>taxatie_risicos.xhtml</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -736,13 +737,13 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>Analyse van het Uittreksel Justitiële Documentatie (UJD)</text>
+        <text>taxatie_risicos.xhtml</text>
       </register>
       <register name="/" type="4">
         <text>Analyse van het Uittreksel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpcmlzOnNuZWxNZW51SXRlbSBzd2l0Y2hJZD0idWFfaHVpc3Zlc3RpbmciIHNjcm9sbElkPSJ1YV9odWlzdmVzdGluZyIgbWVudUxhYmVsPSJIdWlzdmVzdGluZyIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1aTppbmNsdWRlIHNyYz0iYmxva2tlbi90YXhhdGllX3Jpc2ljb3MueGh0bWwiLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgI3tnZXRCbG9rV2l0aE5hbWUoInVpdGdlYnJlaWRfZ2VnZXZlbnN2b29yYmxhZCIpfQo=</text>
