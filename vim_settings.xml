@@ -21,12 +21,12 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" timestamp="1517999001154">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" timestamp="1518000620499">
         <mark key="'" line="37" column="31" />
-        <mark key="[" line="1481" column="26" />
-        <mark key="]" line="1481" column="39" />
-        <mark key="^" line="1481" column="39" />
-        <mark key="." line="1481" column="39" />
+        <mark key="[" line="1476" column="26" />
+        <mark key="]" line="1476" column="39" />
+        <mark key="." line="1476" column="39" />
+        <mark key="^" line="1476" column="39" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/layout.xhtml" timestamp="1517926445265" />
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.072.sql" timestamp="1515756729300">
@@ -78,12 +78,10 @@
         <mark key="^" line="815" column="25" />
         <mark key="." line="815" column="25" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1517997584495">
-        <mark key="'" line="185" column="45" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="36" column="117" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518000532345">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="121" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1516184216694">
         <mark key="[" line="66" column="34" />
@@ -420,10 +418,12 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="162" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/UitgebreidAdviesAction.java" timestamp="1517905059247">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/UitgebreidAdviesAction.java" timestamp="1518001008945">
         <mark key="'" line="274" column="51" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="77" column="41" />
+        <mark key="[" line="323" column="42" />
+        <mark key="]" line="324" column="31" />
+        <mark key="^" line="324" column="31" />
+        <mark key="." line="324" column="31" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_relatiepartner.xhtml" timestamp="1516873214821">
         <mark key="'" line="29" column="83" />
@@ -496,12 +496,6 @@
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.077.sql" timestamp="1517482685651">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/SnelInstrumentAction.java" timestamp="1517995813065">
-        <mark key="[" line="378" column="22" />
-        <mark key="]" line="378" column="36" />
-        <mark key="^" line="482" column="12" />
-        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/advies.xhtml" timestamp="1516635411474">
         <mark key="[" line="0" column="0" />
@@ -708,8 +702,8 @@
       <jump line="37" column="31" filename="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>getBlokWithName</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpcmlzOnNuZWxNZW51SXRlbSBzd2l0Y2hJZD0idWFfZGVsaWN0dmVybGVkZW4iIHNjcm9sbElkPSJ1YV9kZWxpY3R2ZXJsZWRlbiIgbWVudUxhYmVsPSJEZWxpY3R2ZXJsZWRlbiIvPgo=</text>
       </register>
       <register name="&quot;" type="4">
         <text>Analyse van het Uittreksel Justitiële Documentatie (UJD)</text>
