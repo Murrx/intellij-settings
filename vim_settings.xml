@@ -77,11 +77,11 @@
         <mark key="^" line="815" column="25" />
         <mark key="." line="815" column="25" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518101137252">
-        <mark key="'" line="34" column="47" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518102246526">
+        <mark key="'" line="190" column="55" />
         <mark key="[" line="39" column="96" />
         <mark key="]" line="39" column="124" />
-        <mark key="." line="39" column="124" />
+        <mark key="." line="190" column="73" />
         <mark key="^" line="39" column="124" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1516184216694">
@@ -102,8 +102,8 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1518091134630">
-        <mark key="'" line="427" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1518102015485">
+        <mark key="'" line="474" column="0" />
         <mark key="[" line="1152" column="0" />
         <mark key="]" line="1152" column="0" />
         <mark key="^" line="1230" column="3" />
@@ -402,11 +402,11 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1518101058651">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1518102136875">
         <mark key="'" line="84" column="0" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
         <mark key="^" line="211" column="7" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/totaalscoreFragment.xhtml" timestamp="1516198039570">
@@ -543,6 +543,9 @@
         <mark key="]" line="73" column="46" />
         <mark key="." line="86" column="33" />
         <mark key="^" line="86" column="33" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1518102050186">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelinstrument/si-textArea.xhtml" timestamp="1516010170219">
         <mark key="[" line="48" column="79" />
@@ -705,7 +708,6 @@
       <jump line="46" column="8" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
       <jump line="6" column="20" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
       <jump line="48" column="22" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
-      <jump line="444" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1219" column="21" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="374" column="20" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="921" column="22" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
@@ -732,18 +734,22 @@
       <jump line="110" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
       <jump line="156" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
-      <jump line="190" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="370" column="12" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1152" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="427" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="34" column="47" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="431" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="445" column="10" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="444" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="474" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="190" column="55" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVkU2VwYXJhdG9yIi8+Cg==</text>
+      <register name="a" type="4">
+        <text>filler,</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Verslavingsgevoeligheid</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -780,10 +786,10 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>Verslavingsgevoeligheid</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>verslaving</text>
+        <text>bottomAlign</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6cmFkaW9CdXR0b25GcmFnbWVudCB2ZWxkTmFhbT0idWFfcHJvYmxlbWVuX21pZGRlbGVuZ2VicnVpa19oZWRlbiIgdm9sZ05yPSI1MDQiIHNob3dJbmZvVGVrc3Q9InRydWUiIHJhZGlvRGlyZWN0aW9uPSJWZXJ0aWNhbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW5DbGFzc2VzPSJmaWxsZXIsYm90dG9tQWxpZ24iIGVuYWJsZUFqYXg9ImZhbHNlIiBlbmFibGVEZXNlbGVjdEJ0blJlbmRlcmxlc3M9InRydWUiIGRlc2VsZWN0aWVCdG5Cb3R0b209InRydWUiLz4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVkU2VwYXJhdG9yIi8+</text>
@@ -826,19 +832,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>verslaving</last-search>
+      <last-search>bottomAlign</last-search>
       <last-offset />
-      <last-pattern>verslaving</last-pattern>
+      <last-pattern>bottomAlign</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SMALL</entry>
-        <entry>respons</entry>
-        <entry>white !imp</entry>
-        <entry>background color</entry>
-        <entry>background-color</entry>
         <entry>rf-cp</entry>
         <entry>rf-tgp</entry>
         <entry>checkbox</entry>
@@ -854,6 +855,11 @@ VALUES
         <entry>.boldlabel</entry>
         <entry>.boldLabel</entry>
         <entry>verslaving</entry>
+        <entry>.filler</entry>
+        <entry>.bottom</entry>
+        <entry>filler</entry>
+        <entry>bottomAllign</entry>
+        <entry>bottomAlign</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
