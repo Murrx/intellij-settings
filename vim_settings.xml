@@ -160,10 +160,10 @@
         <mark key="^" line="57" column="7" />
         <mark key="." line="57" column="7" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" timestamp="1518074323818">
-        <mark key="'" line="1946" column="21" />
-        <mark key="[" line="1970" column="6" />
-        <mark key="]" line="1972" column="61" />
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" timestamp="1518081826609">
+        <mark key="'" line="2274" column="13" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="29" column="0" />
         <mark key="." line="2325" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/login.xhtml" timestamp="1517001337739">
@@ -198,12 +198,12 @@
         <mark key="." line="56" column="24" />
         <mark key="^" line="70" column="17" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" timestamp="1518077425541">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="100" column="1" />
-        <mark key="]" line="99" column="37" />
-        <mark key="^" line="99" column="37" />
-        <mark key="." line="99" column="37" />
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" timestamp="1518082294560">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_scil.xhtml" timestamp="1511523379160">
         <mark key="[" line="15" column="46" />
@@ -724,13 +724,18 @@
       <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" />
       <jump line="42" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
       <jump line="83" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="2274" column="13" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
+      <jump line="11" column="11" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
+      <jump line="0" column="38" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
+      <jump line="73" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>ua_verslaving_gezondsproblemen</text>
+        <text encoding="base64">LS0gU2NyaXB0IGZvciBjaGFuZ2VnIGluIFJOSVJJU1NDLTE3NzcKCi0tIFZyYWFnIDEKVVBEQVRFIFZFTERfREVGSU5JVElFUwpTRVQgT01TQ0hSSUpWSU5HICAgICA9ICdDbGnDq250IGhlZWZ0IG9wIGRpdCBtb21lbnQgb2YgaW4gaGV0IGFmZ2Vsb3BlbiBqYWFyIHByb2JsZW1lbnQgbWV0IG1pZGRlbGVuZ2VicnVpayAoYWxjb2hvbCBlbi9vZiBkcnVncykgb2YgYW5kZXIgdmVyc2xhdmluZ3NnZXZvZWxpZyBnZWRyYWcgKGdva2tlbi9nYW1lbi9ldGMuKT8nCiAgLCBXQUFSREVfQkVSRUlLX0lEID0gKFNFTEVDVCBpZAogICAgICAgICAgICAgICAgICAgICAgICBGUk9NIHdhYXJkZV9iZXJlaWtlbgogICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBuYWFtID0gJ0phTmVlT25iZWtlbmQnKQpXSEVSRSBOQUFNID0gJ3VhX3Byb2JsZW1lbl9taWRkZWxlbmdlYnJ1aWtfaGVkZW4nCi8KCi0tIFZyYWFnIDEuNQpNRVJHRSBJTlRPIElORk9URUtTVEVOIElUSwpVU0lORwogIChTRUxFQ1QgJ1UxMjAyJyBBUyBDT0RFCiAgIEZST00gRFVBTCkgRApPTiAoRC5DT0RFID0gSVRLLkNPREUpCldIRU4gTUFUQ0hFRCBUSEVOClVQREFURSBTRVQKICBJVEsuT01TQ0hSSUpWSU5HID0gJ0luZm90ZWtzdCBVMTIwMjogTWlkZGVsZW5nZWJydWlrIChhbGNvaG9sIGVuL29mIGRydWdzKSBvZiBhbmRlciAuLi4nCldIRU4gTk9UIE1BVENIRUQgVEhFTgpJTlNFUlQKKFZFUlNJT04KICAsIERBVFVNX1RJSkRfTEFBVFNUX0dFV0lKWklHRAogICwgREFUVU1fVElKRF9UT0VHRVZPRUdECiAgLCBUT0VHRVZPRUdEX0RPT1JfT1JHQU5JU0FUSUUKICAsIENPREUKICAsIE9NU0NIUklKVklORwogICwgQUFOVkFOR1NEQVRVTSkKVkFMVUVTCiAgKDAKICAgICwgc3lzdGltZXN0YW1wCiAgICAsIHN5c3RpbWVzdGFtcAogICAgLCAnSVJJU1VBJwogICAgLCAnVTEyMDInCiAgICAsICdJbmZvdGVrc3QgVTEyMDI6IE1pZGRlbGVuZ2VicnVpayAoYWxjb2hvbCBlbi9vZiBkcnVncykgb2YgYW5kZXIgLi4uJwogICAgLCBUT19EQVRFKCcwMS0wMS0yMDE3JywgJ2RkLW1tLXl5eXknKSkKLwoKTUVSR0UgSU5UTyBWRUxEX0RFRklOSVRJRVMgVkRFClVTSU5HCiAgKFNFTEVDVCAndWFfbWlkZGVsZW5nZWJydWlrX2NlbnRyYWFsJyBBUyBOQUFNCiAgIEZST00gRFVBTCkgRApPTiAoVkRFLk5BQU0gPSBELk5BQU0pCldIRU4gTUFUQ0hFRCBUSEVOClVQREFURSBTRVQKICBWREUuT01TQ0hSSUpWSU5HID0gJ01pZGRlbGVuZ2VicnVpayAoYWxjb2hvbCBlbi9vZiBkcnVncykgb2YgYW5kZXIgdmVyc2xhdmluZ3NnZXZvZWxpZyBnZWRyYWcgc3RhYXQgY2VudHJhYWwgaW4gaGV0IGxldmVuIHZhbiBkZSBjbGnDq250PycKICAsIFZERS5JVEVLU1RfSUQgID0gKFNFTEVDVCBJRAogICAgICAgICAgICAgICAgICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgICAgICAgICAgICAgICAgV0hFUkUgQ09ERSA9ICdVMTIwMicpCldIRU4gTk9UIE1BVENIRUQgVEhFTgpJTlNFUlQKKFZFUlNJT04KICAsIERBVFVNX1RJSkRfTEFBVFNUX0dFV0lKWklHRAogICwgREFUVU1fVElKRF9UT0VHRVZPRUdECiAgLCBUT0VHRVZPRUdEX0RPT1JfT1JHQU5JU0FUSUUKICAsIE5BQU0KICAsIE9NU0NIUklKVklORwogICwgV0FBUkRFX0JFUkVJS19JRAogICwgSVRFS1NUX0lEKQpWQUxVRVMKICAoMAogICAgLCBzeXN0aW1lc3RhbXAKICAgICwgc3lzdGltZXN0YW1wCiAgICAsICdJUklTVUEnCiAgICAsICd1YV9taWRkZWxlbmdlYnJ1aWtfY2VudHJhYWwnCiAgICAsICdNaWRkZWxlbmdlYnJ1aWsgKGFsY29ob2wgZW4vb2YgZHJ1Z3MpIG9mIGFuZGVyIHZlcnNsYXZpbmdzZ2V2b2VsaWcgZ2VkcmFnIHN0YWF0IGNlbnRyYWFsIGluIGhldCBsZXZlbiB2YW4gZGUgY2xpw6tudD8nCiAgICAsIChTRUxFQ1QgaWQKICAgICAgIEZST00gd2FhcmRlX2JlcmVpa2VuCiAgICAgICBXSEVSRSBuYWFtID0gJ0phTmVlT25iZWtlbmQnKQogICAgLCAoU0VMRUNUIElECiAgICAgICBGUk9NIElORk9URUtTVEVOCiAgICAgICBXSEVSRSBDT0RFID0gJ1UxMjAyJykpOwoKCgovCgotLSBWcmFhZyAyClVQREFURSBWRUxEX0RFRklOSVRJRVMKU0VUIE9NU0NIUklKVklORyA9ICdWZXJ3ZXZlbmhlaWQgbWlkZGVsZW5nZWJydWlrIG9mIGFuZGVyIHZlcnNsYXZpbmdzZ2V2b2VsaWcgZ2VkcmFnIG1ldCBkZWxpY3RnZWRyYWcgaW4gaGV0IGxhYXRzdGUgamFhIG9mIHRlbiBhYW56aWVuIHZhbiBoZXQgaW5kZXhkZWxpY3QnCldIRVJFIE5BQU0gPSAndWFfaW5kZXhkZWxpY3RfYWZnZWxvcGVuX2phYXInCi8KCi0tIFZyYWFnIDMKVVBEQVRFIFZFTERfREVGSU5JVElFUwpTRVQgT01TQ0hSSUpWSU5HID0gJ0RlIGNsacOrbnQgdmluZHQgemVsZiBkYXQgemlqbiBvZiBoYWFyIHByb2JsZW1lbiBtZXQgbWlkZGVsZW5nZWJydWlrIG9mIGFuZGVyZSB2ZXJzbGF2aW5nZW4gdGUgbWFrZW4gaGViYmVuIG1ldCB6aWpuIG9mIGhhYXIgZGVsaWN0Z2VkcmFnJwpXSEVSRSBOQUFNID0gJ3VhX2RlbGljdGdlZHJhZ19taWRkZWxlbmdlYnJ1aWsnCi8KCi0tIFZyYWFnIDQKVVBEQVRFIFZFTERfREVGSU5JVElFUwpTRVQgT01TQ0hSSUpWSU5HID0gJ0luIGhldCB2ZXJsZWRlbiB3YXJlbiBlciBwcm9ibGVtZW4gbWV0IGFsY29ob2wgZW4vb2YgZHJ1Z3MgZW4vb2YgYW5kZXIgdmVyc2xhdmluZ3NnZXZvZWxpZyBnZWRyYWc/JwpXSEVSRSBOQUFNID0gJ3VhX3Byb2JsZW1lbl9taWRkZWxlbmdlYnJ1aWtfdmVybGVkZW4nCi8KCi0tIFZyYWFnIDUKVVBEQVRFIFZFTERfREVGSU5JVElFUwpTRVQgT01TQ0hSSUpWSU5HID0gJ0hldCBwcmltYWlyZSBtaWRkZWwgb2YgaGV0IGJlbGFuZ3JpamtzdGUgdmVyc2xhdmluZ3NnZXZvZWxpZ2UgZ2VkcmFnIGRhdCBpbiBoZXQgYWZnZWxvcGVuIGphYXIgcHJvYmxlbWVuIGdlZWZ0JwpXSEVSRSBOQUFNID0gJ3VhX3ByaW1haXJlX21pZGRlbCcKLwotLS0tIENyZWF0ZSBzb21lIHNwYWNlIGJldHdlZW4gdm9sZ251bW1lcnMgc28gd2FhcmRlYmVyZWlrZW4ga2FuIGJlIG1vdmVkClVQREFURSBXQUFSREVfREVGSU5JVElFUwpTRVQgVk9MR05VTU1FUiA9IFZPTEdOVU1NRVIgKiA1CldIRVJFIFdBQVJERV9CRVJFSUtfSUQgPSAoU0VMRUNUIFZFTERfREVGSU5JVElFUy5XQUFSREVfQkVSRUlLX0lECiAgICAgICAgICAgICAgICAgICAgICAgICAgRlJPTSBWRUxEX0RFRklOSVRJRVMKICAgICAgICAgICAgICAgICAgICAgICAgICBXSEVSRSBOQUFNID0gJ3VhX3ByaW1haXJlX21pZGRlbCcpCi8KVVBEQVRFIFdBQVJERV9ERUZJTklUSUVTClNFVCBWT0xHTlVNTUVSID0gNTMKV0hFUkUgQ09ERSA9ICd1YV9taWRkZWxfZ29ra2VuJwovCgotLSBWcmFhZyA2ClVQREFURSBWRUxEX0RFRklOSVRJRVMKU0VUIE9NU0NIUklKVklORyA9ICdMZWVmdGlqZCBlZXJzdGUgZ2VicnVpayB2YW4gaGV0IHByaW1haXJlIG1pZGRlbCcKV0hFUkUgTkFBTSA9ICd1YV92ZXJzbGF2aW5nX2xlZWZ0aWpkX2VlcnN0ZV9nZWJydWlrJwovCgotLSBWcmFhZyA3ClVQREFURSBWRUxEX0RFRklOSVRJRVMKU0VUIE9NU0NIUklKVklORyA9ICdBbmRlcmUgbWlkZGVsZW4gb2YgdmVyc2xhdmluZ3NnZXZvZWxpZ2UgZ2VkcmFnaW5nZW4gZGllIGluIGhldCBhZmdlbG9wZW4gamFhciBwcm9ibGVtZW4gZ2V2ZW4nCldIRVJFIE5BQU0gPSAndWFfYW5kZXJfbWlkZGVsJwovCi0tLS0gQ3JlYXRlIHNvbWUgc3BhY2UgYmV0d2VlbiB2b2xnbnVtbWVycyBzbyB3YWFyZGViZXJlaWtlbiBrYW4gYmUgbW92ZWQKVVBEQVRFIFdBQVJERV9ERUZJTklUSUVTClNFVCBWT0xHTlVNTUVSID0gVk9MR05VTU1FUiAqIDUKV0hFUkUgV0FBUkRFX0JFUkVJS19JRCA9IChTRUxFQ1QgVkVMRF9ERUZJTklUSUVTLldBQVJERV9CRVJFSUtfSUQKICAgICAgICAgICAgICAgICAgICAgICAgICBGUk9NIFZFTERfREVGSU5JVElFUwogICAgICAgICAgICAgICAgICAgICAgICAgIFdIRVJFIE5BQU0gPSAndWFfYW5kZXJfbWlkZGVsJykKLwpVUERBVEUgV0FBUkRFX0RFRklOSVRJRVMKU0VUIFZPTEdOVU1NRVIgPSA1MwpXSEVSRSBDT0RFID0gJ3VhX19hbmRlcl9taWRkZWxfZ29ra2VuJwovCgotLSBWcmFhZyA4ClVQREFURSBWRUxEX0RFRklOSVRJRVMKU0VUIE9NU0NIUklKVklORyA9ICdGcmVxdWVudGllIGdlYnJ1aWsgaW4gaGV0IGFmZ2Vsb3BlbiBqYWFyJwpXSEVSRSBOQUFNID0gJ3VhX3ZlcnNsYXZpbmdfZnJlcXVlbnRpZV9nZWJydWlrJwovCgotLSBWcmFhZyA5ClVQREFURSBWRUxEX0RFRklOSVRJRVMKU0VUIE9NU0NIUklKVklORyA9ICdXaWp6ZSB2YW4gZ2VicnVpayBpbiBoZXQgYWZnZWxvcGVuIGphYXInCldIRVJFIE5BQU0gPSAndWFfdmVyc2xhdmluZ193aWplX3Zhbl9nZWJydWlrJwovCgotLSBWcmFhZyAxMApVUERBVEUgVkVMRF9ERUZJTklUSUVTClNFVCBPTVNDSFJJSlZJTkcgPSAnRXJuc3QgdmFuIGhldCBtaWRkZWxlbmdlYnJ1aWsgb2YgdmVyc2xhdmluZ3NnZXZvZWxpZyBnZWRyYWcgaW4gaGV0IGFmZ2Vsb3BlbiBqYWFyJwpXSEVSRSBOQUFNID0gJ3VhX21pZGRlbGVuZ2VicnVpa19lcm5zdCcKLwoKLS0gVnJhYWcgMTEKVVBEQVRFIFZFTERfREVGSU5JVElFUwpTRVQKICBPTVNDSFJJSlZJTkcgPSAnQ2xpw6tudCBoZWVmdCBpbiBoZXQgYWZnZWxvcGVuIGphYXIgw6nDqW4gb2YgbWVlciBwZXJpb2RlbiAodmFuIGVlbiBoYWxmIGphYXIgb2YgbWVlcikgZ2VoYWQgZGF0IGVyIHdlbCBwcm9ibGVtZW4gd2FyZW4gbWV0IG1pZGRlbGVuZ2VicnVpayBvZiBtZXQgYW5kZXIgdmVyc2xhdmluZ3NnZXZvZWxpZyBnZWRyYWcgbWFhciB3YWFyaW4gaGlqIG9mIHppaiBuaWV0IG1ldCBkZSBwb2xpdGllIGluIGFhbnJha2luZyBrd2FtJwpXSEVSRSBOQUFNID0gJ3VhX2dlYnJ1aWtfYWZnZWxvcGVuX2phYXInCi8KCi0tIFZyYWFnIDEyClVQREFURSBWRUxEX0RFRklOSVRJRVMKU0VUIE9NU0NIUklKVklORyA9ICdNaWRkZWxlbiBvZiBhbmRlciB2ZXJzbGF2aW5nc2dldm9lbGlnIGdlZHJhZyBpbiBoZXQgdmVybGVkZW4nCldIRVJFIE5BQU0gPSAndWFfYW5kZXJfbWlkZGVsX3ZlcmxlZGVuJwovCgotLSBWcmFhZyAxMwpVUERBVEUgVkVMRF9ERUZJTklUSUVTClNFVCBPTVNDSFJJSlZJTkcgPSAnRnJlcXVlbnRpZSBnZWJydWlrIGluIGhldCB2ZXJsZWRlbicKV0hFUkUgTkFBTSA9ICd1YV92ZXJzbGF2aW5nX2ZyZXF1ZW50aWVfZ2VicnVpa192ZXJsZWRlbicKLwoKLS0gVnJhYWcgMTQKVVBEQVRFIFZFTERfREVGSU5JVElFUwpTRVQgT01TQ0hSSUpWSU5HID0gJ1dpanplIHZhbiBnZWJydWlrIGluIGhldCB2ZXJsZWRlbicKV0hFUkUgTkFBTSA9ICd1YV92ZXJzbGF2aW5nX3dpamVfdmFuX2dlYnJ1aWtfdmVybGVkZW4nCi8KCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogemVsZmRlPy0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -767,61 +772,60 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>ua_verslaving_methadonprog</text>
+        <text>Infotekst U9071: Blok delictverleden</text>
       </register>
       <register name="/" type="4">
-        <text>\cwaarde_bereik</text>
+        <text>\cinfoteksten</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogemVsZmRlPy0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogemVsZmRlPy0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogemVsZmRlPy0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogYmxpamZ0IGRlemUgdnJhYWcgaGV0IHplbGZkZT8tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogbGFiZWwgdmVyYW5kZXJlbi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogbGFiZWwgdmVyYW5kZXJlbi0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogbGFiZWwgYWFucGFzc2VuLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVG9kbzogSXMgaGllcmFhbiBuaWV0cyB2ZXJhbmRlcmQ/LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVG9kbzogbGFiZWwgYWFucGFzc2VuLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVE9ETzogbGFiZWwgYWFucGFzc2VuLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\cwaarde_bereik</last-search>
+      <last-search>\cinfoteksten</last-search>
       <last-offset />
-      <last-pattern>\cwaarde_bereik</last-pattern>
+      <last-pattern>\cinfoteksten</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\/</entry>
         <entry>&quot;\/</entry>
         <entry>6</entry>
         <entry>gevolgen_anders</entry>
@@ -841,6 +845,7 @@ VALUES
         <entry>verslaving</entry>
         <entry>Vraag 6</entry>
         <entry>\cwaarde_bereik</entry>
+        <entry>\cinfoteksten</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
