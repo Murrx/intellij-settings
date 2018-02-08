@@ -77,8 +77,8 @@
         <mark key="^" line="815" column="25" />
         <mark key="." line="815" column="25" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518013217101">
-        <mark key="'" line="159" column="58" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518087002311">
+        <mark key="'" line="190" column="36" />
         <mark key="[" line="167" column="62" />
         <mark key="]" line="167" column="96" />
         <mark key="." line="167" column="96" />
@@ -102,12 +102,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1517929695604">
-        <mark key="'" line="315" column="82" />
-        <mark key="[" line="1238" column="25" />
-        <mark key="]" line="1238" column="25" />
-        <mark key="." line="1238" column="25" />
-        <mark key="^" line="1238" column="3" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1518087094242">
+        <mark key="'" line="370" column="12" />
+        <mark key="[" line="1152" column="0" />
+        <mark key="]" line="1152" column="0" />
+        <mark key="^" line="1230" column="3" />
+        <mark key="." line="1152" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/stam/Regio.java" timestamp="1509631826835">
         <mark key="'" line="75" column="6" />
@@ -402,12 +402,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1518077734917">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1518087128214">
         <mark key="'" line="83" column="0" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="^" line="130" column="48" />
-        <mark key="." line="179" column="0" />
+        <mark key="[" line="9" column="90" />
+        <mark key="]" line="9" column="75" />
+        <mark key="^" line="9" column="75" />
+        <mark key="." line="9" column="75" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/totaalscoreFragment.xhtml" timestamp="1516198039570">
         <mark key="'" line="0" column="0" />
@@ -731,6 +731,9 @@
       <jump line="122" column="22" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
       <jump line="110" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
+      <jump line="156" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="190" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="370" column="12" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -739,159 +742,7 @@
                         WHERE naam = 'JaNeeOnbekend')</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-- Script for changeg in RNIRISSC-1777
-
--- Vraag 1
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING     = 'Cliënt heeft op dit moment of in het afgelopen jaar problement met middelengebruik (alcohol en/of drugs) of ander verslavingsgevoelig gedrag (gokken/gamen/etc.)?'
-  , WAARDE_BEREIK_ID = (SELECT id
-                        FROM waarde_bereiken
-                        WHERE naam = 'JaNeeOnbekend')
-WHERE NAAM = 'ua_problemen_middelengebruik_heden'
-/
-
--- Vraag 1.5
-MERGE INTO INFOTEKSTEN ITK
-USING
-  (SELECT 'U1202' AS CODE
-   FROM DUAL) D
-ON (D.CODE = ITK.CODE)
-WHEN MATCHED THEN
-UPDATE SET
-  ITK.OMSCHRIJVING = 'Infotekst U1202: Middelengebruik (alcohol en/of drugs) of ander ...'
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , OMSCHRIJVING
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'U1202'
-    , 'Infotekst U1202: Middelengebruik (alcohol en/of drugs) of ander ...'
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
-
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_middelengebruik_centraal' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Middelengebruik (alcohol en/of drugs) of ander verslavingsgevoelig gedrag staat centraal in het leven van de cliënt?'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U1202')
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_middelengebruik_centraal'
-    , 'Middelengebruik (alcohol en/of drugs) of ander verslavingsgevoelig gedrag staat centraal in het leven van de cliënt?'
-    , (SELECT id
-       FROM waarde_bereiken
-       WHERE naam = 'JaNeeOnbekend')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U1202'));
-/
-
--- Vraag 2
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING = 'Verwevenheid middelengebruik of ander verslavingsgevoelig gedrag met delictgedrag in het laatste jaa of ten aanzien van het indexdelict'
-WHERE NAAM = 'ua_indexdelict_afgelopen_jaar'
-/
-
--- Vraag 3
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING = 'De cliënt vindt zelf dat zijn of haar problemen met middelengebruik of andere verslavingen te maken hebben met zijn of haar delictgedrag'
-WHERE NAAM = 'ua_delictgedrag_middelengebruik'
-/
-
--- Vraag 4
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING = 'In het verleden waren er problemen met alcohol en/of drugs en/of ander verslavingsgevoelig gedrag?'
-WHERE NAAM = 'ua_problemen_middelengebruik_verleden'
-/
-
--- Vraag 5
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING = 'Het primaire middel of het belangrijkste verslavingsgevoelige gedrag dat in het afgelopen jaar problemen geeft'
-WHERE NAAM = 'ua_primaire_middel'
-/
-
--- Vraag 6
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING = 'Leeftijd eerste gebruik van het primaire middel'
-WHERE NAAM = 'ua_verslaving_leeftijd_eerste_gebruik'
-/
-
--- Vraag 7
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING = 'Andere middelen of verslavingsgevoelige gedragingen die in het afgelopen jaar problemen geven'
-WHERE NAAM = 'ua_ander_middel'
-/
-
--- Vraag 8
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING = 'Frequentie gebruik in het afgelopen jaar'
-WHERE NAAM = 'ua_verslaving_frequentie_gebruik'
-/
-
--- Vraag 9
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING = 'Wijze van gebruik in het afgelopen jaar'
-WHERE NAAM = 'ua_verslaving_wije_van_gebruik'
-/
-
--- Vraag 10
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING = 'Ernst van het middelengebruik of verslavingsgevoelig gedrag in het afgelopen jaar'
-WHERE NAAM = 'ua_middelengebruik_ernst'
-/
-
--- Vraag 11
-UPDATE VELD_DEFINITIES
-SET
-  OMSCHRIJVING = 'Cliënt heeft in het afgelopen jaar één of meer perioden (van een half jaar of meer) gehad dat er wel problemen waren met middelengebruik of met ander verslavingsgevoelig gedrag maar waarin hij of zij niet met de politie in aanraking kwam'
-WHERE NAAM = 'ua_gebruik_afgelopen_jaar'
-/
-
--- Vraag 12
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING = 'Middelen of ander verslavingsgevoelig gedrag in het verleden'
-WHERE NAAM = 'ua_ander_middel_verleden'
-/
-
--- Vraag 13
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING = 'Frequentie gebruik in het verleden'
-WHERE NAAM = 'ua_verslaving_frequentie_gebruik_verleden'
-/
-
--- Vraag 14
-UPDATE VELD_DEFINITIES
-SET OMSCHRIJVING = 'Wijze van gebruik in het verleden'
-WHERE NAAM = 'ua_verslaving_wije_van_gebruik_verleden'
-/</text>
+        <text>bodyClass</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -928,16 +779,16 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>bodyClass</text>
       </register>
       <register name="/" type="4">
-        <text>\cinfoteksten</text>
+        <text>removeVer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogemVsZmRlPy0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LS0tLSBDcmVhdGUgc29tZSBzcGFjZSBiZXR3ZWVuIHZvbGdudW1tZXJzIHNvIHdhYXJkZWJlcmVpa2VuIGthbiBiZSBtb3ZlZApVUERBVEUgV0FBUkRFX0RFRklOSVRJRVMKU0VUIFZPTEdOVU1NRVIgPSBWT0xHTlVNTUVSICogNQpXSEVSRSBXQUFSREVfQkVSRUlLX0lEID0gKFNFTEVDVCBWRUxEX0RFRklOSVRJRVMuV0FBUkRFX0JFUkVJS19JRAogICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gVkVMRF9ERUZJTklUSUVTCiAgICAgICAgICAgICAgICAgICAgICAgICAgV0hFUkUgTkFBTSA9ICd1YV9hbmRlcl9taWRkZWwnKQovClVQREFURSBXQUFSREVfREVGSU5JVElFUwpTRVQgVk9MR05VTU1FUiA9IDUzCldIRVJFIENPREUgPSAndWFfX2FuZGVyX21pZGRlbF9nb2trZW4nCi8K</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
@@ -946,6 +797,15 @@ VALUES
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">LnJlbW92ZVZlcnNsYXZpbmdTZXBlcmF0b3JzIC5wcm9wZXJ0eVBhbmVsIC5wcm9wZXJ0eVJvdzpudGgtY2hpbGQoMSkgPiB0ZCwKLnJlbW92ZVZlcnNsYXZpbmdTZXBlcmF0b3JzIC5wcm9wZXJ0eVBhbmVsIC5wcm9wZXJ0eVJvdzpudGgtY2hpbGQoMikgPiB0ZCwKLnJlbW92ZVZlcnNsYXZpbmdTZXBlcmF0b3JzIC5wcm9wZXJ0eVBhbmVsIC5wcm9wZXJ0eVJvdzpudGgtY2hpbGQoMykgPiB0ZCwKLnJlbW92ZVZlcnNsYXZpbmdTZXBlcmF0b3JzIC5wcm9wZXJ0eVBhbmVsIC5wcm9wZXJ0eVJvdzpudGgtY2hpbGQoMTQpID4gdGQsCi5yZW1vdmVWZXJzbGF2aW5nU2VwZXJhdG9ycyAucHJvcGVydHlQYW5lbCAucHJvcGVydHlSb3c6bnRoLWNoaWxkKDE1KSA+IHRkIHsKICAgIGJvcmRlcjogbm9uZTsKfQ==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">LS0tLSBDcmVhdGUgc29tZSBzcGFjZSBiZXR3ZWVuIHZvbGdudW1tZXJzIHNvIHdhYXJkZWJlcmVpa2VuIGthbiBiZSBtb3ZlZApVUERBVEUgV0FBUkRFX0RFRklOSVRJRVMKU0VUIFZPTEdOVU1NRVIgPSBWT0xHTlVNTUVSICogNQpXSEVSRSBXQUFSREVfQkVSRUlLX0lEID0gKFNFTEVDVCBWRUxEX0RFRklOSVRJRVMuV0FBUkRFX0JFUkVJS19JRAogICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gVkVMRF9ERUZJTklUSUVTCiAgICAgICAgICAgICAgICAgICAgICAgICAgV0hFUkUgTkFBTSA9ICd1YV9hbmRlcl9taWRkZWwnKQovClVQREFURSBXQUFSREVfREVGSU5JVElFUwpTRVQgVk9MR05VTU1FUiA9IDUzCldIRVJFIENPREUgPSAndWFfX2FuZGVyX21pZGRlbF9nb2trZW4nCi8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>---- Create some space between volgnummers so waardebereiken kan be moved
 UPDATE WAARDE_DEFINITIES
 SET VOLGNUMMER = VOLGNUMMER * 5
@@ -957,15 +817,6 @@ UPDATE WAARDE_DEFINITIES
 SET VOLGNUMMER = 53
 WHERE CODE = 'ua_middel_gokken'
 /</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -984,16 +835,14 @@ WHERE CODE = 'ua_middel_gokken'
       </register>
     </registers>
     <search>
-      <last-search>\cinfoteksten</last-search>
+      <last-search>removeVer</last-search>
       <last-offset />
-      <last-pattern>\cinfoteksten</last-pattern>
+      <last-pattern>removeVer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;\/</entry>
-        <entry>6</entry>
         <entry>gevolgen_anders</entry>
         <entry>TEXT</entry>
         <entry>SMALL</entry>
@@ -1012,6 +861,8 @@ WHERE CODE = 'ua_middel_gokken'
         <entry>Vraag 6</entry>
         <entry>\cwaarde_bereik</entry>
         <entry>\cinfoteksten</entry>
+        <entry>versl</entry>
+        <entry>removeVer</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
@@ -1022,8 +873,8 @@ WHERE CODE = 'ua_middel_gokken'
         <entry>q:q</entry>
         <entry>fw</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>q</entry>
         <entry>f</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
