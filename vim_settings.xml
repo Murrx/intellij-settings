@@ -198,12 +198,12 @@
         <mark key="." line="56" column="24" />
         <mark key="^" line="70" column="17" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" timestamp="1518076482660">
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" timestamp="1518077425541">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="100" column="1" />
+        <mark key="]" line="99" column="37" />
+        <mark key="^" line="99" column="37" />
+        <mark key="." line="99" column="37" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_scil.xhtml" timestamp="1511523379160">
         <mark key="[" line="15" column="46" />
@@ -402,12 +402,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1518076465580">
-        <mark key="'" line="193" column="61" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="25" column="86" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1518077734917">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="^" line="130" column="48" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/totaalscoreFragment.xhtml" timestamp="1516198039570">
         <mark key="'" line="0" column="0" />
@@ -644,12 +644,12 @@
         <mark key="." line="81" column="57" />
         <mark key="^" line="76" column="70" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" timestamp="1518076063424">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" timestamp="1518077724837">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="14" column="60" />
-        <mark key="." line="14" column="60" />
-        <mark key="^" line="14" column="60" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="39" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.069.sql" timestamp="1511179735869">
         <mark key="'" line="0" column="0" />
@@ -723,17 +723,14 @@
       <jump line="1946" column="21" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
       <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" />
       <jump line="42" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
+      <jump line="83" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>UPDATE WAARDE_DEFINITIES
-SET VOLGNUMMER = VOLGNUMMER * 5
-WHERE WAARDE_BEREIK_ID = (SELECT VELD_DEFINITIES.WAARDE_BEREIK_ID
-                          FROM VELD_DEFINITIES
-                          WHERE NAAM = 'ua_primaire_middel');</text>
+        <text>ua_verslaving_gezondsproblemen</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVE9ETzogTGFiZWwgYWFucGFzc2VuLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogemVsZmRlPy0tPgo=</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -770,7 +767,7 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>ua_indexdelict_afgelopen_jaar</text>
+        <text>ua_verslaving_methadonprog</text>
       </register>
       <register name="/" type="4">
         <text>\cwaarde_bereik</text>
@@ -779,37 +776,37 @@ VALUES
         <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogemVsZmRlPy0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVE9ETzogTGFiZWwgYWFucGFzc2VuLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogemVsZmRlPy0tPgo=</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6cmFkaW9XaXRoQ3VzdG9tRnJhZ21lbnQgY29kZT0idWFfbWlkZGVsX2dva2tlbiIgYm92ZW5saWdnZW5kZU5hYW09InVhX3ByaW1haXJlX21pZGRlbCIgdm9sZ05yPSI1MDUiIGVuYWJsZUFqYXg9ImZhbHNlIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogemVsZmRlPy0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVE9ETzogV2QgdmVycGxhYXRzZW4tLT4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogYmxpamZ0IGRlemUgdnJhYWcgaGV0IHplbGZkZT8tLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVE9ETzogTGFiZWwgYWFucGFzc2VuLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogbGFiZWwgdmVyYW5kZXJlbi0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVE9ETzogTGFiZWwgYWFucGFzc2VuLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogbGFiZWwgdmVyYW5kZXJlbi0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogbGFiZWwgYWFucGFzc2VuLS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZQo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tVG9kbzogSXMgaGllcmFhbiBuaWV0cyB2ZXJhbmRlcmQ/LS0+Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVE9ETzogTGFiZWwgYWFucGFzc2VuLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tVG9kbzogbGFiZWwgYWFucGFzc2VuLS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVnJhYWcgNC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tVE9ETzogbGFiZWwgYWFucGFzc2VuLS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
