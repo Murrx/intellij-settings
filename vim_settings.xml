@@ -102,8 +102,8 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1518087094242">
-        <mark key="'" line="370" column="12" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1518091134630">
+        <mark key="'" line="427" column="0" />
         <mark key="[" line="1152" column="0" />
         <mark key="]" line="1152" column="0" />
         <mark key="^" line="1230" column="3" />
@@ -142,9 +142,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1517932553112">
-        <mark key="[" line="38" column="55" />
-        <mark key="]" line="38" column="58" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1518091248554">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="38" />
         <mark key="." line="38" column="58" />
         <mark key="^" line="38" column="58" />
       </file>
@@ -198,10 +198,10 @@
         <mark key="." line="56" column="24" />
         <mark key="^" line="70" column="17" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" timestamp="1518085435326">
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" timestamp="1518091533095">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="11" />
+        <mark key="[" line="47" column="11" />
+        <mark key="]" line="47" column="37" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
@@ -402,12 +402,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1518087128214">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="9" column="90" />
-        <mark key="]" line="9" column="75" />
-        <mark key="^" line="9" column="75" />
-        <mark key="." line="9" column="75" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1518093456236">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
+        <mark key="^" line="216" column="7" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/totaalscoreFragment.xhtml" timestamp="1516198039570">
         <mark key="'" line="0" column="0" />
@@ -734,15 +734,15 @@
       <jump line="156" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="190" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="370" column="12" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="1152" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="427" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>SELECT id
-                        FROM waarde_bereiken
-                        WHERE naam = 'JaNeeOnbekend')</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVkU2VwYXJhdG9yIi8+Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>bodyClass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyZWRTZXBhcmF0b3IiLz4K</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -779,16 +779,16 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>bodyClass</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>removeVer</text>
+        <text>.boldLabel</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogemVsZmRlPy0tPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6cmFkaW9CdXR0b25GcmFnbWVudCB2ZWxkTmFhbT0idWFfcHJvYmxlbWVuX21pZGRlbGVuZ2VicnVpa19oZWRlbiIgdm9sZ05yPSI1MDQiIHNob3dJbmZvVGVrc3Q9InRydWUiIHJhZGlvRGlyZWN0aW9uPSJWZXJ0aWNhbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW5DbGFzc2VzPSJmaWxsZXIsYm90dG9tQWxpZ24iIGVuYWJsZUFqYXg9ImZhbHNlIiBlbmFibGVEZXNlbGVjdEJ0blJlbmRlcmxlc3M9InRydWUiIGRlc2VsZWN0aWVCdG5Cb3R0b209InRydWUiLz4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVkU2VwYXJhdG9yIi8+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyZWRTZXBhcmF0b3IiLz4K</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
@@ -796,36 +796,26 @@ VALUES
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LnJlbW92ZVZlcnNsYXZpbmdTZXBlcmF0b3JzIC5wcm9wZXJ0eVBhbmVsIC5wcm9wZXJ0eVJvdzpudGgtY2hpbGQoMSkgPiB0ZCwKLnJlbW92ZVZlcnNsYXZpbmdTZXBlcmF0b3JzIC5wcm9wZXJ0eVBhbmVsIC5wcm9wZXJ0eVJvdzpudGgtY2hpbGQoMikgPiB0ZCwKLnJlbW92ZVZlcnNsYXZpbmdTZXBlcmF0b3JzIC5wcm9wZXJ0eVBhbmVsIC5wcm9wZXJ0eVJvdzpudGgtY2hpbGQoMykgPiB0ZCwKLnJlbW92ZVZlcnNsYXZpbmdTZXBlcmF0b3JzIC5wcm9wZXJ0eVBhbmVsIC5wcm9wZXJ0eVJvdzpudGgtY2hpbGQoMTQpID4gdGQsCi5yZW1vdmVWZXJzbGF2aW5nU2VwZXJhdG9ycyAucHJvcGVydHlQYW5lbCAucHJvcGVydHlSb3c6bnRoLWNoaWxkKDE1KSA+IHRkIHsKICAgIGJvcmRlcjogbm9uZTsKfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8L2g6cGFuZWxHcm91cD4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LS0tLSBDcmVhdGUgc29tZSBzcGFjZSBiZXR3ZWVuIHZvbGdudW1tZXJzIHNvIHdhYXJkZWJlcmVpa2VuIGthbiBiZSBtb3ZlZApVUERBVEUgV0FBUkRFX0RFRklOSVRJRVMKU0VUIFZPTEdOVU1NRVIgPSBWT0xHTlVNTUVSICogNQpXSEVSRSBXQUFSREVfQkVSRUlLX0lEID0gKFNFTEVDVCBWRUxEX0RFRklOSVRJRVMuV0FBUkRFX0JFUkVJS19JRAogICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gVkVMRF9ERUZJTklUSUVTCiAgICAgICAgICAgICAgICAgICAgICAgICAgV0hFUkUgTkFBTSA9ICd1YV9hbmRlcl9taWRkZWwnKQovClVQREFURSBXQUFSREVfREVGSU5JVElFUwpTRVQgVk9MR05VTU1FUiA9IDUzCldIRVJFIENPREUgPSAndWFfX2FuZGVyX21pZGRlbF9nb2trZW4nCi8K</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8aDpwYW5lbEdyb3VwPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXRvZG86IG1vZXQgaWsgaWV0cyB2ZXJhbmRlcmVuIGFhbiBkZXplIHZlbGRlbj8tLT4K</text>
       </register>
-      <register name="6" type="4">
-        <text>---- Create some space between volgnummers so waardebereiken kan be moved
-UPDATE WAARDE_DEFINITIES
-SET VOLGNUMMER = VOLGNUMMER * 5
-WHERE WAARDE_BEREIK_ID = (SELECT VELD_DEFINITIES.WAARDE_BEREIK_ID
-                          FROM VELD_DEFINITIES
-                          WHERE NAAM = 'ua_primaire_middel')
-/
-UPDATE WAARDE_DEFINITIES
-SET VOLGNUMMER = 53
-WHERE CODE = 'ua_middel_gokken'
-/</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzoga2xvcHQgaGV0IGRhdCB3ZCB2ZXJwbGFhdHN0IGlzPy0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6Y2hlY2tCb3hXaXRoQ3VzdG9tRnJhZ21lbnQgY29kZT0idWFfYW5kZXJfbWlkZGVsX2dva2tlbiIgYm92ZW5saWdnZW5kZU5hYW09InVhX2FuZGVyX21pZGRlbF92ZXJsZWRlbiIgdm9sZ05yPSI1MTYiIGVuYWJsZUFqYXg9ImZhbHNlIi8+Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -835,16 +825,14 @@ WHERE CODE = 'ua_middel_gokken'
       </register>
     </registers>
     <search>
-      <last-search>removeVer</last-search>
+      <last-search>.boldLabel</last-search>
       <last-offset />
-      <last-pattern>removeVer</last-pattern>
+      <last-pattern>.boldLabel</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gevolgen_anders</entry>
-        <entry>TEXT</entry>
         <entry>SMALL</entry>
         <entry>respons</entry>
         <entry>white !imp</entry>
@@ -863,9 +851,10 @@ WHERE CODE = 'ua_middel_gokken'
         <entry>\cinfoteksten</entry>
         <entry>versl</entry>
         <entry>removeVer</entry>
+        <entry>.boldlabel</entry>
+        <entry>.boldLabel</entry>
       </history-search>
       <history-cmd>
-        <entry>ww</entry>
         <entry>%</entry>
         <entry>buffers</entry>
         <entry>wq</entry>
@@ -875,6 +864,7 @@ WHERE CODE = 'ua_middel_gokken'
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>f</entry>
         <entry>q</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
