@@ -77,12 +77,12 @@
         <mark key="^" line="815" column="25" />
         <mark key="." line="815" column="25" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518087002311">
-        <mark key="'" line="190" column="36" />
-        <mark key="[" line="167" column="62" />
-        <mark key="]" line="167" column="96" />
-        <mark key="." line="167" column="96" />
-        <mark key="^" line="167" column="96" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1518101137252">
+        <mark key="'" line="34" column="47" />
+        <mark key="[" line="39" column="96" />
+        <mark key="]" line="39" column="124" />
+        <mark key="." line="39" column="124" />
+        <mark key="^" line="39" column="124" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1516184216694">
         <mark key="[" line="66" column="34" />
@@ -402,12 +402,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1518093456236">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
-        <mark key="^" line="216" column="7" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1518101058651">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="211" column="7" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/totaalscoreFragment.xhtml" timestamp="1516198039570">
         <mark key="'" line="0" column="0" />
@@ -736,13 +736,14 @@
       <jump line="370" column="12" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1152" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="427" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="34" column="47" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVkU2VwYXJhdG9yIi8+Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyZWRTZXBhcmF0b3IiLz4K</text>
+      <register name="&quot;" type="4">
+        <text>Verslavingsgevoeligheid</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -779,55 +780,55 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>Verslavingsgevoeligheid</text>
       </register>
       <register name="/" type="4">
-        <text>.boldLabel</text>
+        <text>verslaving</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6cmFkaW9CdXR0b25GcmFnbWVudCB2ZWxkTmFhbT0idWFfcHJvYmxlbWVuX21pZGRlbGVuZ2VicnVpa19oZWRlbiIgdm9sZ05yPSI1MDQiIHNob3dJbmZvVGVrc3Q9InRydWUiIHJhZGlvRGlyZWN0aW9uPSJWZXJ0aWNhbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW5DbGFzc2VzPSJmaWxsZXIsYm90dG9tQWxpZ24iIGVuYWJsZUFqYXg9ImZhbHNlIiBlbmFibGVEZXNlbGVjdEJ0blJlbmRlcmxlc3M9InRydWUiIGRlc2VsZWN0aWVCdG5Cb3R0b209InRydWUiLz4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVkU2VwYXJhdG9yIi8+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyZWRTZXBhcmF0b3IiLz4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogdG9ldm9lZ2VuIGFhbiBwcm9wZXJ0eSBmaWxlLS0+Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzogbmFhciBwcm9wZXJ0eSB2ZXJwbGFhdHNlbi0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2g6cGFuZWxHcm91cD4K</text>
+        <text encoding="base64">PCEtLVRPRE86IENoZWNrIG9mIGFsbGUgcmFkaW9idXR0b25zIGVlbiB1bmRvLWJ1dHRvbiBoZWJiZW4tLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aDpwYW5lbEdyb3VwPgo=</text>
+        <text encoding="base64">ICAgIDwhLS1UT0RPOiBCbG9rbmFhbSB2ZXJhbmRlcmVuLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXRvZG86IG1vZXQgaWsgaWV0cyB2ZXJhbmRlcmVuIGFhbiBkZXplIHZlbGRlbj8tLT4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tVG9kbzogdGV4dCBpbiBwcm9wZXJ0eSBmaWxlIHpldHRlbi0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tdG9kbzoga2xvcHQgaGV0IGRhdCB3ZCB2ZXJwbGFhdHN0IGlzPy0tPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyZWRTZXBhcmF0b3IiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6Y2hlY2tCb3hXaXRoQ3VzdG9tRnJhZ21lbnQgY29kZT0idWFfYW5kZXJfbWlkZGVsX2dva2tlbiIgYm92ZW5saWdnZW5kZU5hYW09InVhX2FuZGVyX21pZGRlbF92ZXJsZWRlbiIgdm9sZ05yPSI1MTYiIGVuYWJsZUFqYXg9ImZhbHNlIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8L2g6cGFuZWxHcm91cD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aDpwYW5lbEdyb3VwPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>.boldLabel</last-search>
+      <last-search>verslaving</last-search>
       <last-offset />
-      <last-pattern>.boldLabel</last-pattern>
+      <last-pattern>verslaving</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -845,7 +846,6 @@ VALUES
         <entry>blockWithName</entry>
         <entry>\blockwithname</entry>
         <entry>Analyse van het Uittreksel</entry>
-        <entry>verslaving</entry>
         <entry>Vraag 6</entry>
         <entry>\cwaarde_bereik</entry>
         <entry>\cinfoteksten</entry>
@@ -853,6 +853,7 @@ VALUES
         <entry>removeVer</entry>
         <entry>.boldlabel</entry>
         <entry>.boldLabel</entry>
+        <entry>verslaving</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
