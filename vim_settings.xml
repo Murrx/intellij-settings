@@ -198,12 +198,12 @@
         <mark key="." line="56" column="24" />
         <mark key="^" line="70" column="17" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" timestamp="1518091533095">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="11" />
-        <mark key="]" line="47" column="37" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" timestamp="1519129069229">
+        <mark key="'" line="119" column="56" />
+        <mark key="[" line="83" column="120" />
+        <mark key="]" line="83" column="120" />
+        <mark key="^" line="83" column="120" />
+        <mark key="." line="83" column="120" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_scil.xhtml" timestamp="1511523379160">
         <mark key="[" line="15" column="46" />
@@ -408,12 +408,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1519124475753">
-        <mark key="'" line="142" column="120" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="137" column="62" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1519128890952">
+        <mark key="'" line="42" column="36" />
+        <mark key="[" line="133" column="117" />
+        <mark key="]" line="133" column="124" />
+        <mark key="." line="133" column="124" />
+        <mark key="^" line="133" column="124" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/totaalscoreFragment.xhtml" timestamp="1516198039570">
         <mark key="'" line="0" column="0" />
@@ -675,13 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="50" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
-      <jump line="59" column="50" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
-      <jump line="60" column="128" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
-      <jump line="2249" column="13" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
-      <jump line="2220" column="25" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
-      <jump line="2195" column="42" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
-      <jump line="2198" column="29" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
       <jump line="13" column="86" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/textAreaFragment.xhtml" />
       <jump line="2280" column="7" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
@@ -726,7 +719,6 @@
       <jump line="159" column="58" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="17" column="17" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="12" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
-      <jump line="42" column="3" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="22" column="42" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_verslaving.xhtml" />
       <jump line="16" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_verslaving.xhtml" />
       <jump line="24" column="50" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
@@ -775,13 +767,21 @@
       <jump line="156" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="141" column="120" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="1753" column="25" filename="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" />
+      <jump line="42" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="153" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
+      <jump line="10" column="71" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
+      <jump line="83" column="120" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
+      <jump line="84" column="39" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
+      <jump line="101" column="110" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
+      <jump line="113" column="93" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
+      <jump line="119" column="56" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpcmlzOnRleHRCb3hGcmFnbWVudCB2ZWxkTmFhbT0idWFfZGVsaWN0Z2VkcmFnX3dhYXJzY2hpam5saWprX2FuZGVyc190b2V2IiBmcmFnbWVudExhYmVsQ2xhc3M9IndpZHRoMjAiIHNob3dJbmZvVGVrc3Q9ImZhbHNlIiB2b2xnTnI9IjUxMiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaWRlTGFiZWw9InRydWUiIGVuYWJsZUFqYXg9ImZhbHNlIiBvcHRpb25hbEZvckNvbXBsZXRlbmVzcz0idHJ1ZSIvPg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Ryb25nPkJlc2NocmlqdmluZyBzaXR1YXRpZSB2ZXJsZWRlbjwvc3Ryb25nPgo=</text>
+      <register name="&quot;" type="4">
+        <text>VERTICAAL</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -818,10 +818,10 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>huidigesituatie</text>
+        <text>VERTICAAL</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XGNtaWRkZWxlbmdlYnJ1aWsg</text>
+        <text encoding="base64">amFhIA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8aDpvdXRwdXRUZXh0IHZhbHVlPSIje21lc3NhZ2VzWydsYWJlbC5zdWJibG9rLmh1aWRpZ2VzaXR1YXRpZSddfSIgc3R5bGVDbGFzcz0iYm9sZExhYmVsIi8+Cg==</text>
@@ -864,17 +864,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XGNtaWRkZWxlbmdlYnJ1aWsg</last-search>
+      <last-search encoding="base64">amFhIA==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XGNtaWRkZWxlbmdlYnJ1aWsg</last-pattern>
+      <last-pattern encoding="base64">amFhIA==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Vraag 6</entry>
-        <entry>\cwaarde_bereik</entry>
-        <entry>\cinfoteksten</entry>
         <entry>versl</entry>
         <entry>removeVer</entry>
         <entry>.boldlabel</entry>
@@ -892,6 +889,9 @@ VALUES
         <entry>fragmentLa</entry>
         <entry>Andere middelen of</entry>
         <entry encoding="base64">XGNtaWRkZWxlbmdlYnJ1aWsg</entry>
+        <entry>VERTICAAL</entry>
+        <entry>jaa</entry>
+        <entry encoding="base64">amFhIA==</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
