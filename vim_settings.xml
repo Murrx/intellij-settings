@@ -408,12 +408,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1519128890952">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1519130813455">
         <mark key="'" line="42" column="36" />
-        <mark key="[" line="133" column="117" />
-        <mark key="]" line="133" column="124" />
-        <mark key="." line="133" column="124" />
-        <mark key="^" line="133" column="124" />
+        <mark key="[" line="26" column="72" />
+        <mark key="]" line="26" column="106" />
+        <mark key="." line="26" column="72" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/totaalscoreFragment.xhtml" timestamp="1516198039570">
         <mark key="'" line="0" column="0" />
@@ -778,10 +778,10 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpcmlzOnRleHRCb3hGcmFnbWVudCB2ZWxkTmFhbT0idWFfZGVsaWN0Z2VkcmFnX3dhYXJzY2hpam5saWprX2FuZGVyc190b2V2IiBmcmFnbWVudExhYmVsQ2xhc3M9IndpZHRoMjAiIHNob3dJbmZvVGVrc3Q9ImZhbHNlIiB2b2xnTnI9IjUxMiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaWRlTGFiZWw9InRydWUiIGVuYWJsZUFqYXg9ImZhbHNlIiBvcHRpb25hbEZvckNvbXBsZXRlbmVzcz0idHJ1ZSIvPg==</text>
+        <text>enableDeselectBtnRenderless=&quot;true&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>VERTICAAL</text>
+        <text>enableDeselectBtnRenderless=&quot;true&quot;</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -818,7 +818,7 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>VERTICAAL</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">amFhIA==</text>
