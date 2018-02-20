@@ -384,10 +384,6 @@
         <mark key="^" line="355" column="9" />
         <mark key="." line="355" column="9" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/conclusie.xhtml" timestamp="1517833612716">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="148" />
-      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_recidiverisico.xhtml" timestamp="1511521340246">
         <mark key="'" line="20" column="22" />
         <mark key="[" line="8" column="0" />
@@ -435,10 +431,6 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_huisvesting.xhtml" timestamp="1517905772966">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="162" />
-      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_relatiepartner.xhtml" timestamp="1516873214821">
         <mark key="'" line="29" column="83" />
         <mark key="[" line="37" column="65" />
@@ -481,6 +473,12 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/adviezen/advies_rechtszitting.xhtml" timestamp="1519139411508">
+        <mark key="[" line="32" column="149" />
+        <mark key="]" line="32" column="152" />
+        <mark key="^" line="32" column="152" />
+        <mark key="." line="32" column="152" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/faces-config.xml" timestamp="1516031309445">
         <mark key="[" line="52" column="74" />
         <mark key="]" line="52" column="74" />
@@ -506,10 +504,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.077.sql" timestamp="1517482685651">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/advies.xhtml" timestamp="1516635411474">
         <mark key="[" line="0" column="0" />
@@ -556,7 +550,7 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="21" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518104492669">
+      <file name="/Dummy.txt" timestamp="1519139071084">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelinstrument/si-textArea.xhtml" timestamp="1516010170219">
@@ -781,7 +775,7 @@
         <text>enableDeselectBtnRenderless=&quot;true&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>enableDeselectBtnRenderless=&quot;true&quot;</text>
+        <text>false</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -818,7 +812,7 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">amFhIA==</text>
