@@ -21,8 +21,8 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" timestamp="1518103287935">
-        <mark key="'" line="1807" column="42" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" timestamp="1519120822625">
+        <mark key="'" line="1753" column="25" />
         <mark key="[" line="1812" column="38" />
         <mark key="]" line="1812" column="66" />
         <mark key="." line="1812" column="66" />
@@ -81,7 +81,7 @@
         <mark key="'" line="156" column="0" />
         <mark key="[" line="39" column="96" />
         <mark key="]" line="39" column="124" />
-        <mark key="." line="190" column="73" />
+        <mark key="." line="156" column="73" />
         <mark key="^" line="39" column="124" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1516184216694">
@@ -211,15 +211,21 @@
         <mark key="." line="15" column="62" />
         <mark key="^" line="15" column="62" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/messages/pages/diagnose/uitgebreidadvies.properties" timestamp="1519120703411">
+        <mark key="[" line="62" column="59" />
+        <mark key="]" line="63" column="52" />
+        <mark key="^" line="63" column="52" />
+        <mark key="." line="63" column="52" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.076.sql" timestamp="1516711859700">
         <mark key="[" line="32" column="35" />
         <mark key="]" line="32" column="33" />
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_dagbesteding.xhtml" timestamp="1517845437876">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="40" column="69" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_dagbesteding.xhtml" timestamp="1519120555250">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="94" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/modalPanel.xhtml" timestamp="1516893171589">
         <mark key="[" line="59" column="84" />
@@ -402,12 +408,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1519119656530">
-        <mark key="'" line="141" column="120" />
-        <mark key="[" line="37" column="140" />
-        <mark key="]" line="37" column="139" />
-        <mark key="." line="37" column="139" />
-        <mark key="^" line="37" column="139" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1519120761698">
+        <mark key="'" line="145" column="120" />
+        <mark key="[" line="140" column="55" />
+        <mark key="]" line="140" column="62" />
+        <mark key="." line="140" column="62" />
+        <mark key="^" line="140" column="62" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/totaalscoreFragment.xhtml" timestamp="1516198039570">
         <mark key="'" line="0" column="0" />
@@ -669,7 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="126" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
       <jump line="57" column="50" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
       <jump line="59" column="50" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
       <jump line="60" column="128" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
@@ -769,13 +774,14 @@
       <jump line="63" column="58" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/fragmentTemplate.xhtml" />
       <jump line="156" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="141" column="120" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="1753" column="25" filename="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpcmlzOnRleHRCb3hGcmFnbWVudCB2ZWxkTmFhbT0idWFfZGVsaWN0Z2VkcmFnX3dhYXJzY2hpam5saWprX2FuZGVyc190b2V2IiBmcmFnbWVudExhYmVsQ2xhc3M9IndpZHRoMjAiIHNob3dJbmZvVGVrc3Q9ImZhbHNlIiB2b2xnTnI9IjUxMiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaWRlTGFiZWw9InRydWUiIGVuYWJsZUFqYXg9ImZhbHNlIiBvcHRpb25hbEZvckNvbXBsZXRlbmVzcz0idHJ1ZSIvPg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>margin-left:20px;</text>
+        <text>huidigesituatie</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -812,13 +818,13 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>margin-left:20px;</text>
+        <text>huidigesituatie</text>
       </register>
       <register name="/" type="4">
-        <text>Andere middelen of</text>
+        <text encoding="base64">XGNtaWRkZWxlbmdlYnJ1aWsg</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6cmFkaW9CdXR0b25GcmFnbWVudCB2ZWxkTmFhbT0idWFfcHJvYmxlbWVuX21pZGRlbGVuZ2VicnVpa19oZWRlbiIgdm9sZ05yPSI1MDQiIHNob3dJbmZvVGVrc3Q9InRydWUiIHJhZGlvRGlyZWN0aW9uPSJWZXJ0aWNhbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW5DbGFzc2VzPSJmaWxsZXIsYm90dG9tQWxpZ24iIGVuYWJsZUFqYXg9ImZhbHNlIiBlbmFibGVEZXNlbGVjdEJ0blJlbmRlcmxlc3M9InRydWUiIGRlc2VsZWN0aWVCdG5Cb3R0b209InRydWUiLz4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVkU2VwYXJhdG9yIi8+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8aDpvdXRwdXRUZXh0IHZhbHVlPSIje21lc3NhZ2VzWydsYWJlbC5zdWJibG9rLmh1aWRpZ2VzaXR1YXRpZSddfSIgc3R5bGVDbGFzcz0iYm9sZExhYmVsIi8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -858,15 +864,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>Andere middelen of</last-search>
+      <last-search encoding="base64">XGNtaWRkZWxlbmdlYnJ1aWsg</last-search>
       <last-offset />
-      <last-pattern>Andere middelen of</last-pattern>
+      <last-pattern encoding="base64">XGNtaWRkZWxlbmdlYnJ1aWsg</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Analyse van het Uittreksel</entry>
         <entry>Vraag 6</entry>
         <entry>\cwaarde_bereik</entry>
         <entry>\cinfoteksten</entry>
@@ -886,6 +891,7 @@ VALUES
         <entry>fragmentLabe</entry>
         <entry>fragmentLa</entry>
         <entry>Andere middelen of</entry>
+        <entry encoding="base64">XGNtaWRkZWxlbmdlYnJ1aWsg</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
