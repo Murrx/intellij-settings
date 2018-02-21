@@ -87,11 +87,11 @@
         <mark key="^" line="815" column="25" />
         <mark key="." line="815" column="25" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/infoTekstFragment.xhtml" timestamp="1519210797425">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/infoTekstFragment.xhtml" timestamp="1519217699623">
         <mark key="[" line="11" column="99" />
-        <mark key="]" line="11" column="105" />
-        <mark key="^" line="11" column="105" />
-        <mark key="." line="11" column="105" />
+        <mark key="]" line="11" column="99" />
+        <mark key="^" line="14" column="94" />
+        <mark key="." line="11" column="99" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1519200997370">
         <mark key="'" line="190" column="28" />
@@ -118,12 +118,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1518102015485">
-        <mark key="'" line="474" column="0" />
-        <mark key="[" line="1152" column="0" />
-        <mark key="]" line="1152" column="0" />
-        <mark key="^" line="1230" column="3" />
-        <mark key="." line="1152" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1519217462353">
+        <mark key="'" line="1244" column="9" />
+        <mark key="[" line="1244" column="9" />
+        <mark key="]" line="1245" column="15" />
+        <mark key="^" line="1245" column="15" />
+        <mark key="." line="1245" column="15" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/stam/Regio.java" timestamp="1509631826835">
         <mark key="'" line="75" column="6" />
@@ -189,11 +189,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" timestamp="1519119246629">
-        <mark key="[" line="8072" column="18" />
-        <mark key="]" line="8072" column="22" />
-        <mark key="^" line="8072" column="22" />
-        <mark key="." line="8072" column="22" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" timestamp="1519217278417">
+        <mark key="[" line="8292" column="13" />
+        <mark key="]" line="8292" column="33" />
+        <mark key="^" line="8292" column="33" />
+        <mark key="." line="8292" column="33" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/sneladvies/blokNoLayout.xhtml" timestamp="1516008905339">
         <mark key="[" line="55" column="0" />
@@ -232,10 +232,6 @@
         <mark key="]" line="32" column="33" />
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
-      </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_dagbesteding.xhtml" timestamp="1519120555250">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="94" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/modalPanel.xhtml" timestamp="1516893171589">
         <mark key="[" line="59" column="84" />
@@ -354,6 +350,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="16" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.098.sql" timestamp="1519216075812">
+        <mark key="'" line="0" column="49" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/jsf-playground/src/mypackage/MyValidator.java" timestamp="1516986515704">
         <mark key="[" line="7" column="0" />
@@ -536,11 +538,11 @@
         <mark key="." line="22" column="146" />
         <mark key="^" line="22" column="146" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/beeindiging_popup.xhtml" timestamp="1519215629037">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="76" />
-        <mark key="." line="13" column="87" />
-        <mark key="^" line="13" column="87" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/beeindiging_popup.xhtml" timestamp="1519217399969">
+        <mark key="[" line="13" column="111" />
+        <mark key="]" line="13" column="145" />
+        <mark key="." line="13" column="145" />
+        <mark key="^" line="13" column="145" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/radioButtonFragment.xhtml" timestamp="1517835067983">
         <mark key="'" line="17" column="128" />
@@ -568,7 +570,7 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="21" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519209004985">
+      <file name="/Dummy.txt" timestamp="1519217295307">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelinstrument/si-textArea.xhtml" timestamp="1516010170219">
@@ -684,10 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1029" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="57" column="20" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="930" column="22" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="935" column="22" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="939" column="61" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="948" column="67" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="962" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
@@ -784,155 +782,17 @@
       <jump line="210" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.097.sql" />
       <jump line="0" column="49" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.097.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/git/gdisqlgen/test.sql" />
+      <jump line="0" column="49" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.098.sql" />
+      <jump line="31" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="1244" column="9" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>/* Generated with gdisqlgen. Original YAML input:
-
-entries:
-  - naam: ua_beeindiging_reden_onvolledig
-    omschrijving: Reden onvolledig Advies1
-    waardebereik: ua_beeindiging_onvolledig
-    itekst: U2306
-
-*/
------- Infotekst U2306
-MERGE INTO INFOTEKSTEN ITK
-USING
-  (SELECT 'U2306' AS CODE
-   FROM DUAL) D
-ON (D.CODE = ITK.CODE)
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , OMSCHRIJVING
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'U2306'
-    , 'Reden onvolledig Advies1'
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Veld definitie ua_beeindiging_reden_onvolledig
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_beeindiging_reden_onvolledig' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Reden onvolledig Advies1'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U2306')
-  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID
-  , RELEVANTIE_FUNCTIE_TYPE)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_beeindiging_reden_onvolledig'
-    , 'Reden onvolledig Advies1'
-    , (SELECT id
-       FROM waarde_bereiken
-       WHERE naam = 'ua_beeindiging_onvolledig')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U2306')
-    , NULL)
-/</text>
+        <text>hideLabelExtra}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/* Generated with gdisqlgen. Original YAML input:
-
-entries:
-  - naam: ua_beeindiging_reden_onvolledig
-    omschrijving: Reden onvolledig Advies1
-    waardebereik: ua_beeindiging_onvolledig
-    itekst: U2306
-
-*/
------- Infotekst U2306
-MERGE INTO INFOTEKSTEN ITK
-USING
-  (SELECT 'U2306' AS CODE
-   FROM DUAL) D
-ON (D.CODE = ITK.CODE)
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , OMSCHRIJVING
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'U2306'
-    , 'Reden onvolledig Advies1'
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Veld definitie ua_beeindiging_reden_onvolledig
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_beeindiging_reden_onvolledig' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Reden onvolledig Advies1'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U2306')
-  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID
-  , RELEVANTIE_FUNCTIE_TYPE)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_beeindiging_reden_onvolledig'
-    , 'Reden onvolledig Advies1'
-    , (SELECT id
-       FROM waarde_bereiken
-       WHERE naam = 'ua_beeindiging_onvolledig')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U2306')
-    , NULL)
-/</text>
+        <text>e</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -969,7 +829,7 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>U2604</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>ua_advies_uitvoerbaarheid</text>
