@@ -87,6 +87,12 @@
         <mark key="^" line="815" column="25" />
         <mark key="." line="815" column="25" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/infoTekstFragment.xhtml" timestamp="1519210797425">
+        <mark key="[" line="11" column="99" />
+        <mark key="]" line="11" column="105" />
+        <mark key="^" line="11" column="105" />
+        <mark key="." line="11" column="105" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1519200997370">
         <mark key="'" line="190" column="28" />
         <mark key="[" line="39" column="96" />
@@ -511,6 +517,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/SnelInstrumentAction.java" timestamp="1519210921524" />
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/advies.xhtml" timestamp="1516635411474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -529,10 +536,11 @@
         <mark key="." line="22" column="146" />
         <mark key="^" line="22" column="146" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/beeindiging_popup.xhtml" timestamp="1519209003201">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/beeindiging_popup.xhtml" timestamp="1519210328934">
+        <mark key="[" line="13" column="78" />
+        <mark key="]" line="13" column="87" />
+        <mark key="." line="13" column="87" />
+        <mark key="^" line="13" column="87" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/radioButtonFragment.xhtml" timestamp="1517835067983">
         <mark key="'" line="17" column="128" />
@@ -626,11 +634,6 @@
         <mark key="]" line="25" column="9" />
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
-      </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/sneladvies/blok.xhtml" timestamp="1517926629835">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/repeatableFragment.xhtml" timestamp="1513696256138">
         <mark key="[" line="7" column="152" />
@@ -784,220 +787,10 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>/* Generated with gdisqlgen. Original YAML input:
-
-entries:
-  - naam: ua_advies_voorwpij_uitvoerbaar
-    omschrijving: Dadelijke uitvoerbaarheid
-    waardebereik: ua_advies_dadelijke_uitvoerbaarheid
-    relevantiefunctie: KADERVOORWPIJ
-    itekst: U2604
-
-  - naam: ua_advies_tbsvoorw_uitvoerbaar
-    omschrijving: Dadelijke uitvoerbaarheid
-    waardebereik: ua_advies_dadelijke_uitvoerbaarheid
-    relevantiefunctie: KADERTBSMETVOORW
-    itekst: U0703
-
-  - naam: ua_advies_uitvoerbaarheid
-    omschrijving: Dadelijke uitvoerbaarheid
-    waardebereik: ua_advies_dadelijke_uitvoerbaarheid
-    relevantiefunctie: KADERRECHTSZITTING
-    itekst: U2408
-
-*/
------- Infotekst U2604
-MERGE INTO INFOTEKSTEN ITK
-USING
-  (SELECT 'U2604' AS CODE
-   FROM DUAL) D
-ON (D.CODE = ITK.CODE)
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , OMSCHRIJVING
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'U2604'
-    , 'Dadelijke uitvoerbaarheid'
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Veld definitie ua_advies_voorwpij_uitvoerbaar
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_advies_voorwpij_uitvoerbaar' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Dadelijke uitvoerbaarheid'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U2604')
-  , VDE.RELEVANTIE_FUNCTIE_TYPE = 'KADERVOORWPIJ'
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID
-  , RELEVANTIE_FUNCTIE_TYPE)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_advies_voorwpij_uitvoerbaar'
-    , 'Dadelijke uitvoerbaarheid'
-    , (SELECT id
-       FROM waarde_bereiken
-       WHERE naam = 'ua_advies_dadelijke_uitvoerbaarheid')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U2604')
-    , 'KADERVOORWPIJ')
-/
------- Infotekst U0703
-MERGE INTO INFOTEKSTEN ITK
-USING
-  (SELECT 'U0703' AS CODE
-   FROM DUAL) D
-ON (D.CODE = ITK.CODE)
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , OMSCHRIJVING
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'U0703'
-    , 'Dadelijke uitvoerbaarheid'
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Veld definitie ua_advies_tbsvoorw_uitvoerbaar
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_advies_tbsvoorw_uitvoerbaar' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Dadelijke uitvoerbaarheid'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U0703')
-  , VDE.RELEVANTIE_FUNCTIE_TYPE = 'KADERTBSMETVOORW'
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID
-  , RELEVANTIE_FUNCTIE_TYPE)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_advies_tbsvoorw_uitvoerbaar'
-    , 'Dadelijke uitvoerbaarheid'
-    , (SELECT id
-       FROM waarde_bereiken
-       WHERE naam = 'ua_advies_dadelijke_uitvoerbaarheid')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U0703')
-    , 'KADERTBSMETVOORW')
-/
------- Infotekst U2408
-MERGE INTO INFOTEKSTEN ITK
-USING
-  (SELECT 'U2408' AS CODE
-   FROM DUAL) D
-ON (D.CODE = ITK.CODE)
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , OMSCHRIJVING
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'U2408'
-    , 'Dadelijke uitvoerbaarheid'
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Veld definitie ua_advies_uitvoerbaarheid
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_advies_uitvoerbaarheid' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Dadelijke uitvoerbaarheid'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U2408')
-  , VDE.RELEVANTIE_FUNCTIE_TYPE = 'KADERRECHTSZITTING'
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID
-  , RELEVANTIE_FUNCTIE_TYPE)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_advies_uitvoerbaarheid'
-    , 'Dadelijke uitvoerbaarheid'
-    , (SELECT id
-       FROM waarde_bereiken
-       WHERE naam = 'ua_advies_dadelijke_uitvoerbaarheid')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U2408')
-    , 'KADERRECHTSZITTING')
-/</text>
+        <text>ua_beeindiging_reden_onvolledig</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6aW5mb1Rla3N0RnJhZ21lbnQ+PC9pcmlzOmluZm9UZWtzdEZyYWdtZW50Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>ua_beeindiging_reden_onvolledig</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
