@@ -537,10 +537,10 @@
         <mark key="." line="22" column="146" />
         <mark key="^" line="22" column="146" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/beeindiging_popup.xhtml" timestamp="1519224251633">
-        <mark key="[" line="16" column="139" />
-        <mark key="]" line="17" column="11" />
-        <mark key="." line="17" column="11" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/beeindiging_popup.xhtml" timestamp="1519225111850">
+        <mark key="[" line="16" column="93" />
+        <mark key="]" line="16" column="93" />
+        <mark key="." line="16" column="93" />
         <mark key="^" line="17" column="11" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/radioButtonFragment.xhtml" timestamp="1517835067983">
@@ -790,8 +790,8 @@
       <register name="a" type="4">
         <text encoding="base64">PGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3ttZXNzYWdlc1snbGFiZWwuYmVlaW5kaWdpbmcubGluayddfSIvPg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -828,7 +828,7 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>hier</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Advies1</text>
