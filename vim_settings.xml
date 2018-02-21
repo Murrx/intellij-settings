@@ -529,11 +529,10 @@
         <mark key="." line="22" column="146" />
         <mark key="^" line="22" column="146" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/beeindiging_popup.xhtml" timestamp="1516959299602">
-        <mark key="[" line="60" column="126" />
-        <mark key="]" line="60" column="143" />
-        <mark key="." line="60" column="143" />
-        <mark key="^" line="60" column="143" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/beeindiging_popup.xhtml" timestamp="1519209003201">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/radioButtonFragment.xhtml" timestamp="1517835067983">
         <mark key="'" line="17" column="128" />
@@ -561,7 +560,7 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="21" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519139071084">
+      <file name="/Dummy.txt" timestamp="1519209004985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelinstrument/si-textArea.xhtml" timestamp="1516010170219">
@@ -627,6 +626,11 @@
         <mark key="]" line="25" column="9" />
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/sneladvies/blok.xhtml" timestamp="1517926629835">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/repeatableFragment.xhtml" timestamp="1513696256138">
         <mark key="[" line="7" column="152" />
@@ -993,7 +997,7 @@ VALUES
 /</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6aW5mb1Rla3N0RnJhZ21lbnQ+PC9pcmlzOmluZm9UZWtzdEZyYWdtZW50Pgo=</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -1039,37 +1043,37 @@ VALUES
         <text encoding="base64">ICAgIGl0ZWtzdDogVTI2MDQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6aW5mb1Rla3N0RnJhZ21lbnQ+PC9pcmlzOmluZm9UZWtzdEZyYWdtZW50Pgo=</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLVZyYWFnIDg6IEFuYWx5c2UgcHJpbWFpcmUgZGVsaWN0LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6YWNjPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tdnJhYWcgMTogZGVsaWN0LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXZyYWFnIDI6IHBvcmNlc2hvdWRpbmctLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLVZyYWFnIDg6IEFuYWx5c2UgcHJpbWFpcmUgZGVsaWN0LS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXZyYWFnIDM6IERlbGljdCBhbGxlZW4gb2Ygc2FtZW4gZ2VwbGVlZ2Q/LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tdnJhYWcgMTogZGVsaWN0LS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXZyYWFnIDQ6IERlbGljdCBvbmRlciBpbnZsb2VkIHZhbiBhbGNvaG9sIGVuL29mIGRydWdzPy0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXZyYWFnIDI6IHBvcmNlc2hvdWRpbmctLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLVZyYWFnIDU6IFdhcyBlciBzcHJha2UgdmFuIGxldHNlbD8tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXZyYWFnIDM6IERlbGljdCBhbGxlZW4gb2Ygc2FtZW4gZ2VwbGVlZ2Q/LS0+Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLVZyYWFnIDY6IFdhcyBlciBzcHJha2UgdmFuIG1hdGVyaWVsZSBnZXZvbGdlbj8tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXZyYWFnIDQ6IERlbGljdCBvbmRlciBpbnZsb2VkIHZhbiBhbGNvaG9sIGVuL29mIGRydWdzPy0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLVZyYWFnIDU6IFdhcyBlciBzcHJha2UgdmFuIGxldHNlbD8tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
