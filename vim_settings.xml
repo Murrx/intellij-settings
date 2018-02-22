@@ -93,13 +93,13 @@
         <mark key="^" line="14" column="94" />
         <mark key="." line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1519310367667">
-        <mark key="'" line="65" column="54" />
-        <mark key="k" line="66" column="38" />
-        <mark key="[" line="27" column="41" />
-        <mark key="]" line="27" column="67" />
-        <mark key="." line="27" column="67" />
-        <mark key="^" line="27" column="67" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1519312309656">
+        <mark key="'" line="64" column="54" />
+        <mark key="k" line="65" column="38" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="47" column="95" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1516184216694">
         <mark key="[" line="66" column="34" />
@@ -218,11 +218,11 @@
         <mark key="." line="15" column="62" />
         <mark key="^" line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/messages/pages/diagnose/uitgebreidadvies.properties" timestamp="1519224173857">
-        <mark key="[" line="65" column="97" />
-        <mark key="]" line="65" column="97" />
-        <mark key="^" line="65" column="97" />
-        <mark key="." line="65" column="97" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/messages/pages/diagnose/uitgebreidadvies.properties" timestamp="1519312235503">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="46" />
+        <mark key="^" line="7" column="46" />
+        <mark key="." line="7" column="46" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.076.sql" timestamp="1516711859700">
         <mark key="[" line="32" column="35" />
@@ -808,10 +808,10 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>divclass</text>
+        <text>#{messages['uitgebreidadvies.menu.factoren']}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ua_verantwoording</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXRvZG86bWFrZSBwcm9wZXJ0eS0tPgo=</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -848,43 +848,43 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>ua_verantwoording</text>
+        <text>factoren</text>
       </register>
       <register name="/" type="4">
         <text>getLabel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6c25lbE1lbnVJdGVtIGJsb2tuYW1lPSJ1YV92ZXJhbnR3b29yZGluZyIvPgo=</text>
+        <text encoding="base64">dWl0Z2VicmVpZGFkdmllcy5tZW51LmZhY3RvcmVuPUZhY3RvcmVuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAje3VpdGdlYnJlaWRBZHZpZXNBY3Rpb24uZ2V0Qmxva1dpdGhOYW1lKCJ1aXRnZWJyZWlkX2dlZ2V2ZW5zdm9vcmJsYWQiKS5sYWJlbH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXRvZG86bWFrZSBwcm9wZXJ0eS0tPgo=</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6c25lbE1lbnVJdGVtIGJsb2tuYW1lPSJ1YV9ibGEiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICN7bWVzc2FnZXNbJ3VpdGdlYnJlaWRhZHZpZXMubWVudS52ZXJkaWVwaW5nZW4nXX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICN7bWVzc2FnZXNbJ3VpdGdlYnJlaWRhZHZpZXMubWVudS5mYWN0b3JlbiddfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICA8YXR0cmlidXRlPgogICAgICAgICAgICA8bmFtZT5zd2l0Y2hJZDwvbmFtZT4KICAgICAgICAgICAgPHR5cGU+amF2YS5sYW5nLlN0cmluZzwvdHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICA8YXR0cmlidXRlPgogICAgICAgICAgICA8bmFtZT5zY3JvbGxJZDwvbmFtZT4KICAgICAgICAgICAgPHR5cGU+amF2YS5sYW5nLlN0cmluZzwvdHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICA8YXR0cmlidXRlPgogICAgICAgICAgICA8bmFtZT5tZW51TGFiZWw8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmphdmEubGFuZy5TdHJpbmc8L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAje3VpdGdlYnJlaWRBZHZpZXNBY3Rpb24uZ2V0Qmxva1dpdGhOYW1lKCJ1aXRnZWJyZWlkX2dlZ2V2ZW5zdm9vcmJsYWQiKS5sYWJlbH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT0iI3ttZW51TGFiZWx9IiByZWw9IiN7c3dpdGNoSWR9IiB0aXRsZT0iI3ttZW51TGFiZWx9Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6c25lbE1lbnVJdGVtIGJsb2tuYW1lPSJ1YV9ibGEiLz4K</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJibG9ja25hbWUiIHZhbHVlPSIje2Jsb2NrbmFtZX0iLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
