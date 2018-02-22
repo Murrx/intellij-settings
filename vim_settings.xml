@@ -93,12 +93,12 @@
         <mark key="^" line="14" column="94" />
         <mark key="." line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1519296303264">
-        <mark key="'" line="190" column="28" />
-        <mark key="[" line="39" column="96" />
-        <mark key="]" line="39" column="124" />
-        <mark key="." line="156" column="73" />
-        <mark key="^" line="39" column="124" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1519307586042">
+        <mark key="'" line="207" column="100" />
+        <mark key="[" line="32" column="164" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="29" />
+        <mark key="^" line="33" column="29" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1516184216694">
         <mark key="[" line="66" column="34" />
@@ -578,7 +578,7 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519303753722">
+      <file name="/Dummy.txt" timestamp="1519307501104">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -697,16 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="61" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
-      <jump line="1946" column="21" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
-      <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" />
-      <jump line="42" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
-      <jump line="83" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
-      <jump line="2274" column="13" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
-      <jump line="11" column="11" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
-      <jump line="73" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
-      <jump line="122" column="22" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
       <jump line="110" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.085.sql" />
       <jump line="370" column="12" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
@@ -797,13 +787,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1250" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="12" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_dagbesteding.xhtml" />
+      <jump line="26" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="75" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="143" column="34" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="152" column="70" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="155" column="70" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="196" column="92" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="197" column="95" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="198" column="143" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="204" column="99" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="206" column="100" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>checkboxpadding</text>
+        <text>#{uitgebreidAdviesAction}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVkU2VwYXJhdG9yIi8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -840,61 +840,60 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>.checkboxpadding</text>
+        <text>action</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CTx1aTpwYXJhbSBuYW1lPSJ0YWJsZXN0eWxlIiB2YWx1ZT0iI3tub3QgZW1wdHkgdGFibGVzdHlsZSA/IHRhYmxlc3R5bGUgOiAnY2hlY2tCb3hUZXh0VGFibGUnfSIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVkU2VwYXJhdG9yIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3tVaXRnZWJyZWlkQWR2aWVzQWN0aW9uLn0K</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVkU2VwYXJhdG9yIi8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">Ci5oaWRlIHsKICAgIGRpc3BsYXk6IG5vbmU7Cn0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3ttZXNzYWdlc1snbGFiZWwuYmVlaW5kaWdpbmcubGluayddfSIvPg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJyLz4K</text>
+      <register name="9" type="4">
+        <text encoding="base64">PGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3ttZXNzYWdlc1snbGFiZWwuYmVlaW5kaWdpbmcubGluayddfSIvPg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>.checkboxpadding</last-search>
+      <last-search>action</last-search>
       <last-offset />
-      <last-pattern>.checkboxpadding</last-pattern>
+      <last-pattern>action</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\verslaving</entry>
         <entry>\cverslaving</entry>
         <entry>fragmentLabe</entry>
         <entry>fragmentLa</entry>
@@ -914,6 +913,7 @@ VALUES
         <entry>checkBox</entry>
         <entry encoding="base64">XDx4aHRtbFw+</entry>
         <entry>.checkboxpadding</entry>
+        <entry>action</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
