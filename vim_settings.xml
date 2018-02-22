@@ -157,12 +157,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1519301917815">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1519304928194">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="37" column="126" />
-        <mark key="]" line="37" column="140" />
-        <mark key="." line="37" column="140" />
-        <mark key="^" line="37" column="140" />
+        <mark key="[" line="68" column="142" />
+        <mark key="]" line="68" column="143" />
+        <mark key="." line="68" column="143" />
+        <mark key="^" line="68" column="142" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
         <mark key="[" line="4" column="0" />
@@ -189,11 +189,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" timestamp="1519217278417">
-        <mark key="[" line="8292" column="13" />
-        <mark key="]" line="8292" column="33" />
-        <mark key="^" line="8292" column="33" />
-        <mark key="." line="8292" column="33" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" timestamp="1519304188428">
+        <mark key="[" line="8684" column="35" />
+        <mark key="]" line="8685" column="33" />
+        <mark key="^" line="8685" column="33" />
+        <mark key="." line="8685" column="33" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/sneladvies/blokNoLayout.xhtml" timestamp="1516008905339">
         <mark key="[" line="55" column="0" />
@@ -558,13 +558,25 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="86" column="33" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/onderliggende/checkboxWithCustomFragment.xhtml" timestamp="1519304701091">
+        <mark key="[" line="17" column="75" />
+        <mark key="]" line="17" column="75" />
+        <mark key="." line="17" column="75" />
+        <mark key="^" line="14" column="81" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/textBoxFragment.xhtml" timestamp="1519119214666">
         <mark key="[" line="22" column="120" />
         <mark key="]" line="21" column="37" />
         <mark key="^" line="21" column="37" />
         <mark key="." line="21" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519297017468">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/onderliggende/checkboxWithOnderliggendeTextFragment.xhtml" timestamp="1519303402410">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="100" />
+        <mark key="^" line="13" column="83" />
+        <mark key="." line="13" column="83" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1519303753722">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -788,8 +800,8 @@
       <register name="a" type="4">
         <text>checkboxpadding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -826,46 +838,46 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>checkboxpadding</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>.checkboxpadding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3ttZXNzYWdlc1snbGFiZWwuYmxvay5iZWVpbmRpZ2luZyddfSIvPgo=</text>
+        <text encoding="base64">CTx1aTpwYXJhbSBuYW1lPSJ0YWJsZXN0eWxlIiB2YWx1ZT0iI3tub3QgZW1wdHkgdGFibGVzdHlsZSA/IHRhYmxlc3R5bGUgOiAnY2hlY2tCb3hUZXh0VGFibGUnfSIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ci5oaWRlIHsKICAgIGRpc3BsYXk6IG5vbmU7Cn0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">PGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3ttZXNzYWdlc1snbGFiZWwuYmVlaW5kaWdpbmcubGluayddfSIvPg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJyLz4K</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">R2VlZiBoaWVyb25kZXIgZGUgcmVkZW4gYWFuIG9mIGJla2lqayB3ZWxrZSBydWJyaWVrZW4gbm9nIG5pZXQgemlqbiBpbmdldnVsZCA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGJyLz4K</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgTmlldCBhbGxlIHJ1YnJpZWtlbiBkaWUgZWVuIHZvbGxlZGlnZSByaXNpY290YXhhdGllIHZvcm1lbiB6aWpuIGluZ2V2dWxkLg==</text>
+        <text encoding="base64">R2VlZiBoaWVyb25kZXIgZGUgcmVkZW4gYWFuIG9mIGJla2lqayB3ZWxrZSBydWJyaWVrZW4gbm9nIG5pZXQgemlqbiBpbmdldnVsZCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
