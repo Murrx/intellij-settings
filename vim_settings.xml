@@ -122,8 +122,8 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1519301939277">
-        <mark key="'" line="1250" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1519316961547">
+        <mark key="'" line="296" column="4" />
         <mark key="[" line="1165" column="0" />
         <mark key="]" line="1165" column="0" />
         <mark key="." line="1165" column="0" />
@@ -698,20 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
-      <jump line="190" column="28" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
-      <jump line="13" column="18" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
-      <jump line="2" column="29" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
-      <jump line="9598" column="21" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
-      <jump line="1118" column="47" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
-      <jump line="5" column="2" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
-      <jump line="1020" column="0" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
-      <jump line="8" column="2" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
-      <jump line="2349" column="0" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
-      <jump line="16" column="0" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
-      <jump line="12" column="3" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
-      <jump line="1054" column="0" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
       <jump line="22" column="3" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
       <jump line="194" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.097.sql" />
       <jump line="210" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.097.sql" />
@@ -798,6 +784,20 @@
       <jump line="7" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/textAreaFragment.xhtml" />
       <jump line="36" column="53" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/textAreaFragment.xhtml" />
       <jump line="15" column="56" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/textAreaFragment.xhtml" />
+      <jump line="1246" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="133" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="439" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="443" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="449" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="746" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="782" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="874" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="978" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="152" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="178" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="286" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="291" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="296" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -844,7 +844,7 @@ VALUES
         <text>factoren</text>
       </register>
       <register name="/" type="4">
-        <text>showInfoTekst</text>
+        <text>font-weight: bold</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dWl0Z2VicmVpZGFkdmllcy5tZW51LmZhY3RvcmVuPUZhY3RvcmVuCg==</text>
@@ -887,16 +887,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>showInfoTekst</last-search>
+      <last-search>font-weight: bold</last-search>
       <last-offset />
-      <last-pattern>showInfoTekst</last-pattern>
+      <last-pattern>font-weight: bold</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jaa</entry>
-        <entry encoding="base64">amFhIA==</entry>
         <entry>ua_advies_voorwpij_uitvoerbaar</entry>
         <entry>ua_advies_tbsvoorw_uitvoerbaar</entry>
         <entry>ua_rechtszitting_maatregelen_verboden</entry>
@@ -915,6 +913,8 @@ VALUES
         <entry>getLabel</entry>
         <entry>styleLabel</entry>
         <entry>showInfoTekst</entry>
+        <entry>font-weight</entry>
+        <entry>font-weight: bold</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
