@@ -93,7 +93,7 @@
         <mark key="^" line="14" column="94" />
         <mark key="." line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1519293780536">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1519296303264">
         <mark key="'" line="190" column="28" />
         <mark key="[" line="39" column="96" />
         <mark key="]" line="39" column="124" />
@@ -118,12 +118,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1519217462353">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1519297192516">
         <mark key="'" line="1244" column="9" />
-        <mark key="[" line="1244" column="9" />
-        <mark key="]" line="1245" column="15" />
-        <mark key="^" line="1245" column="15" />
-        <mark key="." line="1245" column="15" />
+        <mark key="[" line="1160" column="4" />
+        <mark key="]" line="1160" column="16" />
+        <mark key="^" line="1160" column="16" />
+        <mark key="." line="1160" column="16" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/stam/Regio.java" timestamp="1509631826835">
         <mark key="'" line="75" column="6" />
@@ -158,12 +158,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1519294209223">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1519296463218">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="56" column="130" />
-        <mark key="]" line="56" column="130" />
-        <mark key="." line="56" column="130" />
-        <mark key="^" line="56" column="131" />
+        <mark key="[" line="55" column="130" />
+        <mark key="]" line="55" column="130" />
+        <mark key="." line="37" column="105" />
+        <mark key="^" line="55" column="131" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
         <mark key="[" line="4" column="0" />
@@ -417,8 +417,8 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1519223784731">
-        <mark key="'" line="42" column="36" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1519296612071">
+        <mark key="'" line="112" column="19" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="94" />
         <mark key="." line="26" column="72" />
@@ -565,8 +565,11 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="21" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519217295307">
+      <file name="/Dummy.txt" timestamp="1519297017468">
+        <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelinstrument/si-textArea.xhtml" timestamp="1516010170219">
         <mark key="[" line="48" column="79" />
@@ -681,24 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="14" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="67" column="13" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="71" column="12" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="76" column="15" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="925" column="44" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="7" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
-      <jump line="46" column="8" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
-      <jump line="6" column="20" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
-      <jump line="48" column="22" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
-      <jump line="1219" column="21" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="374" column="20" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="921" column="22" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="1148" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="315" column="82" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="37" column="31" filename="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" />
-      <jump line="159" column="58" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
-      <jump line="17" column="17" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
-      <jump line="12" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="22" column="42" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_verslaving.xhtml" />
       <jump line="16" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_verslaving.xhtml" />
       <jump line="24" column="50" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
@@ -781,13 +766,31 @@
       <jump line="41" column="58" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.098.sql" />
       <jump line="63" column="30" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.098.sql" />
       <jump line="8" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" />
+      <jump line="30" column="84" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="32" column="30" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="34" column="30" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="35" column="30" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="39" column="31" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="99" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="100" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="101" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="102" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="103" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="104" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="105" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="106" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="107" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="108" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="109" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="112" column="19" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
+      <jump line="0" column="2" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">PGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3ttZXNzYWdlc1snbGFiZWwuYmVlaW5kaWdpbmcubGluayddfSIvPg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>m</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -824,10 +827,10 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>Inschatting ernst</text>
+        <text encoding="base64">XDx4aHRtbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3ttZXNzYWdlc1snbGFiZWwuYmxvay5iZWVpbmRpZ2luZyddfSIvPgo=</text>
@@ -870,21 +873,17 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>Inschatting ernst</last-search>
+      <last-search encoding="base64">XDx4aHRtbFw+</last-search>
       <last-offset />
-      <last-pattern>Inschatting ernst</last-pattern>
+      <last-pattern encoding="base64">XDx4aHRtbFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.bottom</entry>
-        <entry>filler</entry>
-        <entry>bottomAllign</entry>
         <entry>bottomAlign</entry>
         <entry>\verslaving</entry>
         <entry>\cverslaving</entry>
-        <entry>width20</entry>
         <entry>fragmentLabe</entry>
         <entry>fragmentLa</entry>
         <entry>Andere middelen of</entry>
@@ -898,6 +897,10 @@ VALUES
         <entry>ua_advies_uitvoerbaarheid</entry>
         <entry>Advies1</entry>
         <entry>Inschatting ernst</entry>
+        <entry>width20</entry>
+        <entry>checkbox</entry>
+        <entry>checkBox</entry>
+        <entry encoding="base64">XDx4aHRtbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
