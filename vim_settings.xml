@@ -118,12 +118,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1519297192516">
-        <mark key="'" line="1244" column="9" />
-        <mark key="[" line="1160" column="4" />
-        <mark key="]" line="1160" column="16" />
-        <mark key="^" line="1160" column="16" />
-        <mark key="." line="1160" column="16" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1519301939277">
+        <mark key="'" line="1250" column="0" />
+        <mark key="[" line="1165" column="0" />
+        <mark key="]" line="1165" column="0" />
+        <mark key="." line="1165" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/stam/Regio.java" timestamp="1509631826835">
         <mark key="'" line="75" column="6" />
@@ -158,12 +157,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1519296463218">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1519301917815">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="55" column="130" />
-        <mark key="]" line="55" column="130" />
-        <mark key="." line="37" column="105" />
-        <mark key="^" line="55" column="131" />
+        <mark key="[" line="37" column="126" />
+        <mark key="]" line="37" column="140" />
+        <mark key="." line="37" column="140" />
+        <mark key="^" line="37" column="140" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
         <mark key="[" line="4" column="0" />
@@ -431,11 +430,11 @@
         <mark key="^" line="18" column="140" />
         <mark key="." line="18" column="140" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/checkBoxFragment.xhtml" timestamp="1517932444258">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="41" />
-        <mark key="." line="16" column="36" />
-        <mark key="^" line="16" column="36" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/checkBoxFragment.xhtml" timestamp="1519301758420">
+        <mark key="[" line="30" column="65" />
+        <mark key="]" line="30" column="65" />
+        <mark key="." line="30" column="65" />
+        <mark key="^" line="30" column="65" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/web.xml" timestamp="1516999884092">
         <mark key="'" line="0" column="0" />
@@ -684,8 +683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="42" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_verslaving.xhtml" />
-      <jump line="16" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_verslaving.xhtml" />
       <jump line="24" column="50" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="198" column="61" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="1946" column="21" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.082.sql" />
@@ -759,7 +756,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/gdisqlgen/test.sql" />
       <jump line="0" column="49" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.098.sql" />
       <jump line="31" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1244" column="9" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="4" column="41" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.098.sql" />
       <jump line="31" column="4" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.098.sql" />
@@ -784,13 +780,16 @@
       <jump line="109" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="112" column="19" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="0" column="2" filename="/Dummy.txt" />
+      <jump line="1163" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="1250" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">PGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3ttZXNzYWdlc1snbGFiZWwuYmVlaW5kaWdpbmcubGluayddfSIvPg==</text>
+        <text>checkboxpadding</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -827,61 +826,60 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>checkboxpadding</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx4aHRtbFw+</text>
+        <text>.checkboxpadding</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3ttZXNzYWdlc1snbGFiZWwuYmxvay5iZWVpbmRpZ2luZyddfSIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3ttZXNzYWdlc1snbGFiZWwuYmVlaW5kaWdpbmcubGluayddfSIvPg==</text>
+        <text encoding="base64">Ci5oaWRlIHsKICAgIGRpc3BsYXk6IG5vbmU7Cn0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJyLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">R2VlZiBoaWVyb25kZXIgZGUgcmVkZW4gYWFuIG9mIGJla2lqayB3ZWxrZSBydWJyaWVrZW4gbm9nIG5pZXQgemlqbiBpbmdldnVsZCA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgTmlldCBhbGxlIHJ1YnJpZWtlbiBkaWUgZWVuIHZvbGxlZGlnZSByaXNpY290YXhhdGllIHZvcm1lbiB6aWpuIGluZ2V2dWxkLg==</text>
+        <text encoding="base64">PGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3ttZXNzYWdlc1snbGFiZWwuYmVlaW5kaWdpbmcubGluayddfSIvPg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3ttZXNzYWdlc1snbGFiZWwuYmxvay5iZWVpbmRpZ2luZy5saW5rJ119Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJyLz4K</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAtIG5hYW06IHVhX2Fkdmllc192b29yd3Bpal91aXR2b2VyYmFhcgogICAgb21zY2hyaWp2aW5nOiBEYWRlbGlqa2UgdWl0dm9lcmJhYXJoZWlkCiAgICB3YWFyZGViZXJlaWs6IHVhX2Fkdmllc19kYWRlbGlqa2VfdWl0dm9lcmJhYXJoZWlkCiAgICByZWxldmFudGllZnVuY3RpZTogS0FERVJWT09SV1BJSgogICAgaXRla3N0OiBVMjYwNAoKICAtIG5hYW06IHVhX2Fkdmllc190YnN2b29yd191aXR2b2VyYmFhcgogICAgb21zY2hyaWp2aW5nOiBEYWRlbGlqa2UgdWl0dm9lcmJhYXJoZWlkCiAgICB3YWFyZGViZXJlaWs6IHVhX2Fkdmllc19kYWRlbGlqa2VfdWl0dm9lcmJhYXJoZWlkCiAgICByZWxldmFudGllZnVuY3RpZTogS0FERVJUQlNNRVRWT09SVwogICAgaXRla3N0OiBVMDcwMwoKICAtIG5hYW06IHVhX2Fkdmllc191aXR2b2VyYmFhcmhlaWQKICAgIG9tc2NocmlqdmluZzogRGFkZWxpamtlIHVpdHZvZXJiYWFyaGVpZAogICAgd2FhcmRlYmVyZWlrOiB1YV9hZHZpZXNfZGFkZWxpamtlX3VpdHZvZXJiYWFyaGVpZAogICAgcmVsZXZhbnRpZWZ1bmN0aWU6IEtBREVSUkVDSFRTWklUVElORwogICAgaXRla3N0OiBVMjQwOA==</text>
+        <text encoding="base64">R2VlZiBoaWVyb25kZXIgZGUgcmVkZW4gYWFuIG9mIGJla2lqayB3ZWxrZSBydWJyaWVrZW4gbm9nIG5pZXQgemlqbiBpbmdldnVsZCA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBJTkZPVEVLU1RFTiB3aGVyZSBDT0RFID0gJ1UyNjA0Jwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgTmlldCBhbGxlIHJ1YnJpZWtlbiBkaWUgZWVuIHZvbGxlZGlnZSByaXNpY290YXhhdGllIHZvcm1lbiB6aWpuIGluZ2V2dWxkLg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx4aHRtbFw+</last-search>
+      <last-search>.checkboxpadding</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx4aHRtbFw+</last-pattern>
+      <last-pattern>.checkboxpadding</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bottomAlign</entry>
         <entry>\verslaving</entry>
         <entry>\cverslaving</entry>
         <entry>fragmentLabe</entry>
@@ -901,6 +899,7 @@ VALUES
         <entry>checkbox</entry>
         <entry>checkBox</entry>
         <entry encoding="base64">XDx4aHRtbFw+</entry>
+        <entry>.checkboxpadding</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
