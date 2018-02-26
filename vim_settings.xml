@@ -96,13 +96,13 @@
         <mark key="^" line="14" column="94" />
         <mark key="." line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1519312309656">
-        <mark key="'" line="64" column="54" />
-        <mark key="k" line="65" column="38" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="47" column="95" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1519640461510">
+        <mark key="'" line="65" column="54" />
+        <mark key="k" line="66" column="38" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="51" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1516184216694">
         <mark key="[" line="66" column="34" />
@@ -396,11 +396,11 @@
         <mark key="." line="77" column="21" />
         <mark key="^" line="77" column="21" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/sliderFragment.xhtml" timestamp="1519638557850">
-        <mark key="[" line="32" column="41" />
-        <mark key="]" line="32" column="41" />
-        <mark key="." line="32" column="41" />
-        <mark key="^" line="32" column="39" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/sliderFragment.xhtml" timestamp="1519640566194">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="21" column="118" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.071.sql" timestamp="1517905612471">
         <mark key="'" line="0" column="0" />
@@ -541,6 +541,12 @@
         <mark key="." line="22" column="146" />
         <mark key="^" line="22" column="146" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/js/gdi.js" timestamp="1519640769120">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/beeindiging_popup.xhtml" timestamp="1519225111850">
         <mark key="[" line="16" column="93" />
         <mark key="]" line="16" column="93" />
@@ -553,6 +559,9 @@
         <mark key="]" line="44" column="25" />
         <mark key="^" line="44" column="25" />
         <mark key="." line="44" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/js/iris.js" timestamp="1519640166964">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/new/label.xhtml" timestamp="1515768893643">
         <mark key="[" line="6" column="0" />
@@ -704,7 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="3" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
       <jump line="194" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.097.sql" />
       <jump line="210" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.097.sql" />
       <jump line="0" column="49" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.097.sql" />
@@ -804,10 +812,11 @@
       <jump line="286" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="291" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="296" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/js/iris.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>&quot;disableSlider#{veldNaam}();</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHR5cGU9ImFwcGxpY2F0aW9uL2phdmFzY3JpcHQiPgogICAgICAgICAgICBmdW5jdGlvbiBkaXNhYmxlU2xpZGVyI3t2ZWxkTmFhbX0oKSB7CiAgICAgICAgICAgICAgICAje3JpY2g6alF1ZXJ5KHNsaWRlcklkKX0udW5tb3VzZXdoZWVsKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIGRpc2FibGVTbGlkZXIje3ZlbGROYWFtfSgpOwogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
@@ -856,37 +865,39 @@ VALUES
         <text encoding="base64">dWl0Z2VicmVpZGFkdmllcy5tZW51LmZhY3RvcmVuPUZhY3RvcmVuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJChkb2N1bWVudCkucmVhZHkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXRvZG86bWFrZSBwcm9wZXJ0eS0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICN7bWVzc2FnZXNbJ3VpdGdlYnJlaWRhZHZpZXMubWVudS52ZXJkaWVwaW5nZW4nXX0K</text>
+      <register name="3" type="4">
+        <text>$(document).ready(function () {
+    disableSlider#{veldNaam}();
+});</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICN7bWVzc2FnZXNbJ3VpdGdlYnJlaWRhZHZpZXMubWVudS5mYWN0b3JlbiddfQo=</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHR5cGU9ImFwcGxpY2F0aW9uL2phdmFzY3JpcHQiPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIEBmb3JtYXR0ZXI6b24gLS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3NjcmlwdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAje3VpdGdlYnJlaWRBZHZpZXNBY3Rpb24uZ2V0Qmxva1dpdGhOYW1lKCJ1aXRnZWJyZWlkX2dlZ2V2ZW5zdm9vcmJsYWQiKS5sYWJlbH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlyaXM6c25lbE1lbnVJdGVtIGJsb2tuYW1lPSJ1YV9ibGEiLz4K</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIEBmb3JtYXR0ZXI6b2ZmIC0tPgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHR5cGU9ImFwcGxpY2F0aW9uL2phdmFzY3JpcHQiPgogICAgICAgICAgICBmdW5jdGlvbiBkaXNhYmxlU2xpZGVyI3t2ZWxkTmFhbX0oKSB7CiAgICAgICAgICAgICAgICAje3JpY2g6alF1ZXJ5KHNsaWRlcklkKX0udW5tb3VzZXdoZWVsKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIGRpc2FibGVTbGlkZXIje3ZlbGROYWFtfSgpOwogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
