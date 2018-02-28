@@ -300,6 +300,9 @@
         <mark key="^" line="765" column="53" />
         <mark key="." line="765" column="53" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/ee7/taglib/html_basic.taglib.xml" timestamp="1519813356910">
+        <mark key="'" line="7202" column="4" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/messages/common.properties" timestamp="1516959204584">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="107" column="42" />
@@ -433,12 +436,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1519296612071">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1519813338920">
         <mark key="'" line="112" column="19" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="94" />
-        <mark key="." line="26" column="72" />
-        <mark key="^" line="27" column="23" />
+        <mark key="[" line="11" column="59" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="53" />
+        <mark key="^" line="11" column="53" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/totaalscoreFragment.xhtml" timestamp="1516198039570">
         <mark key="'" line="0" column="0" />
@@ -601,7 +604,7 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519649424047">
+      <file name="/Dummy.txt" timestamp="1519813289898">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -671,11 +674,11 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/repeatableFragment.xhtml" timestamp="1519804861417">
-        <mark key="[" line="20" column="84" />
-        <mark key="]" line="20" column="84" />
-        <mark key="." line="20" column="84" />
-        <mark key="^" line="20" column="84" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/repeatableFragment.xhtml" timestamp="1519813515147">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.073.sql" timestamp="1516789701658">
         <mark key="'" line="661" column="7" />
@@ -720,7 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="108" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="109" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="112" column="19" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
@@ -820,6 +822,7 @@
       <jump line="118" column="28" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/RepeatableVeldWrapper.java" />
       <jump line="120" column="9" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/RepeatableVeldWrapper.java" />
       <jump line="8880" column="19" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" />
+      <jump line="7202" column="4" filename="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/ee7/taglib/html_basic.taglib.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -868,7 +871,7 @@ VALUES
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>required</text>
+        <text>layout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dWl0Z2VicmVpZGFkdmllcy5tZW51LmZhY3RvcmVuPUZhY3RvcmVuCg==</text>
@@ -911,15 +914,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>required</last-search>
+      <last-search>layout</last-search>
       <last-offset />
-      <last-pattern>required</last-pattern>
+      <last-pattern>layout</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Advies1</entry>
         <entry>Inschatting ernst</entry>
         <entry>width20</entry>
         <entry>checkbox</entry>
@@ -939,6 +941,7 @@ VALUES
         <entry>getWaarde</entry>
         <entry>waarde</entry>
         <entry>required</entry>
+        <entry>layout</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
