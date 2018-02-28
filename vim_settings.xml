@@ -138,6 +138,9 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="146" column="26" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" timestamp="1519826793119">
+        <mark key="'" line="138" column="18" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/messages/generiek.properties" timestamp="1509980873266">
         <mark key="'" line="276" column="18" />
         <mark key="[" line="765" column="52" />
@@ -223,12 +226,12 @@
         <mark key="^" line="18" column="140" />
         <mark key="." line="18" column="140" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/web.xml" timestamp="1516999884092">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/web.xml" timestamp="1519826634579">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="68" />
-        <mark key="." line="18" column="46" />
-        <mark key="^" line="18" column="45" />
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="22" column="22" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_relatiepartner.xhtml" timestamp="1516873214821">
         <mark key="'" line="29" column="83" />
@@ -312,11 +315,10 @@
         <mark key="^" line="306" column="37" />
         <mark key="." line="306" column="37" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdiTemplate.xhtml" timestamp="1519821987418">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="10" column="33" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdiTemplate.xhtml" timestamp="1519826875947">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/test/java/nl/reclassering/iris/web/action/component/training/TrainingListActionTest.java" timestamp="1508758506666">
         <mark key="'" line="356" column="38" />
@@ -364,9 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="2" filename="/Dummy.txt" />
-      <jump line="1163" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="1250" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="12" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_dagbesteding.xhtml" />
       <jump line="26" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="75" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
@@ -464,6 +463,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1235" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="81" column="41" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/fragmentTemplate.xhtml" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
+      <jump line="38" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
+      <jump line="138" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -471,8 +473,8 @@
     activateMenu();
 });</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>editable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
@@ -509,34 +511,34 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>editable</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>layout</text>
+        <text>Template</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8dWk6aW5zZXJ0IG5hbWU9ImVkaXRhYmxlIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpZiBlZGl0YTwvaWY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx1aTppbnNlcnQgbmFtZT0iaW5mb2J1dHRvbiI+PC91aTppbnNlcnQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFsLy9FTiIKICAgICAgICAiaHR0cDovL3d3dy53My5vcmcvVFIveGh0bWwxL0RURC94aHRtbDEtdHJhbnNpdGlvbmFsLmR0ZCI+CjxodG1sIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIgogICAgICB4bWxuczpoPSJodHRwOi8veG1sbnMuamNwLm9yZy9qc2YvaHRtbCIKICAgICAgeG1sbnM6dWk9Imh0dHA6Ly94bWxucy5qY3Aub3JnL2pzZi9mYWNlbGV0cyIKICAgICAgeG1sbnM6Zj0iaHR0cDovL3htbG5zLmpjcC5vcmcvanNmL2NvcmUiPgo8Zjp2aWV3PgogICAgPGg6b3V0cHV0TGFiZWwgdmFsdWU9IkhlbGxvLCB3b3JsZCIvPgo8L2Y6dmlldz4KPC9odG1sPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JChkb2N1bWVudCkuKGZ1bmN0aW9uICgpIHsKICAgIGNvbnNvbGUubG9nKCdhamF4Y29tcGxldGUnKTsKfSkK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWFkeScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -544,28 +546,25 @@ VALUES
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vamF2YXNjcmlwdCI+CgogICAgICAgICQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlYWR5Jyk7CiAgICAgICAgfSk7CiAgICA8L3NjcmlwdD4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZhdGVNZW51KCk7Cg==</text>
+        <text encoding="base64">PCEtLXdhYXJkZSAvIHJlYWRvbmx5d2FhcmRlLS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>layout</last-search>
+      <last-search>Template</last-search>
       <last-offset />
-      <last-pattern>layout</last-pattern>
+      <last-pattern>Template</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Inschatting ernst</entry>
-        <entry>width20</entry>
-        <entry>checkbox</entry>
         <entry>checkBox</entry>
         <entry encoding="base64">XDx4aHRtbFw+</entry>
         <entry>.checkboxpadding</entry>
@@ -583,6 +582,9 @@ VALUES
         <entry>waarde</entry>
         <entry>required</entry>
         <entry>layout</entry>
+        <entry>fragment</entry>
+        <entry>template</entry>
+        <entry>Template</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
