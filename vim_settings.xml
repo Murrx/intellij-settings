@@ -28,11 +28,10 @@
         <mark key="." line="1812" column="66" />
         <mark key="^" line="1812" column="66" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/layout.xhtml" timestamp="1519831223144">
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="25" column="28" />
-        <mark key="^" line="25" column="28" />
-        <mark key="." line="25" column="28" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/layout.xhtml" timestamp="1519835210376">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.072.sql" timestamp="1515756729300">
         <mark key="'" line="0" column="0" />
@@ -246,6 +245,11 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/blokNoLayout.xhtml" timestamp="1519832194958">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/modalPanel.xhtml" timestamp="1516893171589">
         <mark key="[" line="59" column="84" />
         <mark key="]" line="59" column="122" />
@@ -276,11 +280,11 @@
         <mark key="^" line="87" column="93" />
         <mark key="." line="87" column="93" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/imageFragment2.xhtml" timestamp="1519831209147">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="24" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/imageFragment2.xhtml" timestamp="1519834888722">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/nl/reclassering/iris/web/action/components/word/template.xsd" timestamp="1513771282819">
         <mark key="[" line="78" column="62" />
@@ -302,12 +306,12 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="146" column="26" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" timestamp="1519828123087">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="168" column="65" />
-        <mark key="]" line="168" column="65" />
-        <mark key="^" line="168" column="65" />
-        <mark key="." line="168" column="65" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" timestamp="1519832188047">
+        <mark key="'" line="734" column="18" />
+        <mark key="[" line="32" column="65" />
+        <mark key="]" line="32" column="65" />
+        <mark key="^" line="32" column="69" />
+        <mark key="." line="32" column="65" />
       </file>
       <file name="$USER_HOME$/git/jsf-playground/web/WEB-INF/faces-config.xml" timestamp="1516986663096">
         <mark key="[" line="10" column="4" />
@@ -332,11 +336,11 @@
         <mark key="^" line="107" column="47" />
         <mark key="." line="107" column="47" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorblad.xhtml" timestamp="1519830921152">
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="43" column="26" />
-        <mark key="." line="43" column="26" />
-        <mark key="^" line="43" column="26" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorblad.xhtml" timestamp="1519835030358">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="12" />
+        <mark key="." line="47" column="12" />
+        <mark key="^" line="47" column="12" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/doelenregistratie/GroepeerType.java" timestamp="1509369855361">
         <mark key="[" line="58" column="34" />
@@ -638,7 +642,7 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519823092682">
+      <file name="/Dummy.txt" timestamp="1519835172165">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -681,6 +685,9 @@
         <mark key="]" line="215" column="6" />
         <mark key="." line="215" column="6" />
         <mark key="^" line="215" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" timestamp="1519835306146">
+        <mark key="'" line="265" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/component/doelenregistratie/doelenRegistratie.xhtml" timestamp="1508935135085">
         <mark key="'" line="41" column="25" />
@@ -764,8 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="95" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
-      <jump line="198" column="143" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="204" column="99" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="206" column="100" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="7" column="11" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelMenuItem.xhtml" />
@@ -862,15 +867,17 @@
       <jump line="44" column="21" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
       <jump line="182" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
       <jump line="126" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
-      <jump line="166" column="9" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
       <jump line="127" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
+      <jump line="166" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
+      <jump line="710" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
+      <jump line="265" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>skipLayout</text>
+        <text encoding="base64">ICAgIDx0YWc+CiAgICAgICAgPHRhZy1uYW1lPmJsb2s8L3RhZy1uYW1lPgogICAgICAgIDxzb3VyY2U+Li4vbGF5b3V0L2NvbXBvbmVudHMvaW5zdHJ1bWVudC9nZGkvYmxvay54aHRtbDwvc291cmNlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPmlkPC9uYW1lPgogICAgICAgICAgICA8dHlwZT5qYXZhLmxhbmcuU3RyaW5nPC90eXBlPgogICAgICAgIDwvYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPm5hbWU8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmphdmEubGFuZy5TdHJpbmc8L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+ZXhwYW5kZWQ8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+c2Nyb2xsdG88L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+c3R5bGVDbGFzczwvbmFtZT4KICAgICAgICAgICAgPHR5cGU+amF2YS5sYW5nLlN0cmluZzwvdHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgIDwvdGFnPg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>skipLayout</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwvaDpwYW5lbEdyaWQ+Cg==</text>
       </register>
       <register name="b" type="4">
         <text>readonlyContent</text>
@@ -907,62 +914,60 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>imageFragment</text>
+        <text>.propertyRow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1aTppbnNlcnQgbmFtZT0iZWRpdGFibGVDb250ZW50Ij4K</text>
+        <text encoding="base64">ICAgICAgICA8L2lyaXM6bGF5b3V0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9iaW4gd2FzIGhlcmUK</text>
+        <text encoding="base64">ICAgIDwvaDpwYW5lbEdyaWQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvYmluIHdhcyBoZXJlCg==</text>
+        <text encoding="base64">PC91aTpjb21wb3NpdGlvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJvYmluIHdhcyBoZXJlCg==</text>
+        <text encoding="base64">ICAgIDxoOnBhbmVsR3JpZCBzdHlsZUNsYXNzPSJwcm9wZXJ0eVBhbmVsIiByb3dDbGFzc2VzPSJwcm9wZXJ0eVJvdyIgY29sdW1uQ2xhc3Nlcz0iZW5rZWxla29sb20iPgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByb2JpbiB3YXMgaGVyZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx0YWcK</text>
+        <text encoding="base64">ICAgIDwvYzpjaG9vc2U+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PgogICAgICAgIDx0YWctbmFtZT5pbWFnZUZyYWdtZW50MjwvdGFnLW5hbWU+dGFnLW5hbWU+CiAgICAgICAgPHNvdXJjZT4uLi9sYXlvdXQvY29tcG9uZW50cy9pbnN0cnVtZW50L2dkaS9pbWFnZUZyYWdtZW50Mi54aHRtbDwvc291cmNlPnNvdXJjZT4KICAgICAgICA8YXR0cmlidXRlPgogICAgICAgICAgICA8bmFtZT52ZWxkTmFhbTwvbmFtZT5uYW1lPgogICAgICAgICAgICA8dHlwZT5qYXZhLmxhbmcuU3RyaW5nPC90eXBlPnR5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPnZvbGdOcjwvbmFtZT5uYW1lPgogICAgICAgICAgICA8dHlwZT5qYXZhLmxhbmcuU3RyaW5nPC90eXBlPnR5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPmZyYWdtZW50TGFiZWxDbGFzczwvbmFtZT5uYW1lPgogICAgICAgICAgICA8dHlwZT5qYXZhLmxhbmcuU3RyaW5nPC90eXBlPnR5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPmVuYWJsZVRvZWxpY2h0aW5nPC9uYW1lPm5hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+dHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICBhdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+aGlkZUxhYmVsPC9uYW1lPm5hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+dHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICBhdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+aGlkZVdhYXJkZTwvbmFtZT5uYW1lPgogICAgICAgICAgICA8dHlwZT5ib29sZWFuPC90eXBlPnR5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPmVkaXRhYmxlPC9uYW1lPm5hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+dHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICBhdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+aW1hZ2VXaWR0aDwvbmFtZT5uYW1lPgogICAgICAgICAgICA8dHlwZT5pbnRlZ2VyPC90eXBlPnR5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPmltYWdlSGVpZ2h0PC9uYW1lPm5hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+dHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICBhdHRyaWJ1dGU+CiAgICA8L3RhZz4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8L2M6b3RoZXJ3aXNlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvdWk6aW5zZXJ0Pgo=</text>
+        <text encoding="base64">ICAgICAgIDxjOm90aGVyd2lzZT4K</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8dWk6aW5zZXJ0IG5hbWU9InJlYWQtb25seSIvPgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIDxjOmNob29zZT4KICAgICAgICA8Yzp3aGVuIHRlc3Q9IiN7bm90IGVtcHR5IGNvbHVtbnMgYW5kIGNvbHVtbnMgPT0gJzInfSI+CiAgICAgICAgICAgIDxoOnBhbmVsR3JvdXAgbGF5b3V0PSJibG9jayIgc3R5bGU9InBhZGRpbmc6MHB4Ij4KICAgICAgICAgICAgICAgIDxoOnBhbmVsR3JpZCBjb2x1bW5zPSIyIiBzdHlsZUNsYXNzPSJwcm9wZXJ0eVBhbmVsIiBzdHlsZT0icGFkZGluZzowcHg7IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbkNsYXNzZXM9Im9uZ2VsaWprd2FhcmRpZ2xpbmtzLG9uZ2VsaWprd2FhcmRpZ3JlY2h0cyI+CiAgICAgICAgICAgICAgICAgICAgPGg6cGFuZWxHcmlkIHN0eWxlQ2xhc3M9InByb3BlcnR5UGFuZWwiIHJvd0NsYXNzZXM9InByb3BlcnR5Um93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHVpOmluc2VydCBuYW1lPSJsZWZ0Q29sdW1uIi8+CiAgICAgICAgICAgICAgICAgICAgPC9oOnBhbmVsR3JpZD4KICAgICAgICAgICAgICAgICAgICA8aDpwYW5lbEdyaWQgc3R5bGVDbGFzcz0icHJvcGVydHlQYW5lbCIgcm93Q2xhc3Nlcz0icHJvcGVydHlSb3ciPgogICAgICAgICAgICAgICAgICAgICAgICA8dWk6aW5zZXJ0IG5hbWU9InJpZ2h0Q29sdW1uIi8+CiAgICAgICAgICAgICAgICAgICAgPC9oOnBhbmVsR3JpZD4KICAgICAgICAgICAgICAgIDwvaDpwYW5lbEdyaWQ+CiAgICAgICAgICAgIDwvaDpwYW5lbEdyb3VwPgogICAgICAgIDwvYzp3aGVuPgoKIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8dWk6aW5zZXJ0IG5hbWU9ImVkaXRhYmxlIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>imageFragment</last-search>
+      <last-search>.propertyRow</last-search>
       <last-offset />
-      <last-pattern>imageFragment</last-pattern>
+      <last-pattern>.propertyRow</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.checkboxpadding</entry>
-        <entry>action</entry>
         <entry>detail</entry>
         <entry>switch</entry>
         <entry>scroll</entry>
@@ -981,6 +986,8 @@ VALUES
         <entry>Template</entry>
         <entry>defaults</entry>
         <entry>imageFragment</entry>
+        <entry>blok</entry>
+        <entry>.propertyRow</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
