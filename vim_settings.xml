@@ -125,8 +125,8 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1519316961547">
-        <mark key="'" line="296" column="4" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1519819940536">
+        <mark key="'" line="1235" column="0" />
         <mark key="[" line="1165" column="0" />
         <mark key="]" line="1165" column="0" />
         <mark key="." line="1165" column="0" />
@@ -579,8 +579,8 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/fragmentTemplate.xhtml" timestamp="1518104002265">
-        <mark key="'" line="63" column="58" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/fragmentTemplate.xhtml" timestamp="1519820572557">
+        <mark key="'" line="81" column="41" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="73" column="46" />
         <mark key="." line="86" column="33" />
@@ -604,7 +604,7 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519813289898">
+      <file name="/Dummy.txt" timestamp="1519819991916">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -723,12 +723,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
-      <jump line="109" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
-      <jump line="112" column="19" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" />
       <jump line="0" column="2" filename="/Dummy.txt" />
       <jump line="1163" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1250" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="12" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_dagbesteding.xhtml" />
       <jump line="26" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
@@ -823,6 +819,10 @@
       <jump line="120" column="9" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/RepeatableVeldWrapper.java" />
       <jump line="8880" column="19" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" />
       <jump line="7202" column="4" filename="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/ee7/taglib/html_basic.taglib.xml" />
+      <jump line="712" column="17" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="1235" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="81" column="41" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/fragmentTemplate.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
