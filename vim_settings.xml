@@ -3,6 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/IRIS/iris-domain-repository/src/main/java/nl/reclassering/iris/domain/programma/gi/training/TrainingCriteria.java" timestamp="1510040994728">
+        <mark key="[" line="102" column="27" />
+        <mark key="]" line="102" column="26" />
+        <mark key="^" line="102" column="26" />
+        <mark key="." line="102" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/onderliggende/labelLayoutCustomFragments2.xhtml" timestamp="1515056900929">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="177" />
+        <mark key="." line="40" column="46" />
+        <mark key="^" line="40" column="46" />
+      </file>
+      <file name="$USER_HOME$/git/jsf-playground/web/WEB-INF/web.xml" timestamp="1516988777324">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" timestamp="1519120822625">
         <mark key="'" line="1753" column="25" />
         <mark key="[" line="1812" column="38" />
@@ -21,6 +39,12 @@
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/AbstractVeldWrapper.java" timestamp="1519804155244">
         <mark key="'" line="380" column="0" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-common/src/main/java/nl/reclassering/iris/common/overstijgend/enumeraties/GebruikersVoorkeur.java" timestamp="1508923062425">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/component/training/trainingTabTraining.xhtml" timestamp="1511186010250">
         <mark key="'" line="15" column="25" />
         <mark key="[" line="17" column="94" />
@@ -28,12 +52,30 @@
         <mark key="^" line="17" column="98" />
         <mark key="." line="17" column="98" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/pages.xml" timestamp="1516035227428">
+        <mark key="[" line="129" column="8" />
+        <mark key="]" line="129" column="95" />
+        <mark key="^" line="129" column="7" />
+        <mark key="." line="129" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/adviezen/advies_tbsmetvoorwaarden.xhtml" timestamp="1519206648860">
+        <mark key="[" line="20" column="55" />
+        <mark key="]" line="20" column="84" />
+        <mark key="." line="20" column="157" />
+        <mark key="^" line="20" column="157" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_6.3007.sql" timestamp="1516106394404">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/information/messages.xhtml" timestamp="1516734718213">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="31" />
+        <mark key="^" line="30" column="31" />
+        <mark key="." line="30" column="31" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.097.sql" timestamp="1519207576985">
         <mark key="'" line="0" column="49" />
@@ -52,13 +94,37 @@
         <mark key="^" line="815" column="25" />
         <mark key="." line="815" column="25" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1519817729027">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/infoTekstFragment.xhtml" timestamp="1519217699623">
+        <mark key="[" line="11" column="99" />
+        <mark key="]" line="11" column="99" />
+        <mark key="^" line="14" column="94" />
+        <mark key="." line="11" column="99" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1519827762512">
         <mark key="'" line="22" column="37" />
         <mark key="k" line="66" column="38" />
         <mark key="[" line="14" column="23" />
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1516184216694">
+        <mark key="[" line="66" column="34" />
+        <mark key="]" line="66" column="37" />
+        <mark key="." line="66" column="37" />
+        <mark key="^" line="66" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/summary_popup.xhtml" timestamp="1511956772199">
+        <mark key="[" line="8" column="97" />
+        <mark key="]" line="8" column="96" />
+        <mark key="." line="8" column="96" />
+        <mark key="^" line="8" column="96" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/filter/VdlLogger.java" timestamp="1516029534669">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="70" column="1" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1519819940536">
         <mark key="'" line="1235" column="0" />
@@ -80,6 +146,12 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/si.taglib.xml" timestamp="1517003526683">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/messages/pages/component/projectenbank/projectenbank.properties" timestamp="1507822165742">
         <mark key="'" line="30" column="28" />
         <mark key="[" line="36" column="34" />
@@ -87,8 +159,26 @@
         <mark key="^" line="36" column="32" />
         <mark key="." line="36" column="32" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelinstrument/si-infoTekst.xhtml" timestamp="1515961736263">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1519304928194">
         <mark key="'" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/test/java/nl/reclassering/iris/web/action/component/projectenbank/ProjectenbankListActionTest.java" timestamp="1510048613443">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="7" />
+        <mark key="^" line="57" column="7" />
+        <mark key="." line="57" column="7" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/login.xhtml" timestamp="1517001337739">
         <mark key="'" line="14" column="14" />
@@ -97,12 +187,24 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="16" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/filter/VdlLoggerFactory.java" timestamp="1516029708947">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" timestamp="1519810778387">
         <mark key="'" line="8880" column="19" />
         <mark key="[" line="8881" column="0" />
         <mark key="]" line="8881" column="0" />
         <mark key="^" line="8875" column="36" />
         <mark key="." line="8881" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/sneladvies/blokNoLayout.xhtml" timestamp="1516008905339">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="19" />
+        <mark key="." line="55" column="19" />
+        <mark key="^" line="55" column="19" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_primaire_delict.xhtml" timestamp="1519822902382">
         <mark key="'" line="46" column="0" />
@@ -118,11 +220,62 @@
         <mark key="^" line="83" column="120" />
         <mark key="." line="83" column="120" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" timestamp="1519827334934">
+        <mark key="'" line="44" column="21" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_scil.xhtml" timestamp="1511523379160">
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="62" />
+        <mark key="." line="15" column="62" />
+        <mark key="^" line="15" column="62" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.076.sql" timestamp="1516711859700">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="33" />
+        <mark key="." line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_dagbesteding.xhtml" timestamp="1519305988732">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/modalPanel.xhtml" timestamp="1516893171589">
+        <mark key="[" line="59" column="84" />
+        <mark key="]" line="59" column="122" />
+        <mark key="." line="60" column="110" />
+        <mark key="^" line="60" column="110" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/components/word/TableProcessor.java" timestamp="1513778391707">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="150" column="3" />
+        <mark key="." line="34" column="9" />
+        <mark key="^" line="34" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/label.xhtml" timestamp="1517003316370">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/component/training/TrainingListAction.java" timestamp="1509633061419">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="3" />
+        <mark key="^" line="83" column="2" />
+        <mark key="." line="83" column="3" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/component/activiteit/uitgebreidadvies/uitgebreidadvies.pages.xml" timestamp="1516033578031">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="47" column="20" />
+        <mark key="^" line="87" column="93" />
+        <mark key="." line="87" column="93" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/nl/reclassering/iris/web/action/components/word/template.xsd" timestamp="1513771282819">
+        <mark key="[" line="78" column="62" />
+        <mark key="]" line="78" column="77" />
+        <mark key="." line="78" column="77" />
+        <mark key="^" line="78" column="77" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/onderliggende/labelLayoutCustomFragments.xhtml" timestamp="1519315260111">
         <mark key="'" line="31" column="156" />
@@ -138,8 +291,18 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="146" column="26" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" timestamp="1519826793119">
-        <mark key="'" line="138" column="18" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" timestamp="1519828123087">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="168" column="65" />
+        <mark key="]" line="168" column="65" />
+        <mark key="^" line="168" column="65" />
+        <mark key="." line="168" column="65" />
+      </file>
+      <file name="$USER_HOME$/git/jsf-playground/web/WEB-INF/faces-config.xml" timestamp="1516986663096">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="22" column="15" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/messages/generiek.properties" timestamp="1509980873266">
         <mark key="'" line="276" column="18" />
@@ -158,12 +321,48 @@
         <mark key="^" line="107" column="47" />
         <mark key="." line="107" column="47" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorblad.xhtml" timestamp="1519827801327">
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="48" column="26" />
+        <mark key="^" line="48" column="26" />
+        <mark key="." line="48" column="26" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/doelenregistratie/GroepeerType.java" timestamp="1509369855361">
+        <mark key="[" line="58" column="34" />
+        <mark key="]" line="58" column="67" />
+        <mark key="^" line="58" column="67" />
+        <mark key="." line="58" column="67" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/delictverleden.xhtml" timestamp="1517833654774">
+        <mark key="[" line="2" column="153" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/jsf-playground/src/mypackage/User.java" timestamp="1516989211479">
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="5" />
+        <mark key="^" line="31" column="5" />
+        <mark key="." line="31" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-ear/pom.xml" timestamp="1508855207575">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="62" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_static99R.xhtml" timestamp="1516105750652">
         <mark key="'" line="42" column="45" />
         <mark key="[" line="57" column="627" />
         <mark key="]" line="57" column="684" />
         <mark key="^" line="57" column="684" />
         <mark key="." line="57" column="684" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelinstrument/si-adviesLookup.xhtml" timestamp="1516019668246">
+        <mark key="[" line="6" column="69" />
+        <mark key="]" line="6" column="80" />
+        <mark key="." line="6" column="80" />
+        <mark key="^" line="6" column="80" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/responsiviteit.xhtml" timestamp="1519314702958">
         <mark key="'" line="26" column="154" />
@@ -178,12 +377,48 @@
         <mark key="]" line="4" column="41" />
         <mark key="." line="4" column="41" />
       </file>
+      <file name="$USER_HOME$/git/jsf-playground/src/mypackage/MyValidator.java" timestamp="1516986515704">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-common/src/main/java/CreatePrograms.java" timestamp="1513173711623">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/delict_delictgeschiedenis.xhtml" timestamp="1513872265405">
         <mark key="'" line="36" column="22" />
         <mark key="[" line="15" column="67" />
         <mark key="]" line="15" column="66" />
         <mark key="." line="15" column="66" />
         <mark key="^" line="15" column="66" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/taxatie_risicos.xhtml" timestamp="1509629152461">
+        <mark key="[" line="19" column="87" />
+        <mark key="]" line="19" column="87" />
+        <mark key="^" line="19" column="105" />
+        <mark key="." line="19" column="87" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelMenuItem.xhtml" timestamp="1519311228940">
+        <mark key="[" line="6" column="89" />
+        <mark key="]" line="6" column="88" />
+        <mark key="." line="6" column="88" />
+        <mark key="^" line="6" column="88" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_anders.xhtml" timestamp="1511261783157">
+        <mark key="[" line="10" column="131" />
+        <mark key="]" line="10" column="147" />
+        <mark key="." line="10" column="147" />
+        <mark key="^" line="10" column="147" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-common/src/main/java/nl/reclassering/iris/common/utils/MessageTranslator.java" timestamp="1507888686880">
+        <mark key="[" line="77" column="20" />
+        <mark key="]" line="77" column="21" />
+        <mark key="." line="77" column="21" />
+        <mark key="^" line="77" column="21" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/sliderFragment.xhtml" timestamp="1519652709972">
         <mark key="'" line="25" column="5" />
@@ -212,6 +447,12 @@
         <mark key="^" line="7" column="68" />
         <mark key="." line="7" column="68" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/util/taxatie_analyse.xhtml" timestamp="1517923303722">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1519813338920">
         <mark key="'" line="112" column="19" />
         <mark key="[" line="11" column="59" />
@@ -225,6 +466,18 @@
         <mark key="]" line="18" column="140" />
         <mark key="^" line="18" column="140" />
         <mark key="." line="18" column="140" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/checkBoxFragment.xhtml" timestamp="1519301758420">
+        <mark key="[" line="30" column="65" />
+        <mark key="]" line="30" column="65" />
+        <mark key="." line="30" column="65" />
+        <mark key="^" line="30" column="65" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/imageFragment.xhtml" timestamp="1519827127963">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="35" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/web.xml" timestamp="1519826634579">
         <mark key="'" line="0" column="0" />
@@ -240,6 +493,18 @@
         <mark key="." line="36" column="15" />
         <mark key="^" line="36" column="15" />
       </file>
+      <file name="$USER_HOME$/git/jsf-playground/src/mypackage/MyConverter.java" timestamp="1516983737210">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/component/siVeld/SiVeld.java" timestamp="1516378463711">
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.078.sql" timestamp="1517487780995">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="31" column="0" />
@@ -254,6 +519,24 @@
         <mark key="." line="106" column="76" />
         <mark key="^" line="106" column="76" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/information/validateAll.xhtml" timestamp="1516734657851">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/adviezen/advies_rechtszitting.xhtml" timestamp="1519206751755">
+        <mark key="[" line="34" column="52" />
+        <mark key="]" line="34" column="76" />
+        <mark key="^" line="32" column="152" />
+        <mark key="." line="32" column="152" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/faces-config.xml" timestamp="1516031309445">
+        <mark key="[" line="52" column="74" />
+        <mark key="]" line="52" column="74" />
+        <mark key="." line="52" column="74" />
+        <mark key="^" line="52" column="74" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/action/actionButtonInclude.xhtml" timestamp="1516777147692">
         <mark key="'" line="57" column="116" />
         <mark key="[" line="59" column="84" />
@@ -261,11 +544,23 @@
         <mark key="." line="59" column="110" />
         <mark key="^" line="59" column="110" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/infoButton.xhtml" timestamp="1517003376397">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/activiteit/DiagnoseActiviteit.java" timestamp="1511965613621">
         <mark key="'" line="249" column="65" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/advies.xhtml" timestamp="1516635411474">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="5" column="3" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/onderliggende/radioWithCustomFragment.xhtml" timestamp="1516786955537">
@@ -282,6 +577,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/beeindiging_popup.xhtml" timestamp="1519225111850">
+        <mark key="[" line="16" column="93" />
+        <mark key="]" line="16" column="93" />
+        <mark key="." line="16" column="93" />
+        <mark key="^" line="17" column="11" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/radioButtonFragment.xhtml" timestamp="1517835067983">
         <mark key="'" line="17" column="128" />
         <mark key="[" line="44" column="25" />
@@ -295,6 +596,12 @@
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/js/iris.js" timestamp="1519640166964">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/new/label.xhtml" timestamp="1515768893643">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="74" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="45" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/fragmentTemplate.xhtml" timestamp="1519821697016">
         <mark key="'" line="81" column="41" />
         <mark key="[" line="66" column="0" />
@@ -302,11 +609,35 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="86" column="33" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/onderliggende/checkboxWithCustomFragment.xhtml" timestamp="1519304701091">
+        <mark key="[" line="17" column="75" />
+        <mark key="]" line="17" column="75" />
+        <mark key="." line="17" column="75" />
+        <mark key="^" line="14" column="81" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/textBoxFragment.xhtml" timestamp="1519119214666">
+        <mark key="[" line="22" column="120" />
+        <mark key="]" line="21" column="37" />
+        <mark key="^" line="21" column="37" />
+        <mark key="." line="21" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/onderliggende/checkboxWithOnderliggendeTextFragment.xhtml" timestamp="1519303402410">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="100" />
+        <mark key="^" line="13" column="83" />
+        <mark key="." line="13" column="83" />
+      </file>
       <file name="/Dummy.txt" timestamp="1519823092682">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelinstrument/si-textArea.xhtml" timestamp="1516010170219">
+        <mark key="[" line="48" column="79" />
+        <mark key="]" line="48" column="103" />
+        <mark key="^" line="48" column="103" />
+        <mark key="." line="48" column="103" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/doelenregistratie/DoelenRegistratieAction.java" timestamp="1511950531109">
         <mark key="'" line="1128" column="6" />
@@ -315,10 +646,23 @@
         <mark key="^" line="306" column="37" />
         <mark key="." line="306" column="37" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdiTemplate.xhtml" timestamp="1519826875947">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/test/java/nl/reclassering/iris/web/action/doelenregistratie/GroepeerTypeTest.java" timestamp="1509018066672">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="45" />
+        <mark key="." line="26" column="45" />
+        <mark key="^" line="26" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelinstrument/si-infoIcon.xhtml" timestamp="1516315446018">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdiTemplate.xhtml" timestamp="1519827179874">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/test/java/nl/reclassering/iris/web/action/component/training/TrainingListActionTest.java" timestamp="1508758506666">
         <mark key="'" line="356" column="38" />
@@ -334,12 +678,30 @@
         <mark key="^" line="69" column="143" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_externe_partij.xhtml" timestamp="1511523329074">
+        <mark key="[" line="7" column="125" />
+        <mark key="]" line="7" column="142" />
+        <mark key="." line="7" column="142" />
+        <mark key="^" line="7" column="142" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/selecterenProfiel.xhtml" timestamp="1513693739739">
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="35" column="38" />
+        <mark key="^" line="35" column="38" />
+        <mark key="." line="35" column="38" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/test/java/nl/reclassering/iris/web/action/GebruikersVoorkeurenActionTest.java" timestamp="1508764080495">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="74" column="65" />
         <mark key="]" line="74" column="92" />
         <mark key="^" line="74" column="92" />
         <mark key="." line="74" column="92" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_6.2005.sql" timestamp="1508836949562">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="9" />
+        <mark key="^" line="25" column="9" />
+        <mark key="." line="25" column="9" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/repeatableFragment.xhtml" timestamp="1519822152430">
         <mark key="[" line="23" column="29" />
@@ -357,6 +719,24 @@
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/BlokWrapper.java" timestamp="1519310938413">
         <mark key="'" line="36" column="7" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/new/value.xhtml" timestamp="1515501290806">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="45" />
+        <mark key="." line="13" column="45" />
+        <mark key="^" line="13" column="131" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/fragments/projectFragment.xhtml" timestamp="1509007095190">
+        <mark key="[" line="81" column="57" />
+        <mark key="]" line="81" column="57" />
+        <mark key="." line="81" column="57" />
+        <mark key="^" line="76" column="70" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" timestamp="1519215755761">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="76" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="45" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.069.sql" timestamp="1511179735869">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="198" column="25" />
@@ -364,15 +744,14 @@
         <mark key="." line="198" column="26" />
         <mark key="^" line="198" column="26" />
       </file>
+      <file name="$USER_HOME$/git/gdisqlgen/test.yaml" timestamp="1519215908884">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="1" column="3" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_dagbesteding.xhtml" />
-      <jump line="26" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
-      <jump line="75" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
-      <jump line="143" column="34" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
-      <jump line="152" column="70" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
-      <jump line="155" column="70" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
-      <jump line="196" column="92" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="197" column="95" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="198" column="143" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="204" column="99" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
@@ -466,18 +845,23 @@
       <jump line="1" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
       <jump line="38" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
       <jump line="138" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
+      <jump line="5" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/imageFragment.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
+      <jump line="44" column="21" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
+      <jump line="182" column="18" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
+      <jump line="126" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
+      <jump line="166" column="9" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
+      <jump line="127" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>$(document).ready(function () {
-    activateMenu();
-});</text>
+        <text encoding="base64">ICAgIDx0YWc+CiAgICAgICAgPHRhZy1uYW1lPmltYWdlRnJhZ21lbnQ8L3RhZy1uYW1lPgogICAgICAgIDxzb3VyY2U+Li4vbGF5b3V0L2NvbXBvbmVudHMvaW5zdHJ1bWVudC9nZGkvaW1hZ2VGcmFnbWVudC54aHRtbDwvc291cmNlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPnZlbGROYWFtPC9uYW1lPgogICAgICAgICAgICA8dHlwZT5qYXZhLmxhbmcuU3RyaW5nPC90eXBlPgogICAgICAgIDwvYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPnZvbGdOcjwvbmFtZT4KICAgICAgICAgICAgPHR5cGU+amF2YS5sYW5nLlN0cmluZzwvdHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICA8YXR0cmlidXRlPgogICAgICAgICAgICA8bmFtZT5mcmFnbWVudExhYmVsQ2xhc3M8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmphdmEubGFuZy5TdHJpbmc8L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+ZW5hYmxlVG9lbGljaHRpbmc8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+aGlkZUxhYmVsPC9uYW1lPgogICAgICAgICAgICA8dHlwZT5ib29sZWFuPC90eXBlPgogICAgICAgIDwvYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPmhpZGVXYWFyZGU8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+ZWRpdGFibGU8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+aW1hZ2VXaWR0aDwvbmFtZT4KICAgICAgICAgICAgPHR5cGU+aW50ZWdlcjwvdHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICA8YXR0cmlidXRlPgogICAgICAgICAgICA8bmFtZT5pbWFnZUhlaWdodDwvbmFtZT4KICAgICAgICAgICAgPHR5cGU+Ym9vbGVhbjwvdHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgIDwvdGFnPg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIDx0YWc+CiAgICAgICAgPHRhZy1uYW1lPmltYWdlRnJhZ21lbnQ8L3RhZy1uYW1lPgogICAgICAgIDxzb3VyY2U+Li4vbGF5b3V0L2NvbXBvbmVudHMvaW5zdHJ1bWVudC9nZGkvaW1hZ2VGcmFnbWVudC54aHRtbDwvc291cmNlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPnZlbGROYWFtPC9uYW1lPgogICAgICAgICAgICA8dHlwZT5qYXZhLmxhbmcuU3RyaW5nPC90eXBlPgogICAgICAgIDwvYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPnZvbGdOcjwvbmFtZT4KICAgICAgICAgICAgPHR5cGU+amF2YS5sYW5nLlN0cmluZzwvdHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICA8YXR0cmlidXRlPgogICAgICAgICAgICA8bmFtZT5mcmFnbWVudExhYmVsQ2xhc3M8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmphdmEubGFuZy5TdHJpbmc8L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+ZW5hYmxlVG9lbGljaHRpbmc8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+aGlkZUxhYmVsPC9uYW1lPgogICAgICAgICAgICA8dHlwZT5ib29sZWFuPC90eXBlPgogICAgICAgIDwvYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPmhpZGVXYWFyZGU8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+ZWRpdGFibGU8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+aW1hZ2VXaWR0aDwvbmFtZT4KICAgICAgICAgICAgPHR5cGU+aW50ZWdlcjwvdHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICA8YXR0cmlidXRlPgogICAgICAgICAgICA8bmFtZT5pbWFnZUhlaWdodDwvbmFtZT4KICAgICAgICAgICAgPHR5cGU+Ym9vbGVhbjwvdHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgIDwvdGFnPg==</text>
       </register>
       <register name="b" type="4">
-        <text encoding="base64">ICAgICAgICA8aXJpczp0ZXh0QXJlYVdpdGhBZGRpdGlvbmFsVGV4dEZyYWdtZW50IHZlbGROYWFtPSJ0YXhhdGllX2FuYWx5c2VfdWl0dHJla3NlbCIgYWRkVGVrc3Q9InRheGF0aWVfYW5hbHlzZS54aHRtbCIgdm9sZ05yPSIyNCIgc2hvd0luZm9UZWtzdD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUJvbGQ9InRydWUiIGFkdmllc0xvb2t1cD0idGF4YXRpZV9hbmFseXNlX3VpdHRyZWtzZWw7VUlUR0VCUkVJRF9BRFZJRVMiIGFkdmllc0Jlc2NoaWtiYWFyPSJ0cnVlIiBlbmFibGVBamF4PSJmYWxzZSIvPg==</text>
+        <text>readonlyContent</text>
       </register>
       <register name="c" type="4">
         <text>---- Info veld U3008
@@ -511,62 +895,60 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>Template</text>
+        <text>imageFragment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8dWk6aW5zZXJ0IG5hbWU9ImVkaXRhYmxlIi8+Cg==</text>
+        <text encoding="base64">ICAgIDx1aTppbnNlcnQgbmFtZT0iZWRpdGFibGVDb250ZW50Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx0YWcK</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PgogICAgICAgIDx0YWctbmFtZT5pbWFnZUZyYWdtZW50MjwvdGFnLW5hbWU+dGFnLW5hbWU+CiAgICAgICAgPHNvdXJjZT4uLi9sYXlvdXQvY29tcG9uZW50cy9pbnN0cnVtZW50L2dkaS9pbWFnZUZyYWdtZW50Mi54aHRtbDwvc291cmNlPnNvdXJjZT4KICAgICAgICA8YXR0cmlidXRlPgogICAgICAgICAgICA8bmFtZT52ZWxkTmFhbTwvbmFtZT5uYW1lPgogICAgICAgICAgICA8dHlwZT5qYXZhLmxhbmcuU3RyaW5nPC90eXBlPnR5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPnZvbGdOcjwvbmFtZT5uYW1lPgogICAgICAgICAgICA8dHlwZT5qYXZhLmxhbmcuU3RyaW5nPC90eXBlPnR5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPmZyYWdtZW50TGFiZWxDbGFzczwvbmFtZT5uYW1lPgogICAgICAgICAgICA8dHlwZT5qYXZhLmxhbmcuU3RyaW5nPC90eXBlPnR5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPmVuYWJsZVRvZWxpY2h0aW5nPC9uYW1lPm5hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+dHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICBhdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+aGlkZUxhYmVsPC9uYW1lPm5hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+dHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICBhdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+aGlkZVdhYXJkZTwvbmFtZT5uYW1lPgogICAgICAgICAgICA8dHlwZT5ib29sZWFuPC90eXBlPnR5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPmVkaXRhYmxlPC9uYW1lPm5hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+dHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICBhdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+aW1hZ2VXaWR0aDwvbmFtZT5uYW1lPgogICAgICAgICAgICA8dHlwZT5pbnRlZ2VyPC90eXBlPnR5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPmltYWdlSGVpZ2h0PC9uYW1lPm5hbWU+CiAgICAgICAgICAgIDx0eXBlPmJvb2xlYW48L3R5cGU+dHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICBhdHRyaWJ1dGU+CiAgICA8L3RhZz4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvdWk6aW5zZXJ0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dWk6aW5zZXJ0IG5hbWU9InJlYWQtb25seSIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dWk6aW5zZXJ0IG5hbWU9ImVkaXRhYmxlIi8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9odG1sPgo=</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGNvbXBvc2l0aW9uIFBVQkxJQyAiLS8vVzNDLy9EVEQgWEhUTUwgMS4wIFRyYW5zaXRpb25hbC8vRU4iCiAgICAgICAgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25hbC5kdGQiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCEtLXdhYXJkZSAvIHJlYWRvbmx5d2FhcmRlLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Template</last-search>
+      <last-search>imageFragment</last-search>
       <last-offset />
-      <last-pattern>Template</last-pattern>
+      <last-pattern>imageFragment</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>checkBox</entry>
-        <entry encoding="base64">XDx4aHRtbFw+</entry>
         <entry>.checkboxpadding</entry>
         <entry>action</entry>
         <entry>detail</entry>
@@ -585,6 +967,8 @@ VALUES
         <entry>fragment</entry>
         <entry>template</entry>
         <entry>Template</entry>
+        <entry>defaults</entry>
+        <entry>imageFragment</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
