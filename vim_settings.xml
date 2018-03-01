@@ -280,11 +280,11 @@
         <mark key="^" line="87" column="93" />
         <mark key="." line="87" column="93" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/imageFragment2.xhtml" timestamp="1519834888722">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="8" column="43" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/imageFragment2.xhtml" timestamp="1519894316562">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="42" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/nl/reclassering/iris/web/action/components/word/template.xsd" timestamp="1513771282819">
         <mark key="[" line="78" column="62" />
@@ -880,8 +880,8 @@
       <register name="a" type="4">
         <text encoding="base64">ICAgIDx0YWc+CiAgICAgICAgPHRhZy1uYW1lPmxheW91dDwvdGFnLW5hbWU+CiAgICAgICAgPHNvdXJjZT4uLi9sYXlvdXQvY29tcG9uZW50cy9jb250YWluZXIvbGF5b3V0LnhodG1sPC9zb3VyY2U+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+Y29sdW1uczwvbmFtZT4KICAgICAgICAgICAgPHR5cGU+aW50PC90eXBlPgogICAgICAgIDwvYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPmlkPC9uYW1lPgogICAgICAgICAgICA8dHlwZT5qYXZhLmxhbmcuU3RyaW5nPC90eXBlPgogICAgICAgIDwvYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPnJlbmRlcmVkPC9uYW1lPgogICAgICAgICAgICA8dHlwZT5ib29sZWFuPC90eXBlPgogICAgICAgIDwvYXR0cmlidXRlPgogICAgPC90YWc+</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L2dkaTpsYXlvdXQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gdi</text>
       </register>
       <register name="b" type="4">
         <text>readonlyContent</text>
@@ -918,7 +918,7 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>iris</text>
+        <text>gdi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">bmFtZT5sYXlvdXQ=</text>
