@@ -388,6 +388,12 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="16" />
       </file>
+      <file name="$USER_HOME$/git/gdisqlgen/src/main/java/VeldDefinitie.java" timestamp="1519911051289">
+        <mark key="[" line="363" column="33" />
+        <mark key="]" line="373" column="32" />
+        <mark key="^" line="373" column="32" />
+        <mark key="." line="373" column="32" />
+      </file>
       <file name="$USER_HOME$/git/jsf-playground/src/mypackage/MyValidator.java" timestamp="1516986515704">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="14" />
@@ -562,6 +568,7 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/gdisqlgen/test.sql" timestamp="1519911422477" />
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/onderliggende/radioWithCustomFragment.xhtml" timestamp="1516786955537">
         <mark key="'" line="21" column="38" />
         <mark key="[" line="22" column="118" />
@@ -739,11 +746,12 @@
         <mark key="." line="81" column="57" />
         <mark key="^" line="76" column="70" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" timestamp="1519907879695">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="36" />
-        <mark key="^" line="0" column="45" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" timestamp="1519911402726">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.069.sql" timestamp="1511179735869">
         <mark key="'" line="0" column="0" />
@@ -752,16 +760,13 @@
         <mark key="." line="198" column="26" />
         <mark key="^" line="198" column="26" />
       </file>
-      <file name="$USER_HOME$/git/gdisqlgen/test.yaml" timestamp="1519215908884">
-        <mark key="[" line="3" column="43" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="1" column="3" />
+      <file name="$USER_HOME$/git/gdisqlgen/test.yaml" timestamp="1519911368787">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="65" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
-      <jump line="58" column="51" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="59" column="65" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="60" column="55" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="61" column="54" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
@@ -860,13 +865,59 @@
       <jump line="437" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
       <jump line="441" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
       <jump line="445" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
+      <jump line="46" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" />
+      <jump line="44" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>uitgebreid_parketNummer</text>
+        <text encoding="base64">cmVsZXZhbnRpZWZ1bmN0aWUg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>------ Veld definitie ua_beeindiging_reden_onvolledig
+MERGE INTO VELD_DEFINITIES VDE
+USING
+  (SELECT 'ua_beeindiging_reden_onvolledig' AS NAAM
+   FROM DUAL) D
+ON (VDE.NAAM = D.NAAM)
+WHEN MATCHED THEN
+UPDATE SET
+  VDE.OMSCHRIJVING = 'Reden onvolledig Advies1'
+  , VDE.ITEKST_ID  = (SELECT ID
+                      FROM INFOTEKSTEN
+                      WHERE CODE = 'U2306')
+  , VDE.WAARDE_BEREIK_ID = (SELECT id
+                            FROM WAARDE_BEREIKEN
+                            WHERE naam = 'ua_beeindiging_onvolledig')
+  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
+  , VDE.VALUE_GENERATOR_TYPE = NULL
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , NAAM
+  , OMSCHRIJVING
+  , WAARDE_BEREIK_ID
+  , ITEKST_ID
+  , RELEVANTIE_FUNCTIE_TYPE
+  , VALUE_GENERATOR_TYPE)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_beeindiging_reden_onvolledig'
+    , 'Reden onvolledig Advies1'
+    , (SELECT id
+       FROM WAARDE_BEREIKEN
+       WHERE naam = 'ua_beeindiging_onvolledig')
+    , (SELECT ID
+       FROM INFOTEKSTEN
+       WHERE CODE = 'U2306')
+    , NULL
+    , NULL)
+/v</text>
       </register>
       <register name="b" type="4">
         <text>readonlyContent</text>
@@ -903,46 +954,141 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>valuegenerator</text>
       </register>
       <register name="/" type="4">
         <text>.enkelekolom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8L2lyaXM6bGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVwbGFjZSgidmFsdWVfZ2VuZXJhdG9yX3R5cGUiLCBnZXRWYWx1ZWdlbmVyYXRvclNRTCgpKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBWRUxEX0RFRklOSVRJRVMgd2hlcmUgTkFBTSA9ICd1YV9iZWVpbmRpZ2luZ19yZWRlbl9vbnZvbGxlZGlnJzsK</text>
+      <register name="1" type="4">
+        <text>------ Veld definitie ua_beeindiging_reden_onvolledig
+MERGE INTO VELD_DEFINITIES VDE
+USING
+  (SELECT 'ua_beeindiging_reden_onvolledig' AS NAAM
+   FROM DUAL) D
+ON (VDE.NAAM = D.NAAM)
+WHEN MATCHED THEN
+UPDATE SET
+  VDE.OMSCHRIJVING = 'Reden onvolledig Advies1'
+  , VDE.ITEKST_ID  = (SELECT ID
+                      FROM INFOTEKSTEN
+                      WHERE CODE = 'U2306')
+  , VDE.WAARDE_BEREIK_ID = (SELECT id
+                            FROM WAARDE_BEREIKEN
+                            WHERE naam = 'ua_beeindiging_onvolledig')
+  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
+  , VDE.VALUE_GENERATOR_TYPE = NULL
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , NAAM
+  , OMSCHRIJVING
+  , WAARDE_BEREIK_ID
+  , ITEKST_ID
+  , RELEVANTIE_FUNCTIE_TYPE
+  , VALUE_GENERATOR_TYPE)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_beeindiging_reden_onvolledig'
+    , 'Reden onvolledig Advies1'
+    , (SELECT id
+       FROM WAARDE_BEREIKEN
+       WHERE naam = 'ua_beeindiging_onvolledig')
+    , (SELECT ID
+       FROM INFOTEKSTEN
+       WHERE CODE = 'U2306')
+    , NULL
+    , NULL)
+/v</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS08YzpzZXQgdmFyPSJjbGFzcyIvPi0tPgo=</text>
+        <text encoding="base64">ICAgIGl0ZWtzdDogVTIzMDYK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxjOnBhcmFtIG5hbWU9ImNsYXNzIiB2YWx1ZT0iI3tub3QgZW1wdHkgY2xhc3MgPyBjbGFzcyA6ICdwcm9wZXJ0eVJvdyBlbmtlbGVrb2xvbSd9Ii8+Cg==</text>
+      <register name="3" type="4">
+        <text>select * from VELD_DEFINITIES where VALUE_GENERATOR_TYPE = 'PARKETNUMMER';
+
+
+MERGE INTO VELD_DEFINITIES VDE
+USING
+  (SELECT 'ua_beeindiging_reden_onvolledig' AS NAAM
+   FROM DUAL) D
+ON (VDE.NAAM = D.NAAM)
+WHEN MATCHED THEN
+UPDATE SET
+  VDE.OMSCHRIJVING = 'Reden onvolledig Advies1'
+  , VDE.ITEKST_ID  = (SELECT ID
+                      FROM INFOTEKSTEN
+                      WHERE CODE = 'U2306')
+  , VDE.WAARDE_BEREIK_ID = (SELECT id
+                            FROM WAARDE_BEREIKEN
+                            WHERE naam = 'ua_beeindiging_onvolledig')
+  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
+  , VDE.VALUE_GENERATOR_TYPE = 'test'
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , NAAM
+  , OMSCHRIJVING
+  , WAARDE_BEREIK_ID
+  , ITEKST_ID
+  , RELEVANTIE_FUNCTIE_TYPE
+  , VALUE_GENERATOR_TYPE)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_beeindiging_reden_onvolledig'
+    , 'Reden onvolledig Advies1'
+    , (SELECT id
+       FROM WAARDE_BEREIKEN
+       WHERE naam = 'ua_beeindiging_onvolledig')
+    , (SELECT ID
+       FROM INFOTEKSTEN
+       WHERE CODE = 'U2306')
+    , NULL
+    , 'test')
+/vg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxjOnBhcmFtIG5hbWU9ImNsYXNzIiB2YWx1ZT0iI3tub3QgZW1wdHkgY2xhc3MgPyBjbGFzcyA6ICdwcm9wZXJ0eVJvdyBlbmtlbGVrb2xvbSd9Ii8+Cg==</text>
+        <text encoding="base64">ICAgIDogdGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJjbGFzcyIgdmFsdWU9IiN7bm90IGVtcHR5IGNsYXNzID8gY2xhc3MgOiAncHJvcGVydHlSb3cgZW5rZWxla29sb20nfSIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2F0dHJpYnV0ZT4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgaWYgKHJlbGV2YW50aWVmdW5jdGllID09IG51bGwpIHsKICAgICAgICAgcmV0dXJuICJOVUxMIjsKICAgICAgfSBlbHNlIHsKICAgICAgICAgcmV0dXJuICInIiArIHJlbGV2YW50aWVmdW5jdGllICsgIiciOwogICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHR5cGU+Ym9vbGVhbjwvdHlwZT4K</text>
+        <text encoding="base64">ICAgICAgU3RyaW5ncmVzdWx0Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG5hbWU+cmVuZGVyZWQ8L25hbWU+Cg==</text>
+      <register name="8" type="4">
+        <text>;
+      if (valuegenerator == null){
+         result = NULL;
+      } else {
+         return &quot;'&quot; + valuegenerator + &quot;'&quot;;
+      }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8YXR0cmlidXRlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgcmV0dXJuICJOVUxMIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
