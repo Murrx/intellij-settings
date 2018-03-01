@@ -340,7 +340,7 @@
         <mark key="^" line="107" column="47" />
         <mark key="." line="107" column="47" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorblad.xhtml" timestamp="1519907612282">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorblad.xhtml" timestamp="1519912794045">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="61" />
       </file>
@@ -760,10 +760,11 @@
         <mark key="." line="198" column="26" />
         <mark key="^" line="198" column="26" />
       </file>
-      <file name="$USER_HOME$/git/gdisqlgen/test.yaml" timestamp="1519911368787">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/git/gdisqlgen/test.yaml" timestamp="1519912801679">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -870,54 +871,10 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">cmVsZXZhbnRpZWZ1bmN0aWUg</text>
+        <text>uitgebreid_parketNummer</text>
       </register>
       <register name="&quot;" type="4">
-        <text>------ Veld definitie ua_beeindiging_reden_onvolledig
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_beeindiging_reden_onvolledig' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Reden onvolledig Advies1'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U2306')
-  , VDE.WAARDE_BEREIK_ID = (SELECT id
-                            FROM WAARDE_BEREIKEN
-                            WHERE naam = 'ua_beeindiging_onvolledig')
-  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
-  , VDE.VALUE_GENERATOR_TYPE = NULL
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID
-  , RELEVANTIE_FUNCTIE_TYPE
-  , VALUE_GENERATOR_TYPE)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_beeindiging_reden_onvolledig'
-    , 'Reden onvolledig Advies1'
-    , (SELECT id
-       FROM WAARDE_BEREIKEN
-       WHERE naam = 'ua_beeindiging_onvolledig')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U2306')
-    , NULL
-    , NULL)
-/v</text>
+        <text>uitgebreid_parketNummer</text>
       </register>
       <register name="b" type="4">
         <text>readonlyContent</text>
