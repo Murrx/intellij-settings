@@ -7,14 +7,13 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xhtml" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*</mask>
       <mask>*.ss</mask>
       <mask>*.s</mask>
       <mask>*.css==</mask>
@@ -24,21 +23,22 @@
       <mask>c</mask>
       <mask>cs</mask>
       <mask>css</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.ava</mask>
       <mask>*.va</mask>
       <mask>*.a</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xh</mask>
       <mask>*.xht</mask>
       <mask>*.xhtm</mask>
       <mask>*.xhtml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
