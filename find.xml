@@ -1,15 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -23,9 +20,7 @@
       <mask>c</mask>
       <mask>cs</mask>
       <mask>css</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.ava</mask>
       <mask>*.va</mask>
       <mask>*.a</mask>
@@ -35,10 +30,13 @@
       <mask>*.xhtm</mask>
       <mask>*.xhtml</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
