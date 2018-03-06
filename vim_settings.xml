@@ -184,12 +184,12 @@
         <mark key="^" line="65" column="35" />
         <mark key="." line="45" column="19" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1520343306812">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1520346329924">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1253" column="1" />
-        <mark key="]" line="1256" column="22" />
-        <mark key="^" line="1256" column="22" />
-        <mark key="." line="1256" column="22" />
+        <mark key="[" line="1266" column="0" />
+        <mark key="]" line="1266" column="0" />
+        <mark key="^" line="1244" column="0" />
+        <mark key="." line="1266" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/uitgebreidadvies/ParketnummerVeldValueGenerator.java" timestamp="1519914423445">
         <mark key="^" line="43" column="3" />
@@ -645,7 +645,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx1aTpwYXJhbSBuYW1lPSJ0eXBlRnJhZ21lbnQiIHZhbHVlPSJURVhUIi8+CiAgICAgICAgICAgICAgICA8dWk6cGFyYW0gbmFtZT0idm9sZ05yIiB2YWx1ZT0iI3tudW1tZXJ9Ii8+</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSAje25hbWV9Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="b" type="4">
         <text>readonlyContent</text>
@@ -691,37 +691,37 @@ VALUES
         <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJkZWxldGVDbGFzcyIgdmFsdWU9IiN7bm90IGVtcHR5IGRlbGV0ZUNsYXNzID8gZGVsZXRlQ2xhc3MgOiAnZGVsZXRlVmVsZCBvcmFuZ2VMaW5rJ30iLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSAje25hbWV9Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS10b2RvOiBpbmxpbmUgc3R5bGUgdmVyd2lqZGVyZW4tLT4K</text>
+        <text encoding="base64">ICAgIG5hbWUgPSAje25hbWV9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhc2ljSWQgPSAje2Jhc2ljSWR9Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJ0eXBlRnJhZ21lbnQiIHZhbHVlPSJSRVBFQVRBQkxFIi8+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWk6cGFyYW0gbmFtZT0idHlwZUZyYWdtZW50IiB2YWx1ZT0iVEVYVCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS10b2RvOiBpbmxpbmUgc3R5bGUgdmVyd2lqZGVyZW4tLT4K</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGJhc2ljSWQgPSAje2Jhc2ljSWR9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVUlUR0VCUkVJRF9QQVJLRVROVU1NRVIK</text>
+        <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJ0eXBlRnJhZ21lbnQiIHZhbHVlPSJSRVBFQVRBQkxFIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
