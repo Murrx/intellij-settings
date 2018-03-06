@@ -90,7 +90,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragment.xhtml" timestamp="1520243490024">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragment.xhtml" timestamp="1520326539325">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -393,8 +393,10 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520263849885">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1520326665084">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/imageFragment2.xhtml" timestamp="1519897650119">
         <mark key="[" line="0" column="26" />
@@ -640,7 +642,7 @@
         <text>uitgebreid_parketNummer</text>
       </register>
       <register name="&quot;" type="4">
-        <text>uitgebreid_gegevensvoorblad_uitgebreid_parketNummer</text>
+        <text>ja</text>
       </register>
       <register name="b" type="4">
         <text>readonlyContent</text>
@@ -677,7 +679,7 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>uitgebreid_gegevensvoorblad_uitgebreid_parketNummer</text>
+        <text>ja</text>
       </register>
       <register name="/" type="4">
         <text>333</text>
