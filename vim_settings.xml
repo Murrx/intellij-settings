@@ -185,10 +185,6 @@
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1520331431695">
         <mark key="'" line="1119" column="12" />
-        <mark key="[" line="1239" column="1" />
-        <mark key="]" line="1238" column="15" />
-        <mark key="." line="1238" column="15" />
-        <mark key="^" line="1238" column="15" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/uitgebreidadvies/ParketnummerVeldValueGenerator.java" timestamp="1519914423445">
         <mark key="^" line="43" column="3" />
