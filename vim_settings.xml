@@ -90,9 +90,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragment.xhtml" timestamp="1520326539325">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragment.xhtml" timestamp="1520341722073">
         <mark key="'" line="0" column="15" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="58" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/taxatie_risicos.xhtml" timestamp="1509629152461">
         <mark key="[" line="19" column="87" />
@@ -485,11 +486,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" timestamp="1520260325087">
-        <mark key="[" line="23" column="73" />
-        <mark key="]" line="23" column="80" />
-        <mark key="." line="23" column="80" />
-        <mark key="^" line="23" column="80" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" timestamp="1520341747280">
+        <mark key="'" line="24" column="33" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="58" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/new/value.xhtml" timestamp="1515501290806">
         <mark key="[" line="13" column="45" />
@@ -533,9 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1572" column="13" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" />
-      <jump line="3075" column="13" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" />
-      <jump line="442" column="4" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
       <jump line="451" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
       <jump line="455" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
       <jump line="460" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
@@ -633,13 +632,16 @@
       <jump line="33" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1115" column="12" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1119" column="12" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="12" column="29" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" />
+      <jump line="18" column="45" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" />
+      <jump line="23" column="33" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>uitgebreid_parketNummer</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1aTpwYXJhbSBuYW1lPSJ0eXBlRnJhZ21lbnQiIHZhbHVlPSJURVhUIi8+CiAgICAgICAgICAgICAgICA8dWk6cGFyYW0gbmFtZT0idm9sZ05yIiB2YWx1ZT0iI3tudW1tZXJ9Ii8+</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ja</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWk6cGFyYW0gbmFtZT0idHlwZUZyYWdtZW50IiB2YWx1ZT0iVEVYVCIvPgo=</text>
       </register>
       <register name="b" type="4">
         <text>readonlyContent</text>
@@ -676,62 +678,60 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>ja</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>enkele</text>
+        <text>repeatedBlock</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJkZWxldGVDbGFzcyIgdmFsdWU9IiN7bm90IGVtcHR5IGRlbGV0ZUNsYXNzID8gZGVsZXRlQ2xhc3MgOiAnZGVsZXRlVmVsZCBvcmFuZ2VMaW5rJ30iLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWk6cGFyYW0gbmFtZT0idHlwZUZyYWdtZW50IiB2YWx1ZT0iVEVYVCIvPgo=</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVUlUR0VCUkVJRF9QQVJLRVROVU1NRVIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVUlUR0VCUkVJRF9QQVJLRVROVU1NRVIK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxjZWxsPgogICAgICAgICAgICAgICAgICAgIDxwYXJhZ3JhcGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx3YWFyZGUgdmVsZD0iVUlUR0VCUkVJRF9QQVJLRVROVU1NRVIiLz4KICAgICAgICAgICAgICAgICAgICA8L3BhcmFncmFwaD4KICAgICAgICAgICAgICAgIDwvY2VsbD4=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxjZWxsPgogICAgICAgICAgICAgICAgICAgIDxwYXJhZ3JhcGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx3YWFyZGUgdmVsZD0iVUlUR0VCUkVJRF9QQVJLRVROVU1NRVIiLz4KIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY29uZGl0aW9uYWw+Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFyYWdyYXBoLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY29uZGl0aW9uYWw+Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3BhcmFncmFwaD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFyYWdyYXBoLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRleHQ+LjwvdGV4dD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3BhcmFncmFwaD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>enkele</last-search>
+      <last-search>repeatedBlock</last-search>
       <last-offset />
-      <last-pattern>enkele</last-pattern>
+      <last-pattern>repeatedBlock</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">dGFnPmxheW91dA==</entry>
-        <entry>layout</entry>
         <entry encoding="base64">bmFtZT5sYXlvdXQ=</entry>
         <entry>.enkelekolom</entry>
         <entry>datum</entry>
@@ -750,6 +750,8 @@ VALUES
         <entry>propertyRow</entry>
         <entry>enkeleKolom</entry>
         <entry>enkele</entry>
+        <entry>repetedBlock</entry>
+        <entry>repeatedBlock</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
