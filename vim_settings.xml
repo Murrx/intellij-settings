@@ -39,12 +39,12 @@
         <mark key="." line="6" column="80" />
         <mark key="^" line="6" column="80" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" timestamp="1520263511901">
-        <mark key="'" line="1439" column="22" />
-        <mark key="[" line="124" column="59" />
-        <mark key="]" line="124" column="60" />
-        <mark key="." line="124" column="60" />
-        <mark key="^" line="124" column="67" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" timestamp="1520343892690">
+        <mark key="'" line="1440" column="22" />
+        <mark key="[" line="125" column="43" />
+        <mark key="]" line="126" column="30" />
+        <mark key="." line="126" column="30" />
+        <mark key="^" line="126" column="30" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/layout.xhtml" timestamp="1519891136809">
         <mark key="[" line="30" column="0" />
@@ -184,8 +184,12 @@
         <mark key="^" line="65" column="35" />
         <mark key="." line="45" column="19" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1520331431695">
-        <mark key="'" line="1119" column="12" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1520343306812">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1253" column="1" />
+        <mark key="]" line="1256" column="22" />
+        <mark key="^" line="1256" column="22" />
+        <mark key="." line="1256" column="22" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/uitgebreidadvies/ParketnummerVeldValueGenerator.java" timestamp="1519914423445">
         <mark key="^" line="43" column="3" />
@@ -391,8 +395,8 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520326665084">
-        <mark key="[" line="0" column="2" />
+      <file name="/Dummy.txt" timestamp="1520343278541">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
@@ -486,12 +490,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" timestamp="1520341747280">
-        <mark key="'" line="24" column="33" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="58" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" timestamp="1520343798286">
+        <mark key="'" line="23" column="33" />
+        <mark key="[" line="11" column="103" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+        <mark key="^" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/new/value.xhtml" timestamp="1515501290806">
         <mark key="[" line="13" column="45" />
@@ -535,13 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="451" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
-      <jump line="455" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
-      <jump line="460" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
-      <jump line="464" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
-      <jump line="468" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
-      <jump line="473" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
-      <jump line="479" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
       <jump line="497" column="48" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
       <jump line="513" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
       <jump line="517" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/iris_components.css" />
@@ -626,7 +623,6 @@
       <jump line="796" column="191" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="800" column="191" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="808" column="40" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1140" column="21" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="303" column="21" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="33" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
@@ -635,13 +631,21 @@
       <jump line="12" column="29" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" />
       <jump line="18" column="45" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" />
       <jump line="23" column="33" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" />
+      <jump line="1238" column="14" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="1246" column="14" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="12" column="14" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="27" column="14" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="623" column="14" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="708" column="14" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="1150" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx1aTpwYXJhbSBuYW1lPSJ0eXBlRnJhZ21lbnQiIHZhbHVlPSJURVhUIi8+CiAgICAgICAgICAgICAgICA8dWk6cGFyYW0gbmFtZT0idm9sZ05yIiB2YWx1ZT0iI3tudW1tZXJ9Ii8+</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWk6cGFyYW0gbmFtZT0idHlwZUZyYWdtZW50IiB2YWx1ZT0iVEVYVCIvPgo=</text>
+        <text encoding="base64">ICAgIG5hbWUgPSAje25hbWV9Cg==</text>
       </register>
       <register name="b" type="4">
         <text>readonlyContent</text>
@@ -678,61 +682,60 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>style=&quot;position: relative;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>repeatedBlock</text>
+        <text>relative</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJkZWxldGVDbGFzcyIgdmFsdWU9IiN7bm90IGVtcHR5IGRlbGV0ZUNsYXNzID8gZGVsZXRlQ2xhc3MgOiAnZGVsZXRlVmVsZCBvcmFuZ2VMaW5rJ30iLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWk6cGFyYW0gbmFtZT0idHlwZUZyYWdtZW50IiB2YWx1ZT0iVEVYVCIvPgo=</text>
+        <text encoding="base64">ICAgIG5hbWUgPSAje25hbWV9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVUlUR0VCUkVJRF9QQVJLRVROVU1NRVIK</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS10b2RvOiBpbmxpbmUgc3R5bGUgdmVyd2lqZGVyZW4tLT4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjZWxsPgogICAgICAgICAgICAgICAgICAgIDxwYXJhZ3JhcGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx3YWFyZGUgdmVsZD0iVUlUR0VCUkVJRF9QQVJLRVROVU1NRVIiLz4KICAgICAgICAgICAgICAgICAgICA8L3BhcmFncmFwaD4KICAgICAgICAgICAgICAgIDwvY2VsbD4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJhc2ljSWQgPSAje2Jhc2ljSWR9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjZWxsPgogICAgICAgICAgICAgICAgICAgIDxwYXJhZ3JhcGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx3YWFyZGUgdmVsZD0iVUlUR0VCUkVJRF9QQVJLRVROVU1NRVIiLz4KIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJ0eXBlRnJhZ21lbnQiIHZhbHVlPSJSRVBFQVRBQkxFIi8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY29uZGl0aW9uYWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWk6cGFyYW0gbmFtZT0idHlwZUZyYWdtZW50IiB2YWx1ZT0iVEVYVCIvPgo=</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGFyYWdyYXBoLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3BhcmFncmFwaD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVUlUR0VCUkVJRF9QQVJLRVROVU1NRVIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>repeatedBlock</last-search>
+      <last-search>relative</last-search>
       <last-offset />
-      <last-pattern>repeatedBlock</last-pattern>
+      <last-pattern>relative</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">bmFtZT5sYXlvdXQ=</entry>
         <entry>.enkelekolom</entry>
         <entry>datum</entry>
         <entry>status</entry>
@@ -752,6 +755,7 @@ VALUES
         <entry>enkele</entry>
         <entry>repetedBlock</entry>
         <entry>repeatedBlock</entry>
+        <entry>relative</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
