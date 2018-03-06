@@ -319,7 +319,7 @@
         <mark key="." line="15" column="62" />
         <mark key="^" line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/components/word/ParagraphProcessor.java" timestamp="1520264494345" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/components/word/ParagraphProcessor.java" timestamp="1520266722566" />
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.076.sql" timestamp="1516711859700">
         <mark key="[" line="32" column="35" />
         <mark key="]" line="32" column="33" />
@@ -680,7 +680,7 @@ VALUES
         <text>uitgebreid_gegevensvoorblad_uitgebreid_parketNummer</text>
       </register>
       <register name="/" type="4">
-        <text>\crepeat</text>
+        <text>333</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJkZWxldGVDbGFzcyIgdmFsdWU9IiN7bm90IGVtcHR5IGRlbGV0ZUNsYXNzID8gZGVsZXRlQ2xhc3MgOiAnZGVsZXRlVmVsZCBvcmFuZ2VMaW5rJ30iLz4K</text>
@@ -723,16 +723,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>\crepeat</last-search>
+      <last-search>333</last-search>
       <last-offset />
-      <last-pattern>\crepeat</last-pattern>
+      <last-pattern>333</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>template</entry>
-        <entry>Template</entry>
         <entry>defaults</entry>
         <entry>imageFragment</entry>
         <entry>blok</entry>
@@ -751,6 +749,8 @@ VALUES
         <entry>\cparket</entry>
         <entry>PARKET</entry>
         <entry>\crepeat</entry>
+        <entry>329</entry>
+        <entry>333</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
