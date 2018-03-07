@@ -81,8 +81,8 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1520430625185">
-        <mark key="'" line="139" column="56" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1520433759140">
+        <mark key="'" line="109" column="62" />
         <mark key="k" line="67" column="38" />
         <mark key="[" line="15" column="65" />
         <mark key="]" line="15" column="68" />
@@ -653,7 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1160" column="14" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="909" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1134" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
@@ -753,6 +752,7 @@
       <jump line="62" column="127" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_kort.xhtml" />
       <jump line="10" column="48" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_kort.xhtml" />
       <jump line="12" column="102" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_kort.xhtml" />
+      <jump line="109" column="62" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -799,7 +799,7 @@ VALUES
         <text>style=&quot;float:right;margin-right: 330px;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text>recidive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8aDpvdXRwdXRTdHlsZXNoZWV0IGxpYnJhcnk9InN0eWxlc2hlZXQiIG5hbWU9Imluc3RydW1lbnQuY3NzIi8+Cg==</text>
@@ -848,15 +848,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>style</last-search>
+      <last-search>recidive</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
+      <last-pattern>recidive</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>enkele</entry>
         <entry>repetedBlock</entry>
         <entry>repeatedBlock</entry>
         <entry>relative</entry>
@@ -876,6 +875,7 @@ VALUES
         <entry>seksueel</entry>
         <entry>&quot;\/</entry>
         <entry>style</entry>
+        <entry>recidive</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
