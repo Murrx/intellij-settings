@@ -513,6 +513,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/gdisqlgen/test.sql" timestamp="1520436714282">
+        <mark key="'" line="534" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="534" column="0" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/beeindiging_popup.xhtml" timestamp="1519225111850">
         <mark key="[" line="16" column="93" />
         <mark key="]" line="16" column="93" />
@@ -640,18 +645,15 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/gdisqlgen/test.yaml" timestamp="1519913293223">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="12" />
+      <file name="$USER_HOME$/git/gdisqlgen/test.yaml" timestamp="1520436692256">
+        <mark key="'" line="30" column="76" />
+        <mark key="[" line="33" column="72" />
+        <mark key="]" line="33" column="72" />
+        <mark key="." line="33" column="72" />
+        <mark key="^" line="10" column="67" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="909" column="1" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="1134" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
-      <jump line="86" column="25" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/radioButtonFragment.xhtml" />
       <jump line="7" column="28" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/radioButtonFragment.xhtml" />
       <jump line="43" column="122" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/radioButtonFragment.xhtml" />
       <jump line="44" column="32" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/radioButtonFragment.xhtml" />
@@ -748,13 +750,551 @@
       <jump line="10" column="48" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_kort.xhtml" />
       <jump line="12" column="102" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_kort.xhtml" />
       <jump line="109" column="62" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="27" column="71" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
+      <jump line="30" column="76" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/gdisqlgen/test.sql" />
+      <jump line="534" column="0" filename="$USER_HOME$/git/gdisqlgen/test.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>class=&quot;asr-header&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>style=&quot;float:right;margin-right: 330px;&quot;</text>
+        <text>/* Generated with gdisqlgen. Original YAML input:
+
+entries:
+ -  naam: inschatting_recidiverisico
+    omschrijving: Kans op recidive
+    itekst: U7002
+    waardebereik: inschattingrecidive
+    waarden:
+      - code: geeninschattingrecidive
+        omschrijving: &quot;De kans op recidive kan niet ingeschat worden&quot;
+        volgnummer: 1
+      - code: laagrecidive
+        omschrijving: &quot;De kans op recidive wordt ingeschat op: laag&quot;
+        volgnummer: 10
+      - code: middenrecidive
+        omschrijving: &quot;De kans op recidive wordt ingeschat op: gemiddeld&quot;
+        volgnummer: 20
+      - code: hoogrecidive
+        omschrijving: &quot;De kans op recidive wordt ingeschat op: hoog&quot;
+        volgnummer: 30
+
+ -  naam: ua_kans_letselschade
+    omschrijving: Kans op letselschade
+    itekst: U7003
+    waarden:
+      - code: ua_kans_letselschade_niet
+        omschrijving: &quot;De kans op letselschade kan niet ingeschat worden&quot;
+        volgnummer: 1
+      - code: ua_kans_letselschade_laag
+        omschrijving: &quot;De kans op letselschade wordt ingeschat op: laag&quot;
+        volgnummer: 10
+      - code: ua_kans_letselschade_gemiddeld
+        omschrijving: &quot;De kans op letselschade wordt ingeschat op: gemiddeld&quot;
+        volgnummer: 20
+      - code: ua_kans_letselschade_hoog
+        omschrijving: &quot;De kans op letselschade wordt ingeschat op: hoog&quot;
+        volgnummer: 30
+
+*/
+SET DEFINE OFF
+/
+------ Infotekst U7002
+MERGE INTO INFOTEKSTEN ITK
+USING
+  (SELECT 'U7002' AS CODE
+   FROM DUAL) D
+ON (D.CODE = ITK.CODE)
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , CODE
+  , OMSCHRIJVING
+  , AANVANGSDATUM)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'U7002'
+    , 'U7002: Kans op recidive'
+    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
+/
+------ Waarde bereik inschattingrecidive
+MERGE INTO WAARDE_BEREIKEN WBE
+USING
+  (SELECT 'inschattingrecidive' AS NAAM
+   FROM DUAL) D
+ON (WBE.NAAM = D.NAAM)
+WHEN MATCHED THEN
+UPDATE SET
+  WBE.OMSCHRIJVING = 'inschattingrecidive'
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , NAAM
+  , TYPE
+  , OMSCHRIJVING
+  , STUREND)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'inschattingrecidive'
+    , 'STRING'
+    , 'inschattingrecidive'
+    , 0)
+/
+------ Waarde definitie geeninschattingrecidive
+MERGE INTO WAARDE_DEFINITIES WD
+USING
+  (SELECT 'geeninschattingrecidive' AS CODE
+   , (SELECT ID
+      FROM WAARDE_BEREIKEN
+      WHERE NAAM = 'inschattingrecidive') AS WAARDE_BEREIK_ID
+   FROM DUAL) D
+ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
+WHEN MATCHED THEN
+UPDATE SET
+  WD.WAARDE = 'De kans op recidive kan niet ingeschat worden',
+  WD.VOLGNUMMER = 1
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , CODE
+  , VOLGNUMMER
+  , WAARDE
+  , WAARDE_BEREIK_ID
+  , AANVANGSDATUM)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'geeninschattingrecidive'
+    , 1
+    , 'De kans op recidive kan niet ingeschat worden'
+    , (SELECT ID
+       FROM WAARDE_BEREIKEN
+       WHERE NAAM = 'inschattingrecidive')
+    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
+/
+------ Waarde definitie laagrecidive
+MERGE INTO WAARDE_DEFINITIES WD
+USING
+  (SELECT 'laagrecidive' AS CODE
+   , (SELECT ID
+      FROM WAARDE_BEREIKEN
+      WHERE NAAM = 'inschattingrecidive') AS WAARDE_BEREIK_ID
+   FROM DUAL) D
+ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
+WHEN MATCHED THEN
+UPDATE SET
+  WD.WAARDE = 'De kans op recidive wordt ingeschat op: laag',
+  WD.VOLGNUMMER = 10
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , CODE
+  , VOLGNUMMER
+  , WAARDE
+  , WAARDE_BEREIK_ID
+  , AANVANGSDATUM)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'laagrecidive'
+    , 10
+    , 'De kans op recidive wordt ingeschat op: laag'
+    , (SELECT ID
+       FROM WAARDE_BEREIKEN
+       WHERE NAAM = 'inschattingrecidive')
+    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
+/
+------ Waarde definitie middenrecidive
+MERGE INTO WAARDE_DEFINITIES WD
+USING
+  (SELECT 'middenrecidive' AS CODE
+   , (SELECT ID
+      FROM WAARDE_BEREIKEN
+      WHERE NAAM = 'inschattingrecidive') AS WAARDE_BEREIK_ID
+   FROM DUAL) D
+ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
+WHEN MATCHED THEN
+UPDATE SET
+  WD.WAARDE = 'De kans op recidive wordt ingeschat op: gemiddeld',
+  WD.VOLGNUMMER = 20
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , CODE
+  , VOLGNUMMER
+  , WAARDE
+  , WAARDE_BEREIK_ID
+  , AANVANGSDATUM)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'middenrecidive'
+    , 20
+    , 'De kans op recidive wordt ingeschat op: gemiddeld'
+    , (SELECT ID
+       FROM WAARDE_BEREIKEN
+       WHERE NAAM = 'inschattingrecidive')
+    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
+/
+------ Waarde definitie hoogrecidive
+MERGE INTO WAARDE_DEFINITIES WD
+USING
+  (SELECT 'hoogrecidive' AS CODE
+   , (SELECT ID
+      FROM WAARDE_BEREIKEN
+      WHERE NAAM = 'inschattingrecidive') AS WAARDE_BEREIK_ID
+   FROM DUAL) D
+ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
+WHEN MATCHED THEN
+UPDATE SET
+  WD.WAARDE = 'De kans op recidive wordt ingeschat op: hoog',
+  WD.VOLGNUMMER = 30
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , CODE
+  , VOLGNUMMER
+  , WAARDE
+  , WAARDE_BEREIK_ID
+  , AANVANGSDATUM)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'hoogrecidive'
+    , 30
+    , 'De kans op recidive wordt ingeschat op: hoog'
+    , (SELECT ID
+       FROM WAARDE_BEREIKEN
+       WHERE NAAM = 'inschattingrecidive')
+    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
+/
+------ Veld definitie inschatting_recidiverisico
+MERGE INTO VELD_DEFINITIES VDE
+USING
+  (SELECT 'inschatting_recidiverisico' AS NAAM
+   FROM DUAL) D
+ON (VDE.NAAM = D.NAAM)
+WHEN MATCHED THEN
+UPDATE SET
+  VDE.OMSCHRIJVING = 'Kans op recidive'
+  , VDE.ITEKST_ID  = (SELECT ID
+                      FROM INFOTEKSTEN
+                      WHERE CODE = 'U7002')
+  , VDE.WAARDE_BEREIK_ID = (SELECT id
+                            FROM WAARDE_BEREIKEN
+                            WHERE naam = 'inschattingrecidive')
+  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
+  , VDE.VALUE_GENERATOR_TYPE = NULL
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , NAAM
+  , OMSCHRIJVING
+  , WAARDE_BEREIK_ID
+  , ITEKST_ID
+  , RELEVANTIE_FUNCTIE_TYPE
+  , VALUE_GENERATOR_TYPE)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'inschatting_recidiverisico'
+    , 'Kans op recidive'
+    , (SELECT id
+       FROM WAARDE_BEREIKEN
+       WHERE naam = 'inschattingrecidive')
+    , (SELECT ID
+       FROM INFOTEKSTEN
+       WHERE CODE = 'U7002')
+    , NULL
+    , NULL)
+/
+------ Infotekst U7003
+MERGE INTO INFOTEKSTEN ITK
+USING
+  (SELECT 'U7003' AS CODE
+   FROM DUAL) D
+ON (D.CODE = ITK.CODE)
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , CODE
+  , OMSCHRIJVING
+  , AANVANGSDATUM)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'U7003'
+    , 'U7003: Kans op letselschade'
+    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
+/
+------ Waarde bereik ua_kans_letselschade
+MERGE INTO WAARDE_BEREIKEN WBE
+USING
+  (SELECT 'ua_kans_letselschade' AS NAAM
+   FROM DUAL) D
+ON (WBE.NAAM = D.NAAM)
+WHEN MATCHED THEN
+UPDATE SET
+  WBE.OMSCHRIJVING = 'ua_kans_letselschade'
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , NAAM
+  , TYPE
+  , OMSCHRIJVING
+  , STUREND)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_kans_letselschade'
+    , 'STRING'
+    , 'ua_kans_letselschade'
+    , 0)
+/
+------ Waarde definitie ua_kans_letselschade_niet
+MERGE INTO WAARDE_DEFINITIES WD
+USING
+  (SELECT 'ua_kans_letselschade_niet' AS CODE
+   , (SELECT ID
+      FROM WAARDE_BEREIKEN
+      WHERE NAAM = 'ua_kans_letselschade') AS WAARDE_BEREIK_ID
+   FROM DUAL) D
+ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
+WHEN MATCHED THEN
+UPDATE SET
+  WD.WAARDE = 'De kans op letselschade kan niet ingeschat worden',
+  WD.VOLGNUMMER = 1
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , CODE
+  , VOLGNUMMER
+  , WAARDE
+  , WAARDE_BEREIK_ID
+  , AANVANGSDATUM)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_kans_letselschade_niet'
+    , 1
+    , 'De kans op letselschade kan niet ingeschat worden'
+    , (SELECT ID
+       FROM WAARDE_BEREIKEN
+       WHERE NAAM = 'ua_kans_letselschade')
+    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
+/
+------ Waarde definitie ua_kans_letselschade_laag
+MERGE INTO WAARDE_DEFINITIES WD
+USING
+  (SELECT 'ua_kans_letselschade_laag' AS CODE
+   , (SELECT ID
+      FROM WAARDE_BEREIKEN
+      WHERE NAAM = 'ua_kans_letselschade') AS WAARDE_BEREIK_ID
+   FROM DUAL) D
+ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
+WHEN MATCHED THEN
+UPDATE SET
+  WD.WAARDE = 'De kans op letselschade wordt ingeschat op: laag',
+  WD.VOLGNUMMER = 10
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , CODE
+  , VOLGNUMMER
+  , WAARDE
+  , WAARDE_BEREIK_ID
+  , AANVANGSDATUM)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_kans_letselschade_laag'
+    , 10
+    , 'De kans op letselschade wordt ingeschat op: laag'
+    , (SELECT ID
+       FROM WAARDE_BEREIKEN
+       WHERE NAAM = 'ua_kans_letselschade')
+    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
+/
+------ Waarde definitie ua_kans_letselschade_gemiddeld
+MERGE INTO WAARDE_DEFINITIES WD
+USING
+  (SELECT 'ua_kans_letselschade_gemiddeld' AS CODE
+   , (SELECT ID
+      FROM WAARDE_BEREIKEN
+      WHERE NAAM = 'ua_kans_letselschade') AS WAARDE_BEREIK_ID
+   FROM DUAL) D
+ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
+WHEN MATCHED THEN
+UPDATE SET
+  WD.WAARDE = 'De kans op letselschade wordt ingeschat op: gemiddeld',
+  WD.VOLGNUMMER = 20
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , CODE
+  , VOLGNUMMER
+  , WAARDE
+  , WAARDE_BEREIK_ID
+  , AANVANGSDATUM)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_kans_letselschade_gemiddeld'
+    , 20
+    , 'De kans op letselschade wordt ingeschat op: gemiddeld'
+    , (SELECT ID
+       FROM WAARDE_BEREIKEN
+       WHERE NAAM = 'ua_kans_letselschade')
+    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
+/
+------ Waarde definitie ua_kans_letselschade_hoog
+MERGE INTO WAARDE_DEFINITIES WD
+USING
+  (SELECT 'ua_kans_letselschade_hoog' AS CODE
+   , (SELECT ID
+      FROM WAARDE_BEREIKEN
+      WHERE NAAM = 'ua_kans_letselschade') AS WAARDE_BEREIK_ID
+   FROM DUAL) D
+ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
+WHEN MATCHED THEN
+UPDATE SET
+  WD.WAARDE = 'De kans op letselschade wordt ingeschat op: hoog',
+  WD.VOLGNUMMER = 30
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , CODE
+  , VOLGNUMMER
+  , WAARDE
+  , WAARDE_BEREIK_ID
+  , AANVANGSDATUM)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_kans_letselschade_hoog'
+    , 30
+    , 'De kans op letselschade wordt ingeschat op: hoog'
+    , (SELECT ID
+       FROM WAARDE_BEREIKEN
+       WHERE NAAM = 'ua_kans_letselschade')
+    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
+/
+------ Veld definitie ua_kans_letselschade
+MERGE INTO VELD_DEFINITIES VDE
+USING
+  (SELECT 'ua_kans_letselschade' AS NAAM
+   FROM DUAL) D
+ON (VDE.NAAM = D.NAAM)
+WHEN MATCHED THEN
+UPDATE SET
+  VDE.OMSCHRIJVING = 'Kans op letselschade'
+  , VDE.ITEKST_ID  = (SELECT ID
+                      FROM INFOTEKSTEN
+                      WHERE CODE = 'U7003')
+  , VDE.WAARDE_BEREIK_ID = (SELECT id
+                            FROM WAARDE_BEREIKEN
+                            WHERE naam = 'ua_kans_letselschade')
+  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
+  , VDE.VALUE_GENERATOR_TYPE = NULL
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , NAAM
+  , OMSCHRIJVING
+  , WAARDE_BEREIK_ID
+  , ITEKST_ID
+  , RELEVANTIE_FUNCTIE_TYPE
+  , VALUE_GENERATOR_TYPE)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_kans_letselschade'
+    , 'Kans op letselschade'
+    , (SELECT id
+       FROM WAARDE_BEREIKEN
+       WHERE naam = 'ua_kans_letselschade')
+    , (SELECT ID
+       FROM INFOTEKSTEN
+       WHERE CODE = 'U7003')
+    , NULL
+    , NULL)
+/
+SET DEFINE ON
+/</text>
       </register>
       <register name="b" type="4">
         <text>readonlyContent</text>
@@ -791,16 +1331,23 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>style=&quot;float:right;margin-right: 330px;&quot;</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>recidive</text>
+        <text>De</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8aDpvdXRwdXRTdHlsZXNoZWV0IGxpYnJhcnk9InN0eWxlc2hlZXQiIG5hbWU9Imluc3RydW1lbnQuY3NzIi8+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>entries:
+  -  naam: ua_repeat_parketNummer
+     omschrijving: Parketnummers
+     valuegenerator: UA_REPEAT_PARKETNUMMER
+  -
+     naam: uitgebreid_parketNummer
+     omschrijving: Parketnummer
+     valuegenerator: UA_PARKETNUMMER</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
@@ -808,7 +1355,10 @@ VALUES
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>.col-vraag-sub1 {
     width: 80px;
 }
@@ -817,41 +1367,37 @@ VALUES
     width: 253px;
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAwOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Lm5vLW1hcmdpbiB7Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAwOwo=</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lm5vLW1hcmdpbiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>recidive</last-search>
+      <last-search>De</last-search>
       <last-offset />
-      <last-pattern>recidive</last-pattern>
+      <last-pattern>De</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>repetedBlock</entry>
         <entry>repeatedBlock</entry>
         <entry>relative</entry>
         <entry>float:left</entry>
@@ -871,6 +1417,7 @@ VALUES
         <entry>&quot;\/</entry>
         <entry>style</entry>
         <entry>recidive</entry>
+        <entry>De</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
