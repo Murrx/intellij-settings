@@ -28,12 +28,12 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="102" column="148" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" timestamp="1520343892690">
-        <mark key="'" line="1440" column="22" />
-        <mark key="[" line="125" column="43" />
-        <mark key="]" line="126" column="30" />
-        <mark key="." line="126" column="30" />
-        <mark key="^" line="126" column="30" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" timestamp="1520507805771">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="651" column="26" />
+        <mark key="]" line="651" column="26" />
+        <mark key="." line="651" column="26" />
+        <mark key="^" line="651" column="26" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/layout.xhtml" timestamp="1519891136809">
         <mark key="[" line="30" column="0" />
@@ -82,8 +82,8 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1520503104956">
-        <mark key="'" line="117" column="65" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1520507422744">
+        <mark key="'" line="111" column="68" />
         <mark key="k" line="67" column="38" />
         <mark key="[" line="15" column="65" />
         <mark key="]" line="15" column="68" />
@@ -207,14 +207,14 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" timestamp="1520449071886">
-        <mark key="'" line="60" column="182" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" timestamp="1520504423525">
+        <mark key="'" line="84" column="36" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="64" column="41" />
         <mark key="^" line="52" column="100" />
         <mark key="." line="52" column="100" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/selectOneMenuFragmentNew.xhtml" timestamp="1520504289884">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/selectOneMenuFragmentNew.xhtml" timestamp="1520504439401">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="35" />
         <mark key="]" line="21" column="42" />
@@ -324,7 +324,7 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" timestamp="1520343798286">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" timestamp="1520504488332">
         <mark key="'" line="23" column="33" />
         <mark key="[" line="11" column="103" />
         <mark key="]" line="12" column="7" />
@@ -432,12 +432,6 @@
         <mark key="]" line="77" column="21" />
         <mark key="." line="77" column="21" />
         <mark key="^" line="77" column="21" />
-      </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_recidiverisico.xhtml" timestamp="1520448644085">
-        <mark key="[" line="12" column="69" />
-        <mark key="]" line="12" column="78" />
-        <mark key="^" line="12" column="78" />
-        <mark key="." line="12" column="78" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/util/taxatie_analyse.xhtml" timestamp="1517923303722">
         <mark key="[" line="2" column="25" />
@@ -552,7 +546,7 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/fragmentTemplate.xhtml" timestamp="1519821697016">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/fragmentTemplate.xhtml" timestamp="1520504405972">
         <mark key="'" line="81" column="41" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="73" column="46" />
@@ -681,12 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="186" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r.xhtml" />
-      <jump line="16" column="189" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
-      <jump line="18" column="27" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
-      <jump line="39" column="58" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
-      <jump line="40" column="56" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
-      <jump line="41" column="63" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
       <jump line="42" column="216" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
       <jump line="43" column="216" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
       <jump line="44" column="216" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
@@ -781,13 +769,19 @@
       <jump line="50" column="65" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
       <jump line="60" column="182" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
       <jump line="117" column="65" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="47" column="17" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
+      <jump line="72" column="32" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
+      <jump line="80" column="40" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
+      <jump line="84" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
+      <jump line="111" column="68" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>#{messages['combo.maak_een_keuze']}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>readonlyContent</text>
@@ -824,64 +818,60 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>style=&quot;background-color: #0000FF&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>advies</text>
+        <text>\crecidive</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGM6c2V0IHZhcj0ibm9TZWxlY3Rpb25MYWJlbCIgdmFsdWU9IiN7bWVzc2FnZXNbJ2NvbWJvLm1hYWtfZWVuX2tldXplJ119Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJlZFNlcGFyYXRvciIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8dGFnLWV4dGVuc2lvbj48L3RhZy1leHRlbnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJub1NlbGVjdGlvbkxhYmVsIiB2YWx1ZT0iI3ttZXNzYWdlc1snY29tYm8ubWFha19lZW5fa2V1emUnXX0iLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxjOnNldCB2YXI9Im5vU2VsZWN0aW9uTGFiZWwiIHZhbHVlPSIje21lc3NhZ2VzWydjb21iby5tYWFrX2Vlbl9rZXV6ZSddfSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2dkaTpsYXlvdXQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxjOnNldCB2YXI9Im5vU2VsZWN0aW9uTGFiZWwiIHZhbHVlPSIje21lc3NhZ2VzWydjb21iby5tYWFrX2Vlbl9rZXV6ZSddfSIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczpmPSJodHRwOi8veG1sbnMuamNwLm9yZy9qc2YvY29yZSIK</text>
+        <text encoding="base64">ICAgICAgICA8Z2RpOnNlbGVjdE9uZU1lbnVGcmFnbWVudE5ldyB2ZWxkTmFhbT0idWFfa2Fuc19sZXRzZWxzY2hhZGUiIHZvbGdOcj0iNCIvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGY6c2VsZWN0SXRlbXMgdmFsdWU9IiN7dmVsZFdyYXBwci5wb3NzaWJsZVZhbHVlc30iIG5vU2VsZWN0aW9uVmFsdWU9IiIvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICA8dGFnLWV4dGVuc2lvbj48L3RhZy1leHRlbnNpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZjpzZWxlY3RJdGVtIHZhbHVlPSIyIj5pdGVtMjwvZjpzZWxlY3RJdGVtPgo=</text>
+        <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJub1NlbGVjdGlvbkxhYmVsIiB2YWx1ZT0iI3ttZXNzYWdlc1snY29tYm8ubWFha19lZW5fa2V1emUnXX0iLz4K</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>advies</last-search>
+      <last-search>\crecidive</last-search>
       <last-offset />
-      <last-pattern>advies</last-pattern>
+      <last-pattern>\crecidive</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>float:left</entry>
-        <entry>float: left</entry>
-        <entry>div class</entry>
-        <entry>radioButtonHorizontal</entry>
         <entry>class</entry>
         <entry>\class</entry>
         <entry>\\</entry>
@@ -898,6 +888,10 @@ VALUES
         <entry>De</entry>
         <entry>label</entry>
         <entry>advies</entry>
+        <entry>insert</entry>
+        <entry>relatie</entry>
+        <entry>\recidive</entry>
+        <entry>\crecidive</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
@@ -910,8 +904,8 @@ VALUES
         <entry>f</entry>
         <entry>ww</entry>
         <entry>wf</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
