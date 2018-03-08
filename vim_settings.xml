@@ -81,8 +81,8 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1520438741237">
-        <mark key="'" line="109" column="62" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1520503104956">
+        <mark key="'" line="117" column="65" />
         <mark key="k" line="67" column="38" />
         <mark key="[" line="15" column="65" />
         <mark key="]" line="15" column="68" />
@@ -680,7 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="186" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r.xhtml" />
       <jump line="17" column="186" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r.xhtml" />
       <jump line="16" column="189" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
       <jump line="18" column="27" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
@@ -780,6 +779,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/selectOneMenuFragmentNew.xhtml" />
       <jump line="50" column="65" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
       <jump line="60" column="182" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
+      <jump line="117" column="65" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -826,7 +826,7 @@ VALUES
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>label</text>
+        <text>advies</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGM6c2V0IHZhcj0ibm9TZWxlY3Rpb25MYWJlbCIgdmFsdWU9IiN7bWVzc2FnZXNbJ2NvbWJvLm1hYWtfZWVuX2tldXplJ119Ii8+Cg==</text>
@@ -869,15 +869,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>label</last-search>
+      <last-search>advies</last-search>
       <last-offset />
-      <last-pattern>label</last-pattern>
+      <last-pattern>advies</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>relative</entry>
         <entry>float:left</entry>
         <entry>float: left</entry>
         <entry>div class</entry>
@@ -897,6 +896,7 @@ VALUES
         <entry>recidive</entry>
         <entry>De</entry>
         <entry>label</entry>
+        <entry>advies</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
