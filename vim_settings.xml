@@ -124,12 +124,12 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1520439683764">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1520510138693">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="866" column="0" />
-        <mark key="]" line="866" column="0" />
-        <mark key="^" line="1272" column="17" />
-        <mark key="." line="866" column="0" />
+        <mark key="[" line="671" column="19" />
+        <mark key="]" line="671" column="20" />
+        <mark key="^" line="671" column="20" />
+        <mark key="." line="671" column="20" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/si.taglib.xml" timestamp="1517003526683">
         <mark key="[" line="15" column="18" />
@@ -381,6 +381,13 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="62" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_static99R.xhtml" timestamp="1520510248830">
+        <mark key="'" line="72" column="24" />
+        <mark key="[" line="32" column="113" />
+        <mark key="]" line="32" column="113" />
+        <mark key="." line="32" column="55" />
+        <mark key="^" line="33" column="93" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelinstrument/si-adviesLookup.xhtml" timestamp="1516019668246">
         <mark key="[" line="6" column="69" />
         <mark key="]" line="6" column="80" />
@@ -577,7 +584,7 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520441051719">
+      <file name="/Dummy.txt" timestamp="1520510121280">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -675,7 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="216" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
       <jump line="43" column="216" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
       <jump line="44" column="216" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
       <jump line="45" column="216" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_vera_2r_aanvullend.xhtml" />
@@ -775,13 +781,14 @@
       <jump line="84" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
       <jump line="111" column="68" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" />
+      <jump line="73" column="24" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_static99R.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>#{messages['combo.maak_een_keuze']}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fragmentLabelClass=&quot;&quot;</text>
       </register>
       <register name="b" type="4">
         <text>readonlyContent</text>
@@ -818,55 +825,55 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>style=&quot;background-color: #0000FF&quot;</text>
+        <text>fragmentLabelClass=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>\crecidive</text>
+        <text>seksueel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJlZFNlcGFyYXRvciIvPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICA8Z2RpOnJhZGlvQnV0dG9uRnJhZ21lbnQgdmVsZE5hYW09InVhX3N0YXRpY19ub25fY29udGFjdF9zZWtzdWVlbF9kZWxpY3QiIHZvbGdOcj0iOCIgcmVxdWlyZWQ9ImZhbHNlIiByYWRpb0RpcmVjdGlvbj0idmVydGljYWFsIiBzaG93U2NvcmU9InRydWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUFqYXg9ImZhbHNlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW5kZXI9InN0YXRpY19zY29yZXMsc3RhdGljX3Jpc2ljbyIgcmFkaW9TdHlsZUNsYXNzPSJ3aWR0aDEwMCIgdGFibGVDbGFzcz0iZnVsbC13aWR0aC1maXgiLz4=</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVuZGVyPSJzdGF0aWNfc2NvcmVzLHN0YXRpY19yaXNpY28iIHJhZGlvU3R5bGVDbGFzcz0id2lkdGgxMDAiIHRhYmxlQ2xhc3M9ImZ1bGwtd2lkdGgtZml4Ii8+Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICA8Z2RpOnJhZGlvQnV0dG9uRnJhZ21lbnQgdmVsZE5hYW09InVhX3N0YXRpY19ub25fY29udGFjdF9zZWtzdWVlbF9kZWxpY3QiIHZvbGdOcj0iOCIgcmVxdWlyZWQ9ImZhbHNlIiByYWRpb0RpcmVjdGlvbj0idmVydGljYWFsIiBzaG93U2NvcmU9InRydWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZUFqYXg9ImZhbHNlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW5kZXI9InN0YXRpY19zY29yZXMsc3RhdGljX3Jpc2ljbyIgcmFkaW9TdHlsZUNsYXNzPSJ3aWR0aDEwMCIgdGFibGVDbGFzcz0iZnVsbC13aWR0aC1maXgiLz4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2dkaTpsYXlvdXQ+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Z2RpOnNlbGVjdE9uZU1lbnVGcmFnbWVudE5ldyB2ZWxkTmFhbT0idWFfa2Fuc19sZXRzZWxzY2hhZGUiIHZvbGdOcj0iNCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2dkaTpsYXlvdXQ+Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8dGFnLWV4dGVuc2lvbj48L3RhZy1leHRlbnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJub1NlbGVjdGlvbkxhYmVsIiB2YWx1ZT0iI3ttZXNzYWdlc1snY29tYm8ubWFha19lZW5fa2V1emUnXX0iLz4K</text>
+        <text encoding="base64">ICAgICAgICA8Z2RpOnNlbGVjdE9uZU1lbnVGcmFnbWVudE5ldyB2ZWxkTmFhbT0idWFfa2Fuc19sZXRzZWxzY2hhZGUiIHZvbGdOcj0iNCIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\crecidive</last-search>
+      <last-search>seksueel</last-search>
       <last-offset />
-      <last-pattern>\crecidive</last-pattern>
+      <last-pattern>seksueel</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -881,7 +888,6 @@ VALUES
         <entry>&quot;</entry>
         <entry>\/</entry>
         <entry>sexueel</entry>
-        <entry>seksueel</entry>
         <entry>&quot;\/</entry>
         <entry>style</entry>
         <entry>recidive</entry>
@@ -892,6 +898,7 @@ VALUES
         <entry>relatie</entry>
         <entry>\recidive</entry>
         <entry>\crecidive</entry>
+        <entry>seksueel</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
