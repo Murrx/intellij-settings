@@ -28,10 +28,6 @@
         <mark key="^" line="17" column="185" />
         <mark key="." line="102" column="148" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/META-INF/resources/templates/instrument/uitgebreidadvies.xml" timestamp="1520525464946">
-        <mark key="'" line="0" column="0" />
-        <mark key="^" line="642" column="53" />
-      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/layout.xhtml" timestamp="1520593172364">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="17" />
@@ -184,10 +180,10 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" timestamp="1519836319442">
-        <mark key="'" line="3075" column="13" />
-        <mark key="[" line="4692" column="0" />
-        <mark key="]" line="4707" column="9" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" timestamp="1520864117827">
+        <mark key="'" line="8426" column="10" />
+        <mark key="[" line="8392" column="0" />
+        <mark key="]" line="8420" column="10" />
         <mark key="^" line="8875" column="36" />
         <mark key="." line="8881" column="0" />
       </file>
@@ -281,6 +277,12 @@
         <mark key="^" line="83" column="2" />
         <mark key="." line="83" column="3" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/leefgebied.xhtml" timestamp="1520864226810">
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="15" />
+        <mark key="." line="30" column="15" />
+        <mark key="^" line="30" column="15" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/component/activiteit/uitgebreidadvies/uitgebreidadvies.pages.xml" timestamp="1516033578031">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="47" column="20" />
@@ -305,13 +307,13 @@
         <mark key="^" line="114" column="20" />
         <mark key="." line="114" column="20" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" timestamp="1520591303568">
-        <mark key="'" line="607" column="0" />
-        <mark key="[" line="709" column="0" />
-        <mark key="m" line="729" column="38" />
-        <mark key="]" line="710" column="37" />
-        <mark key="." line="709" column="0" />
-        <mark key="^" line="708" column="23" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" timestamp="1520864158909">
+        <mark key="'" line="675" column="0" />
+        <mark key="[" line="531" column="48" />
+        <mark key="m" line="797" column="38" />
+        <mark key="]" line="531" column="51" />
+        <mark key="." line="531" column="51" />
+        <mark key="^" line="531" column="51" />
       </file>
       <file name="$USER_HOME$/git/jsf-playground/web/WEB-INF/faces-config.xml" timestamp="1516986663096">
         <mark key="[" line="10" column="4" />
@@ -323,11 +325,6 @@
         <mark key="[" line="120" column="143" />
         <mark key="]" line="120" column="171" />
         <mark key="." line="120" column="143" />
-      </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/selectOneMenuFragment.xhtml" timestamp="1520596347366">
-        <mark key="'" line="16" column="83" />
-        <mark key="[" line="22" column="122" />
-        <mark key="]" line="22" column="163" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorblad.xhtml" timestamp="1520430604984">
         <mark key="[" line="9" column="19" />
@@ -385,6 +382,12 @@
         <mark key="]" line="31" column="5" />
         <mark key="^" line="31" column="5" />
         <mark key="." line="31" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/leefgebiedOverige.xhtml" timestamp="1520864189809">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="26" column="15" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-ear/pom.xml" timestamp="1508855207575">
         <mark key="[" line="16" column="0" />
@@ -610,7 +613,7 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520863275350">
+      <file name="/Dummy.txt" timestamp="1520864233425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -703,7 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="20" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
       <jump line="59" column="37" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
       <jump line="60" column="44" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
       <jump line="68" column="17" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
@@ -803,1040 +805,14 @@
       <jump line="364" column="13" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/AbstractVeldWrapper.java" />
       <jump line="367" column="50" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/AbstractVeldWrapper.java" />
       <jump line="378" column="27" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/AbstractVeldWrapper.java" />
+      <jump line="8426" column="10" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/iris.taglib.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>/* Generated with gdisqlgen. Original YAML input:
-
-entries:
-  - naam: ua_oxrec_geweldadig
-    omschrijving: Gewelddadig indexdelict
-    itekst: U3506
-    waardebereik: JaNee
-
-  - naam: ua_oxrec_veroordeling
-    omschrijving: Eerdere veroordeling voor een geweldsdelict (vóór indexdelict)
-    itekst: U3507
-    waardebereik: JaNee
-
-  - naam: ua_oxrec_burgelijke_staat
-    omschrijving: Burgerlijke staat
-    itekst: U3508
-    waardebereik: ua_oxrec_burgelijkestaat
-
-  - waardebereik: ua_oxrec_burgelijkestaat
-    waarden:
-      - code: ua_burgelijkestaat_ongehuwd
-        omschrijving: Alleenstaand
-        volgnummer: 1
-      - code: ua_burgelijkestaat_overig
-        omschrijving: Samenwonend, Getrouwd, LAT-relatie
-        volgnummer: 5
-      - code: ua_burgelijkestaat_onbekend
-        omschrijving: Onbekend
-        volgnummer: 10
-
-  - naam: ua_oxrec_opleiding
-    omschrijving: Opleidingsniveau
-    itekst: U3509
-    waardebereik: ua_oxrec_opleiding
-
-  - waardebereik: ua_oxrec_opleiding
-    waarden:
-      - code: ua_opleiding_vmbo
-        omschrijving: Een opleiding gevolgd tot 16e jaar of jonger
-        volgnummer: 1
-      - code: ua_opleiding_vwo
-        omschrijving: Een opleiding gevolgd t/m 18e jaar
-        volgnummer: 5
-      - code: ua_opleiding_wo
-        omschrijving: Een opleiding gevolgd to ná 18e jaar
-        volgnummer: 10
-      - code: ua_opleiding_onbekend
-        omschrijving: Onbekend
-        volgnummer: 15
-
-  - naam: ua_oxrec_werk
-    omschrijving: Zinvolle dagbesteding
-    itekst: U3510
-    waardebereik: JaNeeOnbekend
-
-  - naam: ua_oxrec_inkomen
-    omschrijving: Besteedbaar inkomen
-    itekst: U3511
-    waardebereik: ua_oxrec_inkomen
-
-  - waardebereik: ua_oxrec_inkomen
-    waarden:
-      - code: ua_inkomen_oxrec_tot18000
-        omschrijving: Laag
-        volgnummer: 1
-      - code: ua_inkomen_oxrec_18_60000
-        omschrijving: Gemiddeld
-        volgnummer: 5
-      - code: ua_inkomen_oxrec_60000
-        omschrijving: Hoog
-        volgnummer: 10
-      - code: ua_inkomen_oxrec_zero
-        omschrijving: Geen inkomen
-        volgnummer: 15
-      - code: ua_inkomen_oxrec_onbekend
-        omschrijving: Onbekend
-        volgnummer: 20
-
-*/
-SET DEFINE OFF
-/
------- Infotekst U3506
-MERGE INTO INFOTEKSTEN ITK
-USING
-  (SELECT 'U3506' AS CODE
-   FROM DUAL) D
-ON (D.CODE = ITK.CODE)
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , OMSCHRIJVING
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'U3506'
-    , 'U3506: Gewelddadig indexdelict'
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Veld definitie ua_oxrec_geweldadig
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_oxrec_geweldadig' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Gewelddadig indexdelict'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U3506')
-  , VDE.WAARDE_BEREIK_ID = (SELECT id
-                            FROM WAARDE_BEREIKEN
-                            WHERE naam = 'JaNee')
-  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
-  , VDE.VALUE_GENERATOR_TYPE = NULL
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID
-  , RELEVANTIE_FUNCTIE_TYPE
-  , VALUE_GENERATOR_TYPE)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_oxrec_geweldadig'
-    , 'Gewelddadig indexdelict'
-    , (SELECT id
-       FROM WAARDE_BEREIKEN
-       WHERE naam = 'JaNee')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U3506')
-    , NULL
-    , NULL)
-/
------- Infotekst U3507
-MERGE INTO INFOTEKSTEN ITK
-USING
-  (SELECT 'U3507' AS CODE
-   FROM DUAL) D
-ON (D.CODE = ITK.CODE)
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , OMSCHRIJVING
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'U3507'
-    , 'U3507: Eerdere veroordeling voor een geweldsdelict (vóór indexdelict)'
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Veld definitie ua_oxrec_veroordeling
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_oxrec_veroordeling' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Eerdere veroordeling voor een geweldsdelict (vóór indexdelict)'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U3507')
-  , VDE.WAARDE_BEREIK_ID = (SELECT id
-                            FROM WAARDE_BEREIKEN
-                            WHERE naam = 'JaNee')
-  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
-  , VDE.VALUE_GENERATOR_TYPE = NULL
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID
-  , RELEVANTIE_FUNCTIE_TYPE
-  , VALUE_GENERATOR_TYPE)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_oxrec_veroordeling'
-    , 'Eerdere veroordeling voor een geweldsdelict (vóór indexdelict)'
-    , (SELECT id
-       FROM WAARDE_BEREIKEN
-       WHERE naam = 'JaNee')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U3507')
-    , NULL
-    , NULL)
-/
------- Infotekst U3508
-MERGE INTO INFOTEKSTEN ITK
-USING
-  (SELECT 'U3508' AS CODE
-   FROM DUAL) D
-ON (D.CODE = ITK.CODE)
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , OMSCHRIJVING
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'U3508'
-    , 'U3508: Burgerlijke staat'
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Veld definitie ua_oxrec_burgelijke_staat
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_oxrec_burgelijke_staat' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Burgerlijke staat'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U3508')
-  , VDE.WAARDE_BEREIK_ID = (SELECT id
-                            FROM WAARDE_BEREIKEN
-                            WHERE naam = 'ua_oxrec_burgelijkestaat')
-  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
-  , VDE.VALUE_GENERATOR_TYPE = NULL
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID
-  , RELEVANTIE_FUNCTIE_TYPE
-  , VALUE_GENERATOR_TYPE)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_oxrec_burgelijke_staat'
-    , 'Burgerlijke staat'
-    , (SELECT id
-       FROM WAARDE_BEREIKEN
-       WHERE naam = 'ua_oxrec_burgelijkestaat')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U3508')
-    , NULL
-    , NULL)
-/
------- Waarde bereik ua_oxrec_burgelijkestaat
-MERGE INTO WAARDE_BEREIKEN WBE
-USING
-  (SELECT 'ua_oxrec_burgelijkestaat' AS NAAM
-   FROM DUAL) D
-ON (WBE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  WBE.OMSCHRIJVING = 'ua_oxrec_burgelijkestaat'
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , TYPE
-  , OMSCHRIJVING
-  , STUREND)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_oxrec_burgelijkestaat'
-    , 'STRING'
-    , 'ua_oxrec_burgelijkestaat'
-    , 0)
-/
------- Waarde definitie ua_burgelijkestaat_ongehuwd
-MERGE INTO WAARDE_DEFINITIES WD
-USING
-  (SELECT 'ua_burgelijkestaat_ongehuwd' AS CODE
-   , (SELECT ID
-      FROM WAARDE_BEREIKEN
-      WHERE NAAM = 'ua_oxrec_burgelijkestaat') AS WAARDE_BEREIK_ID
-   FROM DUAL) D
-ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
-WHEN MATCHED THEN
-UPDATE SET
-  WD.WAARDE = 'Alleenstaand',
-  WD.VOLGNUMMER = 1
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , VOLGNUMMER
-  , WAARDE
-  , WAARDE_BEREIK_ID
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_burgelijkestaat_ongehuwd'
-    , 1
-    , 'Alleenstaand'
-    , (SELECT ID
-       FROM WAARDE_BEREIKEN
-       WHERE NAAM = 'ua_oxrec_burgelijkestaat')
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Waarde definitie ua_burgelijkestaat_overig
-MERGE INTO WAARDE_DEFINITIES WD
-USING
-  (SELECT 'ua_burgelijkestaat_overig' AS CODE
-   , (SELECT ID
-      FROM WAARDE_BEREIKEN
-      WHERE NAAM = 'ua_oxrec_burgelijkestaat') AS WAARDE_BEREIK_ID
-   FROM DUAL) D
-ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
-WHEN MATCHED THEN
-UPDATE SET
-  WD.WAARDE = 'Samenwonend, Getrouwd, LAT-relatie',
-  WD.VOLGNUMMER = 5
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , VOLGNUMMER
-  , WAARDE
-  , WAARDE_BEREIK_ID
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_burgelijkestaat_overig'
-    , 5
-    , 'Samenwonend, Getrouwd, LAT-relatie'
-    , (SELECT ID
-       FROM WAARDE_BEREIKEN
-       WHERE NAAM = 'ua_oxrec_burgelijkestaat')
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Waarde definitie ua_burgelijkestaat_onbekend
-MERGE INTO WAARDE_DEFINITIES WD
-USING
-  (SELECT 'ua_burgelijkestaat_onbekend' AS CODE
-   , (SELECT ID
-      FROM WAARDE_BEREIKEN
-      WHERE NAAM = 'ua_oxrec_burgelijkestaat') AS WAARDE_BEREIK_ID
-   FROM DUAL) D
-ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
-WHEN MATCHED THEN
-UPDATE SET
-  WD.WAARDE = 'Onbekend',
-  WD.VOLGNUMMER = 10
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , VOLGNUMMER
-  , WAARDE
-  , WAARDE_BEREIK_ID
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_burgelijkestaat_onbekend'
-    , 10
-    , 'Onbekend'
-    , (SELECT ID
-       FROM WAARDE_BEREIKEN
-       WHERE NAAM = 'ua_oxrec_burgelijkestaat')
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Infotekst U3509
-MERGE INTO INFOTEKSTEN ITK
-USING
-  (SELECT 'U3509' AS CODE
-   FROM DUAL) D
-ON (D.CODE = ITK.CODE)
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , OMSCHRIJVING
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'U3509'
-    , 'U3509: Opleidingsniveau'
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Veld definitie ua_oxrec_opleiding
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_oxrec_opleiding' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Opleidingsniveau'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U3509')
-  , VDE.WAARDE_BEREIK_ID = (SELECT id
-                            FROM WAARDE_BEREIKEN
-                            WHERE naam = 'ua_oxrec_opleiding')
-  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
-  , VDE.VALUE_GENERATOR_TYPE = NULL
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID
-  , RELEVANTIE_FUNCTIE_TYPE
-  , VALUE_GENERATOR_TYPE)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_oxrec_opleiding'
-    , 'Opleidingsniveau'
-    , (SELECT id
-       FROM WAARDE_BEREIKEN
-       WHERE naam = 'ua_oxrec_opleiding')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U3509')
-    , NULL
-    , NULL)
-/
------- Waarde bereik ua_oxrec_opleiding
-MERGE INTO WAARDE_BEREIKEN WBE
-USING
-  (SELECT 'ua_oxrec_opleiding' AS NAAM
-   FROM DUAL) D
-ON (WBE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  WBE.OMSCHRIJVING = 'ua_oxrec_opleiding'
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , TYPE
-  , OMSCHRIJVING
-  , STUREND)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_oxrec_opleiding'
-    , 'STRING'
-    , 'ua_oxrec_opleiding'
-    , 0)
-/
------- Waarde definitie ua_opleiding_vmbo
-MERGE INTO WAARDE_DEFINITIES WD
-USING
-  (SELECT 'ua_opleiding_vmbo' AS CODE
-   , (SELECT ID
-      FROM WAARDE_BEREIKEN
-      WHERE NAAM = 'ua_oxrec_opleiding') AS WAARDE_BEREIK_ID
-   FROM DUAL) D
-ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
-WHEN MATCHED THEN
-UPDATE SET
-  WD.WAARDE = 'Een opleiding gevolgd tot 16e jaar of jonger',
-  WD.VOLGNUMMER = 1
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , VOLGNUMMER
-  , WAARDE
-  , WAARDE_BEREIK_ID
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_opleiding_vmbo'
-    , 1
-    , 'Een opleiding gevolgd tot 16e jaar of jonger'
-    , (SELECT ID
-       FROM WAARDE_BEREIKEN
-       WHERE NAAM = 'ua_oxrec_opleiding')
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Waarde definitie ua_opleiding_vwo
-MERGE INTO WAARDE_DEFINITIES WD
-USING
-  (SELECT 'ua_opleiding_vwo' AS CODE
-   , (SELECT ID
-      FROM WAARDE_BEREIKEN
-      WHERE NAAM = 'ua_oxrec_opleiding') AS WAARDE_BEREIK_ID
-   FROM DUAL) D
-ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
-WHEN MATCHED THEN
-UPDATE SET
-  WD.WAARDE = 'Een opleiding gevolgd t/m 18e jaar',
-  WD.VOLGNUMMER = 5
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , VOLGNUMMER
-  , WAARDE
-  , WAARDE_BEREIK_ID
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_opleiding_vwo'
-    , 5
-    , 'Een opleiding gevolgd t/m 18e jaar'
-    , (SELECT ID
-       FROM WAARDE_BEREIKEN
-       WHERE NAAM = 'ua_oxrec_opleiding')
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Waarde definitie ua_opleiding_wo
-MERGE INTO WAARDE_DEFINITIES WD
-USING
-  (SELECT 'ua_opleiding_wo' AS CODE
-   , (SELECT ID
-      FROM WAARDE_BEREIKEN
-      WHERE NAAM = 'ua_oxrec_opleiding') AS WAARDE_BEREIK_ID
-   FROM DUAL) D
-ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
-WHEN MATCHED THEN
-UPDATE SET
-  WD.WAARDE = 'Een opleiding gevolgd to ná 18e jaar',
-  WD.VOLGNUMMER = 10
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , VOLGNUMMER
-  , WAARDE
-  , WAARDE_BEREIK_ID
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_opleiding_wo'
-    , 10
-    , 'Een opleiding gevolgd to ná 18e jaar'
-    , (SELECT ID
-       FROM WAARDE_BEREIKEN
-       WHERE NAAM = 'ua_oxrec_opleiding')
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Waarde definitie ua_opleiding_onbekend
-MERGE INTO WAARDE_DEFINITIES WD
-USING
-  (SELECT 'ua_opleiding_onbekend' AS CODE
-   , (SELECT ID
-      FROM WAARDE_BEREIKEN
-      WHERE NAAM = 'ua_oxrec_opleiding') AS WAARDE_BEREIK_ID
-   FROM DUAL) D
-ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
-WHEN MATCHED THEN
-UPDATE SET
-  WD.WAARDE = 'Onbekend',
-  WD.VOLGNUMMER = 15
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , VOLGNUMMER
-  , WAARDE
-  , WAARDE_BEREIK_ID
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_opleiding_onbekend'
-    , 15
-    , 'Onbekend'
-    , (SELECT ID
-       FROM WAARDE_BEREIKEN
-       WHERE NAAM = 'ua_oxrec_opleiding')
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Infotekst U3510
-MERGE INTO INFOTEKSTEN ITK
-USING
-  (SELECT 'U3510' AS CODE
-   FROM DUAL) D
-ON (D.CODE = ITK.CODE)
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , OMSCHRIJVING
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'U3510'
-    , 'U3510: Zinvolle dagbesteding'
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Veld definitie ua_oxrec_werk
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_oxrec_werk' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Zinvolle dagbesteding'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U3510')
-  , VDE.WAARDE_BEREIK_ID = (SELECT id
-                            FROM WAARDE_BEREIKEN
-                            WHERE naam = 'JaNeeOnbekend')
-  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
-  , VDE.VALUE_GENERATOR_TYPE = NULL
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID
-  , RELEVANTIE_FUNCTIE_TYPE
-  , VALUE_GENERATOR_TYPE)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_oxrec_werk'
-    , 'Zinvolle dagbesteding'
-    , (SELECT id
-       FROM WAARDE_BEREIKEN
-       WHERE naam = 'JaNeeOnbekend')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U3510')
-    , NULL
-    , NULL)
-/
------- Infotekst U3511
-MERGE INTO INFOTEKSTEN ITK
-USING
-  (SELECT 'U3511' AS CODE
-   FROM DUAL) D
-ON (D.CODE = ITK.CODE)
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , OMSCHRIJVING
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'U3511'
-    , 'U3511: Besteedbaar inkomen'
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Veld definitie ua_oxrec_inkomen
-MERGE INTO VELD_DEFINITIES VDE
-USING
-  (SELECT 'ua_oxrec_inkomen' AS NAAM
-   FROM DUAL) D
-ON (VDE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  VDE.OMSCHRIJVING = 'Besteedbaar inkomen'
-  , VDE.ITEKST_ID  = (SELECT ID
-                      FROM INFOTEKSTEN
-                      WHERE CODE = 'U3511')
-  , VDE.WAARDE_BEREIK_ID = (SELECT id
-                            FROM WAARDE_BEREIKEN
-                            WHERE naam = 'ua_oxrec_inkomen')
-  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
-  , VDE.VALUE_GENERATOR_TYPE = NULL
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , OMSCHRIJVING
-  , WAARDE_BEREIK_ID
-  , ITEKST_ID
-  , RELEVANTIE_FUNCTIE_TYPE
-  , VALUE_GENERATOR_TYPE)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_oxrec_inkomen'
-    , 'Besteedbaar inkomen'
-    , (SELECT id
-       FROM WAARDE_BEREIKEN
-       WHERE naam = 'ua_oxrec_inkomen')
-    , (SELECT ID
-       FROM INFOTEKSTEN
-       WHERE CODE = 'U3511')
-    , NULL
-    , NULL)
-/
------- Waarde bereik ua_oxrec_inkomen
-MERGE INTO WAARDE_BEREIKEN WBE
-USING
-  (SELECT 'ua_oxrec_inkomen' AS NAAM
-   FROM DUAL) D
-ON (WBE.NAAM = D.NAAM)
-WHEN MATCHED THEN
-UPDATE SET
-  WBE.OMSCHRIJVING = 'ua_oxrec_inkomen'
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , NAAM
-  , TYPE
-  , OMSCHRIJVING
-  , STUREND)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_oxrec_inkomen'
-    , 'STRING'
-    , 'ua_oxrec_inkomen'
-    , 0)
-/
------- Waarde definitie ua_inkomen_oxrec_tot18000
-MERGE INTO WAARDE_DEFINITIES WD
-USING
-  (SELECT 'ua_inkomen_oxrec_tot18000' AS CODE
-   , (SELECT ID
-      FROM WAARDE_BEREIKEN
-      WHERE NAAM = 'ua_oxrec_inkomen') AS WAARDE_BEREIK_ID
-   FROM DUAL) D
-ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
-WHEN MATCHED THEN
-UPDATE SET
-  WD.WAARDE = 'Laag',
-  WD.VOLGNUMMER = 1
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , VOLGNUMMER
-  , WAARDE
-  , WAARDE_BEREIK_ID
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_inkomen_oxrec_tot18000'
-    , 1
-    , 'Laag'
-    , (SELECT ID
-       FROM WAARDE_BEREIKEN
-       WHERE NAAM = 'ua_oxrec_inkomen')
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Waarde definitie ua_inkomen_oxrec_18_60000
-MERGE INTO WAARDE_DEFINITIES WD
-USING
-  (SELECT 'ua_inkomen_oxrec_18_60000' AS CODE
-   , (SELECT ID
-      FROM WAARDE_BEREIKEN
-      WHERE NAAM = 'ua_oxrec_inkomen') AS WAARDE_BEREIK_ID
-   FROM DUAL) D
-ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
-WHEN MATCHED THEN
-UPDATE SET
-  WD.WAARDE = 'Gemiddeld',
-  WD.VOLGNUMMER = 5
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , VOLGNUMMER
-  , WAARDE
-  , WAARDE_BEREIK_ID
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_inkomen_oxrec_18_60000'
-    , 5
-    , 'Gemiddeld'
-    , (SELECT ID
-       FROM WAARDE_BEREIKEN
-       WHERE NAAM = 'ua_oxrec_inkomen')
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Waarde definitie ua_inkomen_oxrec_60000
-MERGE INTO WAARDE_DEFINITIES WD
-USING
-  (SELECT 'ua_inkomen_oxrec_60000' AS CODE
-   , (SELECT ID
-      FROM WAARDE_BEREIKEN
-      WHERE NAAM = 'ua_oxrec_inkomen') AS WAARDE_BEREIK_ID
-   FROM DUAL) D
-ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
-WHEN MATCHED THEN
-UPDATE SET
-  WD.WAARDE = 'Hoog',
-  WD.VOLGNUMMER = 10
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , VOLGNUMMER
-  , WAARDE
-  , WAARDE_BEREIK_ID
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_inkomen_oxrec_60000'
-    , 10
-    , 'Hoog'
-    , (SELECT ID
-       FROM WAARDE_BEREIKEN
-       WHERE NAAM = 'ua_oxrec_inkomen')
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Waarde definitie ua_inkomen_oxrec_zero
-MERGE INTO WAARDE_DEFINITIES WD
-USING
-  (SELECT 'ua_inkomen_oxrec_zero' AS CODE
-   , (SELECT ID
-      FROM WAARDE_BEREIKEN
-      WHERE NAAM = 'ua_oxrec_inkomen') AS WAARDE_BEREIK_ID
-   FROM DUAL) D
-ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
-WHEN MATCHED THEN
-UPDATE SET
-  WD.WAARDE = 'Geen inkomen',
-  WD.VOLGNUMMER = 15
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , VOLGNUMMER
-  , WAARDE
-  , WAARDE_BEREIK_ID
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_inkomen_oxrec_zero'
-    , 15
-    , 'Geen inkomen'
-    , (SELECT ID
-       FROM WAARDE_BEREIKEN
-       WHERE NAAM = 'ua_oxrec_inkomen')
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
------- Waarde definitie ua_inkomen_oxrec_onbekend
-MERGE INTO WAARDE_DEFINITIES WD
-USING
-  (SELECT 'ua_inkomen_oxrec_onbekend' AS CODE
-   , (SELECT ID
-      FROM WAARDE_BEREIKEN
-      WHERE NAAM = 'ua_oxrec_inkomen') AS WAARDE_BEREIK_ID
-   FROM DUAL) D
-ON (D.CODE = WD.CODE AND D.WAARDE_BEREIK_ID = WD.WAARDE_BEREIK_ID)
-WHEN MATCHED THEN
-UPDATE SET
-  WD.WAARDE = 'Onbekend',
-  WD.VOLGNUMMER = 20
-WHEN NOT MATCHED THEN
-INSERT
-(VERSION
-  , DATUM_TIJD_LAATST_GEWIJZIGD
-  , DATUM_TIJD_TOEGEVOEGD
-  , TOEGEVOEGD_DOOR_ORGANISATIE
-  , CODE
-  , VOLGNUMMER
-  , WAARDE
-  , WAARDE_BEREIK_ID
-  , AANVANGSDATUM)
-VALUES
-  (0
-    , systimestamp
-    , systimestamp
-    , 'IRISUA'
-    , 'ua_inkomen_oxrec_onbekend'
-    , 20
-    , 'Onbekend'
-    , (SELECT ID
-       FROM WAARDE_BEREIKEN
-       WHERE NAAM = 'ua_oxrec_inkomen')
-    , TO_DATE('01-01-2017', 'dd-mm-yyyy'))
-/
-SET DEFINE ON
-/</text>
+        <text encoding="base64">CiAgICA8dGFnPgogICAgICAgIDx0YWctbmFtZT5zbGlkZXJGcmFnbWVudDwvdGFnLW5hbWU+CiAgICAgICAgPHNvdXJjZT4uLi9sYXlvdXQvY29tcG9uZW50cy9pbnN0cnVtZW50L3NsaWRlckZyYWdtZW50LnhodG1sPC9zb3VyY2U+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+dmVsZE5hYW08L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmphdmEubGFuZy5TdHJpbmc8L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+aGlkZUxhYmVsPC9uYW1lPgogICAgICAgICAgICA8dHlwZT5ib29sZWFuPC90eXBlPgogICAgICAgIDwvYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGU+CiAgICAgICAgICAgIDxuYW1lPnZvbGdOcjwvbmFtZT4KICAgICAgICAgICAgPHR5cGU+amF2YS5sYW5nLlN0cmluZzwvdHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4KICAgICAgICA8YXR0cmlidXRlPgogICAgICAgICAgICA8bmFtZT5mcmFnbWVudExhYmVsQ2xhc3M8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmphdmEubGFuZy5TdHJpbmc8L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+bWF4VmFsdWU8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmphdmEubGFuZy5TdHJpbmc8L3R5cGU+CiAgICAgICAgPC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+cmVuZGVyPC9uYW1lPgogICAgICAgICAgICA8dHlwZT5qYXZhLmxhbmcuU3RyaW5nPC90eXBlPgogICAgICAgIDwvYXR0cmlidXRlPgogICAgPC90YWc+Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>iris</text>
       </register>
       <register name="b" type="4">
         <text>readonlyContent</text>
@@ -1873,10 +849,10 @@ VALUES
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>iris</text>
       </register>
       <register name="/" type="4">
-        <text>optional</text>
+        <text>booleanCheckBoxFragment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJncmVlblNlcGVyYXRvciIvPgo=</text>
@@ -1919,15 +895,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>optional</last-search>
+      <last-search>booleanCheckBoxFragment</last-search>
       <last-offset />
-      <last-pattern>optional</last-pattern>
+      <last-pattern>booleanCheckBoxFragment</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>advies</entry>
         <entry>insert</entry>
         <entry>relatie</entry>
         <entry>\recidive</entry>
@@ -1947,6 +922,7 @@ VALUES
         <entry>complete</entry>
         <entry>Complete</entry>
         <entry>optional</entry>
+        <entry>booleanCheckBoxFragment</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
