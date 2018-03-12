@@ -38,6 +38,9 @@
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/AbstractVeldWrapper.java" timestamp="1520860072351">
+        <mark key="'" line="367" column="50" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/gdiTemplate.xhtml" timestamp="1519897221436">
         <mark key="[" line="4" column="37" />
         <mark key="]" line="4" column="37" />
@@ -86,13 +89,7 @@
         <mark key="." line="15" column="68" />
         <mark key="^" line="15" column="68" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1520852047869">
-        <mark key="'" line="28" column="36" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1520859408764" />
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/summary_popup.xhtml" timestamp="1511956772199">
         <mark key="[" line="8" column="97" />
         <mark key="]" line="8" column="96" />
@@ -209,8 +206,8 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" timestamp="1520596550680">
-        <mark key="'" line="34" column="79" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" timestamp="1520859446964">
+        <mark key="'" line="48" column="49" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="71" column="126" />
         <mark key="." line="0" column="0" />
@@ -543,10 +540,6 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/selectOneMenuFragment.xhtml" timestamp="1520514271565">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="33" column="90" />
-      </file>
       <file name="$USER_HOME$/git/gdisqlgen/test.sql" timestamp="1520850945850">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -601,7 +594,7 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520849223059">
+      <file name="/Dummy.txt" timestamp="1520859750535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -666,6 +659,9 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/BlokWrapper.java" timestamp="1520859933286">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/new/value.xhtml" timestamp="1515501290806">
         <mark key="[" line="13" column="45" />
         <mark key="]" line="13" column="45" />
@@ -691,16 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="12" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
-      <jump line="24" column="13" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
-      <jump line="25" column="16" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
-      <jump line="26" column="33" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
-      <jump line="41" column="99" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
-      <jump line="46" column="71" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
-      <jump line="47" column="106" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
-      <jump line="48" column="16" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
-      <jump line="49" column="33" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
-      <jump line="50" column="40" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
       <jump line="57" column="17" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
       <jump line="58" column="20" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
       <jump line="59" column="37" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/asr_lang.xhtml" />
@@ -791,6 +777,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.120.sql" />
       <jump line="1028" column="26" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.120.sql" />
       <jump line="27" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" />
+      <jump line="70" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
+      <jump line="94" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
+      <jump line="48" column="49" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/BlokWrapper.java" />
+      <jump line="369" column="37" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/AbstractVeldWrapper.java" />
+      <jump line="374" column="13" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/AbstractVeldWrapper.java" />
+      <jump line="49" column="19" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/AbstractVeldWrapper.java" />
+      <jump line="364" column="13" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/AbstractVeldWrapper.java" />
+      <jump line="367" column="50" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/sneladvies/wrapper/AbstractVeldWrapper.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1864,7 +1860,7 @@ VALUES
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>buurt</text>
+        <text>optional</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJncmVlblNlcGVyYXRvciIvPgo=</text>
@@ -1907,21 +1903,14 @@ VALUES
       </register>
     </registers>
     <search>
-      <last-search>buurt</last-search>
+      <last-search>optional</last-search>
       <last-offset />
-      <last-pattern>buurt</last-pattern>
+      <last-pattern>optional</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
-        <entry>\/</entry>
-        <entry>sexueel</entry>
-        <entry>&quot;\/</entry>
-        <entry>style</entry>
-        <entry>De</entry>
-        <entry>label</entry>
         <entry>advies</entry>
         <entry>insert</entry>
         <entry>relatie</entry>
@@ -1935,6 +1924,13 @@ VALUES
         <entry>*</entry>
         <entry>required</entry>
         <entry>buurt</entry>
+        <entry>isVisible</entry>
+        <entry>visible</entry>
+        <entry>\cvisible</entry>
+        <entry>\iscomplete</entry>
+        <entry>complete</entry>
+        <entry>Complete</entry>
+        <entry>optional</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
