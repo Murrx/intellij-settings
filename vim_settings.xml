@@ -390,12 +390,11 @@
         <mark key="." line="77" column="21" />
         <mark key="^" line="77" column="21" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_recidiverisico.xhtml" timestamp="1520871496378">
-        <mark key="'" line="35" column="9" />
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="17" column="15" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_recidiverisico.xhtml" timestamp="1520871530392">
+        <mark key="'" line="27" column="9" />
+        <mark key="]" line="24" column="140" />
+        <mark key="." line="24" column="140" />
+        <mark key="^" line="24" column="140" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/util/taxatie_analyse.xhtml" timestamp="1517923303722">
         <mark key="[" line="2" column="25" />
@@ -489,10 +488,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1027" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragment-template-new.xhtml" timestamp="1520871114546">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragment-template-new.xhtml" timestamp="1520872005510">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/beeindiging_popup.xhtml" timestamp="1519225111850">
         <mark key="[" line="16" column="93" />
@@ -730,8 +730,8 @@
       <register name="a" type="4">
         <text>#{veldWrapper.visible}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpY29uIGNsYXNzPSJ4Ii8+CiAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3MgeS8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="b" type="4">
         <text>col col-vraag-sub2</text>
@@ -743,7 +743,7 @@
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>value=&quot;#{letselschade.value}&quot;</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>booleanCheckBoxFragment</text>
@@ -752,37 +752,37 @@
         <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJsYWJlbENsYXNzIiB2YWx1ZT0iI3tub3QgZW1wdHkgbGFiZWxDbGFzcyA/IGxhYmVsQ2xhc3MgOiAnY29sIGNvbC12cmFhZy1zdWIyJ30iLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpY29uIGNsYXNzPSJ4Ii8+CiAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3MgeS8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpY29uIGNsYXNzPSJ4Ii8+CiAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3MgeS8+Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAgICAgPGljb24gdmFsdWU9IiN7bGV0c2Vsc2NoYWRlLmlkb259Ii8+CiAgICAgICAgICAgIDxsYWJlbCB2YWx1ZT0iI3tsZXRzZWxzY2hhZGUudmFsdWV9Ii8+</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGg6b3V0cHV0VGV4dCByZW5kZXJlZD0iI3tyZXF1aXJlZCBhbmQgcmVxdWlyZWRFbmFibGVkIGFuZCBlZGl0YWJsZX0iIHZhbHVlPSIje21lc3NhZ2VzWyd2YWxpZGF0b3IucmVxdWlyZWRGaWVsZEluZGljYXRvciddfSIvPgo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXRvZG86dWl0em9la2VuIHdhYXJvbSByZXF1aXJlZCBuaWV0IHZlcmR3aWpudCBuYSB3aWp6aWdlbiBiZWVpbmRpZ2luLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGg6b3V0cHV0VGV4dCByZW5kZXJlZD0iI3tyZXF1aXJlZCBhbmQgcmVxdWlyZWRFbmFibGVkIGFuZCBlZGl0YWJsZX0iIHZhbHVlPSIje21lc3NhZ2VzWyd2YWxpZGF0b3IucmVxdWlyZWRGaWVsZEluZGljYXRvciddfSIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGg6b3V0cHV0VGV4dCByZW5kZXJlZD0iI3tyZXF1aXJlZCBhbmQgcmVxdWlyZWRFbmFibGVkIGFuZCBlZGl0YWJsZX0iIHZhbHVlPSIje21lc3NhZ2VzWyd2YWxpZGF0b3IucmVxdWlyZWRGaWVsZEluZGljYXRvciddfSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXRvZG86dWl0em9la2VuIHdhYXJvbSByZXF1aXJlZCBuaWV0IHZlcmR3aWpudCBuYSB3aWp6aWdlbiBiZWVpbmRpZ2luLS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGg6b3V0cHV0VGV4dCByZW5kZXJlZD0iI3tyZXF1aXJlZCBhbmQgcmVxdWlyZWRFbmFibGVkIGFuZCBlZGl0YWJsZX0iIHZhbHVlPSIje21lc3NhZ2VzWyd2YWxpZGF0b3IucmVxdWlyZWRGaWVsZEluZGljYXRvciddfSIvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvaDpwYW5lbEdyb3VwPgo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+Cg==</text>
+        <text encoding="base64">ICAgIDwvaDpwYW5lbEdyb3VwPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
