@@ -133,12 +133,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1520951029753">
-        <mark key="'" line="45" column="99" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="33" />
@@ -163,6 +157,12 @@
         <mark key="]" line="9" column="137" />
         <mark key="^" line="9" column="137" />
         <mark key="." line="9" column="137" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/login.xhtml" timestamp="1520966307337">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="52" />
+        <mark key="^" line="24" column="52" />
+        <mark key="." line="24" column="52" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/filter/VdlLoggerFactory.java" timestamp="1516029708947">
         <mark key="[" line="12" column="0" />
@@ -210,12 +210,12 @@
         <mark key="." line="14" column="58" />
         <mark key="^" line="9" column="92" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorbladNew.xhtml" timestamp="1520959563093">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorbladNew.xhtml" timestamp="1520961670684">
         <mark key="'" line="42" column="110" />
-        <mark key="[" line="52" column="32" />
-        <mark key="]" line="52" column="34" />
-        <mark key="^" line="52" column="34" />
-        <mark key="." line="52" column="34" />
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="80" />
+        <mark key="^" line="10" column="80" />
+        <mark key="." line="10" column="80" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_scil.xhtml" timestamp="1520429246865">
         <mark key="[" line="20" column="128" />
@@ -272,11 +272,10 @@
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/component/activiteit/uitgebreidadvies/uitgebreidadvies.pages.xml" timestamp="1516033578031">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="47" column="20" />
-        <mark key="^" line="87" column="93" />
-        <mark key="." line="87" column="93" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/component/activiteit/uitgebreidadvies/uitgebreidadvies.pages.xml" timestamp="1520962372889">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/imageFragment2.xhtml" timestamp="1519897650119">
         <mark key="[" line="0" column="26" />
@@ -493,10 +492,10 @@
         <mark key="^" line="65" column="35" />
         <mark key="." line="45" column="19" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/UitgebreidAdviesAction.java" timestamp="1520960697043">
-        <mark key="'" line="274" column="18" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="60" column="63" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/UitgebreidAdviesAction.java" timestamp="1520965164472">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="84" column="82" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_relatiepartner.xhtml" timestamp="1520944020596">
         <mark key="[" line="22" column="119" />
@@ -547,7 +546,7 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/SnelInstrumentAction.java" timestamp="1520947977679">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/SnelInstrumentAction.java" timestamp="1520966730259">
         <mark key="'" line="798" column="22" />
         <mark key="[" line="316" column="46" />
         <mark key="]" line="316" column="49" />
@@ -567,9 +566,9 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragment-template-new.xhtml" timestamp="1520933492034">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragment-template-new.xhtml" timestamp="1520961244762">
+        <mark key="[" line="7" column="80" />
+        <mark key="]" line="7" column="162" />
         <mark key="^" line="13" column="89" />
         <mark key="." line="14" column="0" />
       </file>
@@ -622,7 +621,7 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520957164156">
+      <file name="/Dummy.txt" timestamp="1520962199573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -676,11 +675,11 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/VoorbladAction.java" timestamp="1520960881585">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="24" column="37" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/VoorbladAction.java" timestamp="1520966342381">
+        <mark key="[" line="45" column="133" />
+        <mark key="]" line="46" column="47" />
+        <mark key="^" line="46" column="47" />
+        <mark key="." line="46" column="47" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/repeatableFragment.xhtml" timestamp="1519822152430">
         <mark key="[" line="23" column="29" />
@@ -715,7 +714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" />
       <jump line="70" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
       <jump line="94" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
@@ -815,16 +813,14 @@
       <jump line="16" column="53" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragmentNew.xhtml" />
       <jump line="43" column="110" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorbladNew.xhtml" />
       <jump line="10" column="42" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
+      <jump line="83" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/UitgebreidAdviesAction.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>@AutoCreate
-@Scope(ScopeType.CONVERSATION)
-@Name(value = UitgebreidAdviesAction.NAME)
-public class UitgebreidAdviesAction extends SnelInstrumentAction</text>
+        <text>action.getVeldWrapper(blok,veldNaam, fragmentType, volgNr, optionalForCompleteness)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ganisatieNaam</text>
       </register>
       <register name="b" type="4">
         <text>col col-vraag-sub2</text>
@@ -836,13 +832,13 @@ public class UitgebreidAdviesAction extends SnelInstrumentAction</text>
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>extends</text>
+        <text>ganisatieNaam</text>
       </register>
       <register name="/" type="4">
-        <text>action</text>
+        <text>init</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1aTppbmNsdWRlIHNyYz0iYmxva2tlbi92b29yYmxhZC54aHRtbCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aW9uIG9uLXBvc3RiYWNrPSJmYWxzZSIgZXhlY3V0ZT0iI3t1aXRnZWJyZWlkQWR2aWVzQWN0aW9uLmluaXR9Ii8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -851,9 +847,15 @@ public class UitgebreidAdviesAction extends SnelInstrumentAction</text>
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8YWN0aW9uIG9uLXBvc3RiYWNrPSJmYWxzZSIgZXhlY3V0ZT0iI3t2b29yYmxhZEFjdGlvbi5pbml0fSIvPgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>/**
  * ????
  *
@@ -864,41 +866,34 @@ public class VoorbladAction
 {
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">V0hFUkUgTkFBTSA9ICdhbmFseXNlX3JlY2lkaXZlcmlzaWNvJwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">U0VUIE9NU0NIUklKVklORyA9ICdJbnNjaGF0dGluZyByaXNpY28nJ3MnCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">VVBEQVRFIEJMT0tfREVGSU5JVElFUwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VUIE9NU0NIUklKVklORyA9ICdJbnNjaGF0dGluZyByaXNpY28nJ3MnCg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBCTE9LX0RFRklOSVRJRVMgd2hlcmUgTkFBTSA9ICdhbmFseXNlX3JlY2lkaXZlcmlzaWNvJzsK</text>
+        <text encoding="base64">VVBEQVRFIEJMT0tfREVGSU5JVElFUwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+cm9iaW4gd2FzIGhlcmU8L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>action</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern>action</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isVisible</entry>
         <entry>visible</entry>
         <entry>\cvisible</entry>
         <entry>\iscomplete</entry>
@@ -918,6 +913,7 @@ public class VoorbladAction
         <entry>required</entry>
         <entry>id</entry>
         <entry>action</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
@@ -929,11 +925,11 @@ public class VoorbladAction
         <entry>f</entry>
         <entry>ww</entry>
         <entry>wf</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">Z3JhcGhpY0ltYWdlIHVybD0iL2ltYWdlcy9pY29uX2luZm9fMC5naWYiIHN0eWxlQ2xhc3M9ImluZm8taWNvbiAje2ljb25DbGFzc30iPg==</entry>
         <entry>ajax event=&quot;click&quot; listener=&quot;#{modalPanelStateHolder.show('itmp', veldWrapper, 'infoTekstOmschrijving', 'modalpanels_output', null, false, veldWrapper.label, null)}&quot;</entry>
         <entry>qw</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
