@@ -76,7 +76,8 @@
         <mark key="^" line="14" column="94" />
         <mark key="." line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1520958062087">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1520960355797">
+        <mark key="'" line="10" column="42" />
         <mark key="k" line="67" column="38" />
         <mark key="[" line="106" column="61" />
         <mark key="]" line="106" column="69" />
@@ -209,6 +210,13 @@
         <mark key="." line="14" column="58" />
         <mark key="^" line="9" column="92" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorbladNew.xhtml" timestamp="1520959563093">
+        <mark key="'" line="42" column="110" />
+        <mark key="[" line="52" column="32" />
+        <mark key="]" line="52" column="34" />
+        <mark key="^" line="52" column="34" />
+        <mark key="." line="52" column="34" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_scil.xhtml" timestamp="1520429246865">
         <mark key="[" line="20" column="128" />
         <mark key="]" line="20" column="156" />
@@ -312,9 +320,9 @@
         <mark key="." line="31" column="144" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorblad.xhtml" timestamp="1520958586191">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="17" column="16" />
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" timestamp="1520504488332">
         <mark key="'" line="23" column="33" />
@@ -485,8 +493,10 @@
         <mark key="^" line="65" column="35" />
         <mark key="." line="45" column="19" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/UitgebreidAdviesAction.java" timestamp="1520935197768">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/UitgebreidAdviesAction.java" timestamp="1520960697043">
         <mark key="'" line="274" column="18" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="60" column="63" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_relatiepartner.xhtml" timestamp="1520944020596">
         <mark key="[" line="22" column="119" />
@@ -575,11 +585,11 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/infoIcon.xhtml" timestamp="1520933345106">
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="5" column="62" />
-        <mark key="." line="5" column="62" />
-        <mark key="^" line="5" column="73" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/infoIcon.xhtml" timestamp="1520959217270">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="41" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/fragmentTemplate.xhtml" timestamp="1520937891835">
         <mark key="'" line="168" column="126" />
@@ -666,6 +676,12 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/VoorbladAction.java" timestamp="1520960881585">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="24" column="37" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/repeatableFragment.xhtml" timestamp="1519822152430">
         <mark key="[" line="23" column="29" />
         <mark key="]" line="24" column="33" />
@@ -687,11 +703,10 @@
         <mark key="." line="81" column="57" />
         <mark key="^" line="76" column="70" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" timestamp="1520525169729">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="35" />
-        <mark key="^" line="4" column="35" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" timestamp="1520958989986">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="71" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="$USER_HOME$/git/gdisqlgen/test.yaml" timestamp="1520850907915">
         <mark key="[" line="0" column="0" />
@@ -700,8 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.120.sql" />
-      <jump line="1028" column="26" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.120.sql" />
       <jump line="27" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" />
       <jump line="70" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragmentTemplate.xhtml" />
@@ -800,13 +813,18 @@
       <jump line="18" column="102" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragmentNew.xhtml" />
       <jump line="12" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragmentNew.xhtml" />
       <jump line="16" column="53" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragmentNew.xhtml" />
+      <jump line="43" column="110" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorbladNew.xhtml" />
+      <jump line="10" column="42" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">ICAgIDx1aTpkZWZpbmUgbmFtZT0idmFsdWUiPgogICAgICAgIDxkaXYgY2xhc3M9IiN7dmFsdWVDbGFzc30iPgogICAgICAgICAgICA8aDpzZWxlY3RPbmVNZW51IHZhbHVlPSIje3ZlbGRXcmFwcGVyLndhYXJkZX0iPgogICAgICAgICAgICAgICAgPHM6c2VsZWN0SXRlbXMgdmFsdWU9IiN7dmVsZFdyYXBwZXIucG9zc2libGVWYWx1ZXN9IiBub1NlbGVjdGlvbkxhYmVsPSIje21lc3NhZ2VzWydjb21iby5tYWFrX2Vlbl9rZXV6ZSddfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcj0idmFsdWUiIGxhYmVsPSIje3ZhbHVlLndhYXJkZX0iIGl0ZW1WYWx1ZT0iI3t2YWx1ZS53YWFyZGVEZWZDb2RlfSIvPgogICAgICAgICAgICA8L2g6c2VsZWN0T25lTWVudT4KICAgICAgICA8L2Rpdj4KICAgIDwvdWk6ZGVmaW5lPgoKICAgIDx1aTpkZWZpbmUgbmFtZT0icmVhZG9ubHlWYWx1ZSI+CiAgICAgICAgPGM6c2V0IHZhcj0iZGlzcGxheSIgdmFsdWU9IiN7ZW1wdHkgdmVsZFdyYXBwZXIud2FhcmRlTmFhckNsb2IoKSA/ICctJyA6IHZlbGRXcmFwcGVyLndhYXJkZU5hYXJDbG9iKCl9Ii8+CiAgICAgICAgPGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3tkaXNwbGF5fSIgc3R5bGVDbGFzcz0iI3t2YWx1ZUNsYXNzfSIvPgogICAgPC91aTpkZWZpbmU+CjwvdWk6Y29tcG9zaXRpb24+</text>
+        <text>@AutoCreate
+@Scope(ScopeType.CONVERSATION)
+@Name(value = UitgebreidAdviesAction.NAME)
+public class UitgebreidAdviesAction extends SnelInstrumentAction</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>col col-vraag-sub2</text>
@@ -818,16 +836,16 @@
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>extends</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text>action</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1aTppbmNsdWRlIHNyYz0iYmxva2tlbi92b29yYmxhZC54aHRtbCIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+cm9iaW4gd2FzIGhlcmU8L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
@@ -835,44 +853,51 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>/**
+ * ????
+ *
+ * @author robin (c) 13 Mar. 2018, Sogeti B.V.
+ * @version $Id:$
+ */
+public class VoorbladAction
+{
+}</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICA8IS0tPHVpOmRlZmluZSBuYW1lPSJ2YWx1ZSI+LS0+CiAgICAgICAgPCEtLTxkaXYgY2xhc3M9IiN7dmFsdWVDbGFzc30iPi0tPgogICAgICAgIDwhLS08aDpzZWxlY3RPbmVNZW51IHZhbHVlPSIje3ZlbGRXcmFwcGVyLndhYXJkZX0iPi0tPgogICAgICAgIDwhLS08czpzZWxlY3RJdGVtcyB2YWx1ZT0iI3t2ZWxkV3JhcHBlci5wb3NzaWJsZVZhbHVlc30iIG5vU2VsZWN0aW9uTGFiZWw9IiN7bWVzc2FnZXNbJ2NvbWJvLm1hYWtfZWVuX2tldXplJ119Ii0tPgogICAgICAgIDwhLS12YXI9InZhbHVlIiBsYWJlbD0iI3t2YWx1ZS53YWFyZGV9IiBpdGVtVmFsdWU9IiN7dmFsdWUud2FhcmRlRGVmQ29kZX0iLz4tLT4KICAgICAgICA8IS0tPC9oOnNlbGVjdE9uZU1lbnU+LS0+CiAgICAgICAgPCEtLTwvZGl2Pi0tPgogICAgICAgIDwhLS08L3VpOmRlZmluZT4tLT4KCiAgICAgICAgPCEtLTx1aTpkZWZpbmUgbmFtZT0icmVhZG9ubHlWYWx1ZSI+LS0+CiAgICAgICAgPCEtLTxjOnNldCB2YXI9ImRpc3BsYXkiIHZhbHVlPSIje2VtcHR5IHZlbGRXcmFwcGVyLndhYXJkZU5hYXJDbG9iKCkgPyAnLScgOiB2ZWxkV3JhcHBlci53YWFyZGVOYWFyQ2xvYigpfSIvPi0tPgogICAgICAgIDwhLS08aDpvdXRwdXRUZXh0IHZhbHVlPSIje2Rpc3BsYXl9IiBzdHlsZUNsYXNzPSIje3ZhbHVlQ2xhc3N9Ii8+LS0+CiAgICAgICAgPCEtLTwvdWk6ZGVmaW5lPi0tPgogICAgICAgIDwhLS08L3VpOmNvbXBvc2l0aW9uPi0tPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">V0hFUkUgTkFBTSA9ICdhbmFseXNlX3JlY2lkaXZlcmlzaWNvJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8dWk6cGFyYW0gbmFtZT0iZXNjYXBlIiB2YWx1ZT0iI3tlbXB0eSBlc2NhcGUgPyB0cnVlIDogZXNjYXBlfSIvPgo=</text>
+        <text encoding="base64">U0VUIE9NU0NIUklKVklORyA9ICdJbnNjaGF0dGluZyByaXNpY28nJ3MnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VVBEQVRFIEJMT0tfREVGSU5JVElFUwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDxjOmlmIHRlc3Q9IiN7bm90IGVtcHR5IGNvbnZlcnRlcn0iPgogICAgICAgICAgICAgICAgPGY6Y29udmVydGVyIGNvbnZlcnRlcklkPSIje2NvbnZlcnRlcn0iLz4KICAgICAgICAgICAgPC9jOmlmPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDxjOmlmIHRlc3Q9IiN7bm90IGVtcHR5IHZhbGlkYXRvcn0iPgogICAgICAgICAgICAgICAgPGY6dmFsaWRhdG9yIHZhbGlkYXRvcklkPSIje3ZhbGlkYXRvcn0iLz4KICAgICAgICAgICAgPC9jOmlmPg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBCTE9LX0RFRklOSVRJRVMgd2hlcmUgTkFBTSA9ICdhbmFseXNlX3JlY2lkaXZlcmlzaWNvJzsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPGM6aWYgdGVzdD0iI3tlbmFibGVBamF4fSI+CiAgICAgICAgICAgICAgICA8YTRqOmFqYXggZXZlbnQ9ImJsdXIiIGV4ZWN1dGU9IkB0aGlzIiByZW5kZXI9IiN7cmVuZGVyfSwgb3V0cHV0Ii8+CiAgICAgICAgICAgIDwvYzppZj4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHA+cm9iaW4gd2FzIGhlcmU8L3A+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>id</last-search>
+      <last-search>action</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
+      <last-pattern>action</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>buurt</entry>
         <entry>isVisible</entry>
         <entry>visible</entry>
         <entry>\cvisible</entry>
@@ -892,6 +917,7 @@
         <entry>width</entry>
         <entry>required</entry>
         <entry>id</entry>
+        <entry>action</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
