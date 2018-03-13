@@ -504,11 +504,11 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="73" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/fragmentTemplate.xhtml" timestamp="1520869950354">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/fragmentTemplate.xhtml" timestamp="1520937891835">
         <mark key="'" line="168" column="126" />
-        <mark key="[" line="59" column="35" />
-        <mark key="]" line="59" column="56" />
-        <mark key="." line="46" column="98" />
+        <mark key="[" line="46" column="99" />
+        <mark key="]" line="46" column="99" />
+        <mark key="." line="46" column="99" />
         <mark key="^" line="46" column="98" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/onderliggende/checkboxWithCustomFragment.xhtml" timestamp="1519304701091">
@@ -729,7 +729,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxoOmdyYXBoaWNJbWFnZSB1cmw9Ii9pbWFnZXMvaWNvbl9pbmZvXzAuZ2lmIiBzdHlsZUNsYXNzPSJpbmZvLWljb24gI3tpY29uQ2xhc3N9Ij4KICAgICAgICAgICAgICAgICAgICA8YTRqOmFqYXggZXZlbnQ9ImNsaWNrIiBsaXN0ZW5lcj0iI3ttb2RhbFBhbmVsU3RhdGVIb2xkZXIuc2hvdygnaXRtcCcsIHZlbGRXcmFwcGVyLCAnaW5mb1Rla3N0T21zY2hyaWp2aW5nJywgJ21vZGFscGFuZWxzX291dHB1dCcsIG51bGwsIGZhbHNlLCB2ZWxkV3JhcHBlci5sYWJlbCwgbnVsbCl9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW5kZXI9Im1vZGFscGFuZWxzX291dHB1dCwgaXRtcCIgbGltaXRSZW5kZXI9InRydWUiIGV4ZWN1dGU9IkB0aGlzIi8+CiAgICAgICAgICAgICAgICA8L2g6Z3JhcGhpY0ltYWdlPg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>center</text>
+        <text>s</text>
       </register>
       <register name="b" type="4">
         <text>col col-vraag-sub2</text>
@@ -741,7 +741,7 @@
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>booleanCheckBoxFragment</text>
