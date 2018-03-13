@@ -76,12 +76,12 @@
         <mark key="^" line="14" column="94" />
         <mark key="." line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1520951447420">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1520958062087">
         <mark key="k" line="67" column="38" />
-        <mark key="[" line="15" column="65" />
-        <mark key="]" line="15" column="68" />
-        <mark key="." line="15" column="68" />
-        <mark key="^" line="15" column="68" />
+        <mark key="[" line="106" column="61" />
+        <mark key="]" line="106" column="69" />
+        <mark key="." line="106" column="69" />
+        <mark key="^" line="106" column="69" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1520861455490">
         <mark key="[" line="16" column="59" />
@@ -202,6 +202,13 @@
         <mark key="." line="41" column="134" />
         <mark key="^" line="41" column="134" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/selectOneMenuFragmentNew.xhtml" timestamp="1520956220718">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="14" column="58" />
+        <mark key="^" line="9" column="92" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_scil.xhtml" timestamp="1520429246865">
         <mark key="[" line="20" column="128" />
         <mark key="]" line="20" column="156" />
@@ -214,10 +221,10 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/blokNoLayout.xhtml" timestamp="1519898398755">
-        <mark key="[" line="54" column="49" />
-        <mark key="]" line="54" column="48" />
-        <mark key="." line="54" column="48" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/blokNoLayout.xhtml" timestamp="1520958166632">
+        <mark key="[" line="51" column="27" />
+        <mark key="]" line="51" column="27" />
+        <mark key="." line="51" column="27" />
         <mark key="^" line="54" column="48" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_dagbesteding.xhtml" timestamp="1520951067840">
@@ -292,12 +299,11 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragmentNew.xhtml" timestamp="1520955999899">
-        <mark key="'" line="11" column="47" />
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="9" column="57" />
-        <mark key="." line="9" column="57" />
-        <mark key="^" line="9" column="57" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragmentNew.xhtml" timestamp="1520957888154">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_psychosociaal.xhtml" timestamp="1520944144184">
         <mark key="[" line="31" column="129" />
@@ -305,11 +311,10 @@
         <mark key="^" line="16" column="146" />
         <mark key="." line="31" column="144" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorblad.xhtml" timestamp="1520430604984">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="29" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorblad.xhtml" timestamp="1520958586191">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/repeatableFragmentNew.xhtml" timestamp="1520504488332">
         <mark key="'" line="23" column="33" />
@@ -607,7 +612,7 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520952605426">
+      <file name="/Dummy.txt" timestamp="1520957164156">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -695,10 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="518" column="19" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.119.sql" />
-      <jump line="1027" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.120.sql" />
-      <jump line="13" column="34" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.120.sql" />
-      <jump line="16" column="7" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.120.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.120.sql" />
       <jump line="1028" column="26" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.120.sql" />
       <jump line="27" column="36" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" />
@@ -795,18 +796,17 @@
       <jump line="9" column="63" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragmentNew.xhtml" />
       <jump line="10" column="47" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragmentNew.xhtml" />
       <jump line="6242" column="21" filename="$APPLICATION_HOME_DIR$/plugins/JSF/lib/jsf-support.jar!/resources/schemas/html_basic.taglib.xml" />
+      <jump line="19" column="111" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragmentNew.xhtml" />
+      <jump line="18" column="102" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragmentNew.xhtml" />
+      <jump line="12" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragmentNew.xhtml" />
+      <jump line="16" column="53" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragmentNew.xhtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>xmlns=&quot;http://www.w3.org/1999/xhtml&quot;
-      xmlns:ui=&quot;http://java.sun.com/jsf/facelets&quot;
-      xmlns:f=&quot;http://java.sun.com/jsf/core&quot;
-      xmlns:h=&quot;http://java.sun.com/jsf/html&quot;
-      xmlns:a4j=&quot;http://richfaces.org/a4j&quot;
-      xmlns:c=&quot;http://java.sun.com/jsp/jstl/core&quot;</text>
+        <text encoding="base64">ICAgIDx1aTpkZWZpbmUgbmFtZT0idmFsdWUiPgogICAgICAgIDxkaXYgY2xhc3M9IiN7dmFsdWVDbGFzc30iPgogICAgICAgICAgICA8aDpzZWxlY3RPbmVNZW51IHZhbHVlPSIje3ZlbGRXcmFwcGVyLndhYXJkZX0iPgogICAgICAgICAgICAgICAgPHM6c2VsZWN0SXRlbXMgdmFsdWU9IiN7dmVsZFdyYXBwZXIucG9zc2libGVWYWx1ZXN9IiBub1NlbGVjdGlvbkxhYmVsPSIje21lc3NhZ2VzWydjb21iby5tYWFrX2Vlbl9rZXV6ZSddfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcj0idmFsdWUiIGxhYmVsPSIje3ZhbHVlLndhYXJkZX0iIGl0ZW1WYWx1ZT0iI3t2YWx1ZS53YWFyZGVEZWZDb2RlfSIvPgogICAgICAgICAgICA8L2g6c2VsZWN0T25lTWVudT4KICAgICAgICA8L2Rpdj4KICAgIDwvdWk6ZGVmaW5lPgoKICAgIDx1aTpkZWZpbmUgbmFtZT0icmVhZG9ubHlWYWx1ZSI+CiAgICAgICAgPGM6c2V0IHZhcj0iZGlzcGxheSIgdmFsdWU9IiN7ZW1wdHkgdmVsZFdyYXBwZXIud2FhcmRlTmFhckNsb2IoKSA/ICctJyA6IHZlbGRXcmFwcGVyLndhYXJkZU5hYXJDbG9iKCl9Ii8+CiAgICAgICAgPGg6b3V0cHV0VGV4dCB2YWx1ZT0iI3tkaXNwbGF5fSIgc3R5bGVDbGFzcz0iI3t2YWx1ZUNsYXNzfSIvPgogICAgPC91aTpkZWZpbmU+CjwvdWk6Y29tcG9zaXRpb24+</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aDpvdXRwdXRUZXh0IGVzY2FwZT0iIgo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="b" type="4">
         <text>col col-vraag-sub2</text>
@@ -818,68 +818,60 @@
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>escape</text>
+        <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJsYWJlbENsYXNzIiB2YWx1ZT0iI3tub3QgZW1wdHkgbGFiZWxDbGFzcyA/IGxhYmVsQ2xhc3MgOiAnY29sIGNvbC12cmFhZy1zdWIyJ30iLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1aTppbmNsdWRlIHNyYz0iYmxva2tlbi92b29yYmxhZC54aHRtbCIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aDpvdXRwdXRUZXh0IGVzY2FwZT0iIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHA+cm9iaW4gd2FzIGhlcmU8L3A+Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2h0bWw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>xmlns=&quot;http://www.w3.org/1999/xhtml&quot;
-      xmlns:ui=&quot;http://java.sun.com/jsf/facelets&quot;
-      xmlns:f=&quot;http://java.sun.com/jsf/core&quot;
-      xmlns:h=&quot;http://java.sun.com/jsf/html&quot;
-      xmlns:a4j=&quot;http://richfaces.org/a4j&quot;
-      xmlns:c=&quot;http://java.sun.com/jsp/jstl/core&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiaHR0cDovL3d3dy53My5vcmcvVFIveGh0bWwxL0RURC94aHRtbDEtdHJhbnNpdGlvbmFsLmR0ZCI+Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICA8IS0tPHVpOmRlZmluZSBuYW1lPSJ2YWx1ZSI+LS0+CiAgICAgICAgPCEtLTxkaXYgY2xhc3M9IiN7dmFsdWVDbGFzc30iPi0tPgogICAgICAgIDwhLS08aDpzZWxlY3RPbmVNZW51IHZhbHVlPSIje3ZlbGRXcmFwcGVyLndhYXJkZX0iPi0tPgogICAgICAgIDwhLS08czpzZWxlY3RJdGVtcyB2YWx1ZT0iI3t2ZWxkV3JhcHBlci5wb3NzaWJsZVZhbHVlc30iIG5vU2VsZWN0aW9uTGFiZWw9IiN7bWVzc2FnZXNbJ2NvbWJvLm1hYWtfZWVuX2tldXplJ119Ii0tPgogICAgICAgIDwhLS12YXI9InZhbHVlIiBsYWJlbD0iI3t2YWx1ZS53YWFyZGV9IiBpdGVtVmFsdWU9IiN7dmFsdWUud2FhcmRlRGVmQ29kZX0iLz4tLT4KICAgICAgICA8IS0tPC9oOnNlbGVjdE9uZU1lbnU+LS0+CiAgICAgICAgPCEtLTwvZGl2Pi0tPgogICAgICAgIDwhLS08L3VpOmRlZmluZT4tLT4KCiAgICAgICAgPCEtLTx1aTpkZWZpbmUgbmFtZT0icmVhZG9ubHlWYWx1ZSI+LS0+CiAgICAgICAgPCEtLTxjOnNldCB2YXI9ImRpc3BsYXkiIHZhbHVlPSIje2VtcHR5IHZlbGRXcmFwcGVyLndhYXJkZU5hYXJDbG9iKCkgPyAnLScgOiB2ZWxkV3JhcHBlci53YWFyZGVOYWFyQ2xvYigpfSIvPi0tPgogICAgICAgIDwhLS08aDpvdXRwdXRUZXh0IHZhbHVlPSIje2Rpc3BsYXl9IiBzdHlsZUNsYXNzPSIje3ZhbHVlQ2xhc3N9Ii8+LS0+CiAgICAgICAgPCEtLTwvdWk6ZGVmaW5lPi0tPgogICAgICAgIDwhLS08L3VpOmNvbXBvc2l0aW9uPi0tPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGNvbXBvc2l0aW9uIFBVQkxJQyAiLS8vVzNDLy9EVEQgWEhUTUwgMS4wIFRyYW5zaXRpb25hbC8vRU4iCg==</text>
+        <text encoding="base64">ICAgICAgICA8dWk6cGFyYW0gbmFtZT0iZXNjYXBlIiB2YWx1ZT0iI3tlbXB0eSBlc2NhcGUgPyB0cnVlIDogZXNjYXBlfSIvPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+b3B0aW9uYWxGb3JDb21wbGV0ZW5lc3M8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmphdmEubGFuZy5Cb29sZWFuPC90eXBlPgogICAgICAgIDwvYXR0cmlidXRlPg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIDxjOmlmIHRlc3Q9IiN7bm90IGVtcHR5IGNvbnZlcnRlcn0iPgogICAgICAgICAgICAgICAgPGY6Y29udmVydGVyIGNvbnZlcnRlcklkPSIje2NvbnZlcnRlcn0iLz4KICAgICAgICAgICAgPC9jOmlmPg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+d2lkdGg8L25hbWU+CiAgICAgICAgICAgIDx0eXBlPmludDwvdHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIDxjOmlmIHRlc3Q9IiN7bm90IGVtcHR5IHZhbGlkYXRvcn0iPgogICAgICAgICAgICAgICAgPGY6dmFsaWRhdG9yIHZhbGlkYXRvcklkPSIje3ZhbGlkYXRvcn0iLz4KICAgICAgICAgICAgPC9jOmlmPg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgPGF0dHJpYnV0ZT4KICAgICAgICAgICAgPG5hbWU+ZW5hYmxlQWpheDwvbmFtZT4KICAgICAgICAgICAgPHR5cGU+Ym9vbGVhbjwvdHlwZT4KICAgICAgICA8L2F0dHJpYnV0ZT4=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGM6aWYgdGVzdD0iI3tlbmFibGVBamF4fSI+CiAgICAgICAgICAgICAgICA8YTRqOmFqYXggZXZlbnQ9ImJsdXIiIGV4ZWN1dGU9IkB0aGlzIiByZW5kZXI9IiN7cmVuZGVyfSwgb3V0cHV0Ii8+CiAgICAgICAgICAgIDwvYzppZj4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>escape</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>escape</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>recidive</entry>
-        <entry>*</entry>
-        <entry>required</entry>
         <entry>buurt</entry>
         <entry>isVisible</entry>
         <entry>visible</entry>
@@ -897,6 +889,9 @@
         <entry>textBox</entry>
         <entry>New</entry>
         <entry>escape</entry>
+        <entry>width</entry>
+        <entry>required</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
