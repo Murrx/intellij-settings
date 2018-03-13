@@ -95,6 +95,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_financien.xhtml" timestamp="1520943980122">
+        <mark key="[" line="23" column="187" />
+        <mark key="]" line="17" column="146" />
+        <mark key="." line="23" column="202" />
+        <mark key="^" line="17" column="146" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" timestamp="1520524786126">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="1217" column="18" />
@@ -120,6 +126,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_delictverleden.xhtml" timestamp="1520943806506">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="33" />
@@ -131,6 +142,12 @@
         <mark key="]" line="57" column="7" />
         <mark key="^" line="57" column="7" />
         <mark key="." line="57" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_sociaalnetwerk.xhtml" timestamp="1520944053485">
+        <mark key="[" line="21" column="116" />
+        <mark key="]" line="15" column="123" />
+        <mark key="^" line="15" column="123" />
+        <mark key="." line="21" column="131" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/filter/VdlLoggerFactory.java" timestamp="1516029708947">
         <mark key="[" line="12" column="0" />
@@ -196,6 +213,12 @@
         <mark key="." line="54" column="48" />
         <mark key="^" line="54" column="48" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_dagbesteding.xhtml" timestamp="1520943937709">
+        <mark key="[" line="28" column="130" />
+        <mark key="]" line="16" column="141" />
+        <mark key="." line="28" column="145" />
+        <mark key="^" line="16" column="141" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/container/modalPanel.xhtml" timestamp="1516893171589">
         <mark key="[" line="59" column="84" />
         <mark key="]" line="59" column="122" />
@@ -259,6 +282,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_psychosociaal.xhtml" timestamp="1520944144184">
+        <mark key="[" line="31" column="129" />
+        <mark key="]" line="16" column="146" />
+        <mark key="^" line="16" column="146" />
+        <mark key="." line="31" column="144" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorblad.xhtml" timestamp="1520430604984">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="29" />
@@ -278,6 +307,12 @@
         <mark key="]" line="101" column="34" />
         <mark key="." line="101" column="16" />
         <mark key="^" line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_houding.xhtml" timestamp="1520944173328">
+        <mark key="[" line="27" column="108" />
+        <mark key="]" line="15" column="125" />
+        <mark key="^" line="15" column="125" />
+        <mark key="." line="27" column="123" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/doelenregistratie/GroepeerType.java" timestamp="1509369855361">
         <mark key="[" line="58" column="34" />
@@ -378,18 +413,24 @@
         <mark key="." line="77" column="21" />
         <mark key="^" line="77" column="21" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_recidiverisico.xhtml" timestamp="1520930638503">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_recidiverisico.xhtml" timestamp="1520944275001">
         <mark key="'" line="26" column="9" />
-        <mark key="[" line="8" column="84" />
-        <mark key="]" line="8" column="84" />
-        <mark key="." line="8" column="84" />
-        <mark key="^" line="23" column="140" />
+        <mark key="[" line="21" column="107" />
+        <mark key="]" line="9" column="95" />
+        <mark key="." line="21" column="122" />
+        <mark key="^" line="9" column="95" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/util/taxatie_analyse.xhtml" timestamp="1517923303722">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="24" />
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_middelengebruik_en_verslaving.xhtml" timestamp="1520944114849">
+        <mark key="[" line="54" column="119" />
+        <mark key="]" line="16" column="158" />
+        <mark key="^" line="16" column="158" />
+        <mark key="." line="54" column="134" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/checkBoxFragment.xhtml" timestamp="1519301758420">
         <mark key="[" line="30" column="65" />
@@ -403,6 +444,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_huisvesting.xhtml" timestamp="1520943898075">
+        <mark key="[" line="22" column="118" />
+        <mark key="]" line="16" column="144" />
+        <mark key="^" line="16" column="144" />
+        <mark key="." line="22" column="133" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.116.sql" timestamp="1520260902211">
         <mark key="'" line="0" column="49" />
         <mark key="[" line="45" column="19" />
@@ -412,6 +459,12 @@
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/UitgebreidAdviesAction.java" timestamp="1520935197768">
         <mark key="'" line="274" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_relatiepartner.xhtml" timestamp="1520944020596">
+        <mark key="[" line="22" column="119" />
+        <mark key="]" line="16" column="138" />
+        <mark key="." line="22" column="134" />
+        <mark key="^" line="16" column="138" />
       </file>
       <file name="$USER_HOME$/git/jsf-playground/src/mypackage/MyConverter.java" timestamp="1516983737210">
         <mark key="[" line="6" column="0" />
@@ -530,11 +583,6 @@
         <mark key="^" line="13" column="83" />
         <mark key="." line="13" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520867349433">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelinstrument/si-textArea.xhtml" timestamp="1516010170219">
         <mark key="[" line="48" column="79" />
         <mark key="]" line="48" column="103" />
@@ -610,11 +658,6 @@
         <mark key="]" line="4" column="36" />
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/gdisqlgen/test.yaml" timestamp="1520850907915">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="74" column="22" />
-        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -721,10 +764,17 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoOmdyYXBoaWNJbWFnZSB1cmw9Ii9pbWFnZXMvaWNvbl9pbmZvXzAuZ2lmIiBzdHlsZUNsYXNzPSJpbmZvLWljb24gI3tpY29uQ2xhc3N9Ij4KICAgICAgICAgICAgICAgICAgICA8YTRqOmFqYXggZXZlbnQ9ImNsaWNrIiBsaXN0ZW5lcj0iI3ttb2RhbFBhbmVsU3RhdGVIb2xkZXIuc2hvdygnaXRtcCcsIHZlbGRXcmFwcGVyLCAnaW5mb1Rla3N0T21zY2hyaWp2aW5nJywgJ21vZGFscGFuZWxzX291dHB1dCcsIG51bGwsIGZhbHNlLCB2ZWxkV3JhcHBlci5sYWJlbCwgbnVsbCl9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW5kZXI9Im1vZGFscGFuZWxzX291dHB1dCwgaXRtcCIgbGltaXRSZW5kZXI9InRydWUiIGV4ZWN1dGU9IkB0aGlzIi8+CiAgICAgICAgICAgICAgICA8L2g6Z3JhcGhpY0ltYWdlPg==</text>
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXRvZG86cm96ZSBhY2h0ZXJncm9uZCBtYWtlbi0tPgo=</text>
       </register>
       <register name="b" type="4">
         <text>col col-vraag-sub2</text>
@@ -736,7 +786,7 @@
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>booleanCheckBoxFragment</text>
@@ -745,28 +795,28 @@
         <text encoding="base64">ICAgIDx1aTpwYXJhbSBuYW1lPSJsYWJlbENsYXNzIiB2YWx1ZT0iI3tub3QgZW1wdHkgbGFiZWxDbGFzcyA/IGxhYmVsQ2xhc3MgOiAnY29sIGNvbC12cmFhZy1zdWIyJ30iLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXRvZG86cm96ZSBhY2h0ZXJncm9uZCBtYWtlbi0tPgo=</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczphNGo9Imh0dHA6Ly9yaWNoZmFjZXMub3JnL2E0aiIK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0dGVzdHRlc3R0ZXN0dGVzdHRlc3R0ZXN0dGVzdHRlc3R0ZXN0dGVzdHRlc3R0ZXN0dGVzdHRlc3R0ZXN0dGVzdHRlc3R0ZXN0dGVzdHRlc3R0ZXN0dGVzdHRlc3QK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoOmdyYXBoaWNJbWFnZSB1cmw9Ii9pbWFnZXMvaWNvbl9pbmZvXzAuZ2lmIiBzdHlsZUNsYXNzPSJpbmZvLWljb24gI3tpY29uQ2xhc3N9Ij4KICAgICAgICAgICAgICAgICAgICA8YTRqOmFqYXggZXZlbnQ9ImNsaWNrIiBsaXN0ZW5lcj0iI3ttb2RhbFBhbmVsU3RhdGVIb2xkZXIuc2hvdygnaXRtcCcsIHZlbGRXcmFwcGVyLCAnaW5mb1Rla3N0T21zY2hyaWp2aW5nJywgJ21vZGFscGFuZWxzX291dHB1dCcsIG51bGwsIGZhbHNlLCB2ZWxkV3JhcHBlci5sYWJlbCwgbnVsbCl9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW5kZXI9Im1vZGFscGFuZWxzX291dHB1dCwgaXRtcCIgbGltaXRSZW5kZXI9InRydWUiIGV4ZWN1dGU9IkB0aGlzIi8+</text>
+        <text encoding="base64">ICAgICAgIGhpdGVzdCB0IGUgcyB0ICAgICAgICAgICAgICAgPCBoIDogZyByIGEgcCBoIGkgYzxJaG06YWdncmVhIHB1aHJpbGM9IkkibS8+YWlnbWVhIGd1ZXJzbC89aSJjL29pbm1fYWlnbmVmc28vX2kwYy5vZ25pX2ZpIm4gZnNvdF95MGwuZWdDaWxmYSJzIHNzPXQieWlsbmVmQ29sLWFpc2Nzbz1uIiBpI257ZmlvYy1vaW5jQ29sbmEgcyNze31pImM+b2duckNhbHBhaHNpc2N9SSJtPmFnZ3JlYSBwdWhyaWxjPUkibS9haWdtZWEgZ3VlcnNsLz1pImMvb2lubV9haWduZWZzby9faTBjLm9nbmlfZmkibiBmc290X3kwbC5lZ0NpbGZhInMgc3M9dCJ5aWxuZWZDb2wtYWlzY3NvPW4iIGkjbntmaW9jLW9pbmNDb2xuYSBzI3N7fWkiYz5vCm4gQyBsIGEgcyBzIH0gIiA+IAogICAgICAgICAgICAgICAgICAgICAgPCBhIGogOiBhIGogYSB4ICAgZTx2YWVqbjp0YT1qImFjeGwgaWVjdmtlIm4gdGw9aSJzY3RsZWluY2VrciI9ICJsI2l7c210b2VkbmFlbHJQPWEibiNle2xtU290ZGFhdGxlUEhhb25sZWRsZVNydC5hc3RoZW9Id28obCdkaWV0cm0ucHMnaCxvIHd2KGUnbGlkdFdtcnBhJ3AscCBldnJlLGwgZCdXaXJuYWZwb3BUZWVyayxzIHQnT2ltbnNmY29oVHJlaWtqc3Z0aU9ubWdzJ2MsaCByJ2ltam92ZGlhbmxncCdhLG4gZSdsbXNvX2RvYXVsdHBwYXVudGUnbCxzIF9ub3V1bHRscCx1IHRmJ2EsbCBzbmV1LGwgbHYsZSBsZmRhV2xyc2FlcCxwIGV2cmUubGxkYVdicmVhbHAscCBlbnJ1LmxsbGEpYn1lImxhLGogYW54dSBsZWx2KWV9biJ0YT1qImFjeGwgaWVjdmtlIm4gdGw9aSJzY3RsZWluY2VrciI9ICJsI2l7c210b2VkbmFlbHJQPWEibiNle2xtU290ZGFhdGxlUEhhb25sZWRsZVNydC5hc3RoZW9Id28obCdkaWV0cm0ucHMnaCxvIHd2KGUnbGlkdFdtcnBhJ3AscCBldnJlLGwgZCdXaXJuYWZwb3BUZWVyayxzIHQnT2ltbnNmY29oVHJlaWtqc3Z0aU9ubWdzJ2MsaCByJ2ltam92ZGlhbmxncCdhLG4gZSdsbXNvX2RvYXVsdHBwYXVudGUnbCxzIF9ub3V1bHRscAogIG5ldSxsIGx2LGUgbGZkYVdscnNhZXAscCBldnJlLmxsZGFXYnJlYWxwLHAgZW5ydS5sbGxhKWJ9ZSJsCiwgICBuIHUgbCBsICkgfSAiIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByIGUgbiBkIGUgciA9ICIgbSBvcmRlYW5sZHBlYXJuPWUibG1zb19kb2F1bHRwcGF1bnRlLGwgc2lfdG9tdXB0InAgdWx0aSxtIGlpdHRSbWVwbiJkIGVscmk9bSJpdHRyUnVlZW4iZCBlZSAgICAg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvaDpncmFwaGljSW1hZ2U+Cg==</text>
+        <text encoding="base64">dGVzdAo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoOmdyYXBoaWNJbWFnZSB1cmw9Ii9pbWFnZXMvaWNvbl9pbmZvXzAuZ2lmIiBzdHlsZUNsYXNzPSJpbmZvLWljb24gI3tpY29uQ2xhc3N9Ij4KICAgICAgICAgICAgICAgICAgICA8YTRqOmFqYXggZXZlbnQ9ImNsaWNrIiBsaXN0ZW5lcj0iI3ttb2RhbFBhbmVsU3RhdGVIb2xkZXIuc2hvdygnaXRtcCcsIHZlbGRXcmFwcGVyLCAnaW5mb1Rla3N0T21zY2hyaWp2aW5nJywgJ21vZGFscGFuZWxzX291dHB1dCcsIG51bGwsIGZhbHNlLCB2ZWxkV3JhcHBlci5sYWJlbCwgbnVsbCl9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZW5kZXI9Im1vZGFscGFuZWxzX291dHB1dCwgaXRtcCIgbGltaXRSZW5kZXI9InRydWUiIGV4ZWN1dGU9IkB0aGlzIi8+CiAgICAgICAgICAgICAgICA8L2g6Z3JhcGhpY0ltYWdlPg==</text>
+        <text encoding="base64">ZQogICAgPA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS10b2RvOiBpY29uVGFnIG1ha2VuLS0+Cg==</text>
+        <text encoding="base64">ICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
@@ -774,8 +824,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSIje3ZhbHVlQ2xhc3N9Ij4KICAgICAgICAgICAgPGg6c2VsZWN0T25lTWVudSB2YWx1ZT0iI3t2ZWxkV3JhcHBlci53YWFyZGV9Ij4KICAgICAgICAgICAgICAgIDxzOnNlbGVjdEl0ZW1zIHZhbHVlPSIje3ZlbGRXcmFwcGVyLnBvc3NpYmxlVmFsdWVzfSIgbm9TZWxlY3Rpb25MYWJlbD0iI3ttZXNzYWdlc1snY29tYm8ubWFha19lZW5fa2V1emUnXX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXI9InZhbHVlIiBsYWJlbD0iI3t2YWx1ZS53YWFyZGV9IiBpdGVtVmFsdWU9IiN7dmFsdWUud2FhcmRlRGVmQ29kZX0iLz4KICAgICAgICAgICAgPC9oOnNlbGVjdE9uZU1lbnU+CiAgICAgICAgPC9kaXY+CiAgICA8L3VpOmRlZmluZT4KCiAgICA8dWk6ZGVmaW5lIG5hbWU9InJlYWRvbmx5VmFsdWUiPgogICAgICAgIDxjOnNldCB2YXI9ImRpc3BsYXkiIHZhbHVlPSIje2VtcHR5IHZlbGRXcmFwcGVyLndhYXJkZU5hYXJDbG9iKCkgPyAnLScgOiB2ZWxkV3JhcHBlci53YWFyZGVOYWFyQ2xvYigpfSIvPgogICAgICAgIDxoOm91dHB1dFRleHQgdmFsdWU9IiN7ZGlzcGxheX0iIHN0eWxlQ2xhc3M9IiN7dmFsdWVDbGFzc30iLz4KICAgIDwvdWk6ZGVmaW5lPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB4bWxuczphNGo9Imh0dHA6Ly9yaWNoZmFjZXMub3JnL2E0aiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -824,6 +874,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
+        <entry encoding="base64">Z3JhcGhpY0ltYWdlIHVybD0iL2ltYWdlcy9pY29uX2luZm9fMC5naWYiIHN0eWxlQ2xhc3M9ImluZm8taWNvbiAje2ljb25DbGFzc30iPg==</entry>
+        <entry>ajax event=&quot;click&quot; listener=&quot;#{modalPanelStateHolder.show('itmp', veldWrapper, 'infoTekstOmschrijving', 'modalpanels_output', null, false, veldWrapper.label, null)}&quot;</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
