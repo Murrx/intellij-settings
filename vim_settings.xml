@@ -76,6 +76,10 @@
         <mark key="^" line="14" column="94" />
         <mark key="." line="11" column="99" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragment.xhtml" timestamp="1521037874522">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="38" column="15" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1521034140238">
         <mark key="'" line="51" column="58" />
         <mark key="k" line="67" column="38" />
@@ -84,12 +88,12 @@
         <mark key="." line="106" column="69" />
         <mark key="^" line="106" column="69" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1521036348198">
-        <mark key="'" line="76" column="130" />
-        <mark key="[" line="95" column="37" />
-        <mark key="]" line="95" column="37" />
-        <mark key="^" line="116" column="11" />
-        <mark key="." line="95" column="157" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1521037916418">
+        <mark key="'" line="80" column="130" />
+        <mark key="[" line="52" column="60" />
+        <mark key="]" line="52" column="63" />
+        <mark key="^" line="52" column="63" />
+        <mark key="." line="52" column="63" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/summary_popup.xhtml" timestamp="1511956772199">
         <mark key="[" line="8" column="97" />
@@ -816,10 +820,10 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>*********</text>
+        <text encoding="base64">ICAgIDx1aTpkZWZpbmUgbmFtZT0icmVhZG9ubHlDb250ZW50Ij4KICAgICAgICA8aDpvdXRwdXRUZXh0IGVzY2FwZT0iI3tlc2NhcGV9IiB2YWx1ZT0iI3tlbXB0eSB2ZWxkV3JhcHBlci53YWFyZGUgPyAnLScgOiB2ZWxkV3JhcHBlci53YWFyZGV9Ii8+CiAgICA8L3VpOmRlZmluZT4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>xhtml</text>
+        <text>#{empty veldWrapper.waarde ? '-' : veldWrapper.waarde}</text>
       </register>
       <register name="b" type="4">
         <text>0% - 9%</text>
@@ -831,7 +835,7 @@
         <text>31% of meer</text>
       </register>
       <register name="-" type="4">
-        <text>xhtml</text>
+        <text>#{empty veldWrapper.waarde ? '-' : veldWrapper.waarde}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IHdhYXJkZVN0eWxl</text>
