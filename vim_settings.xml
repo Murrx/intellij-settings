@@ -446,13 +446,6 @@
         <mark key="." line="77" column="21" />
         <mark key="^" line="77" column="21" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_recidiverisico.xhtml" timestamp="1521021469427">
-        <mark key="'" line="13" column="96" />
-        <mark key="[" line="13" column="53" />
-        <mark key="]" line="13" column="72" />
-        <mark key="." line="21" column="122" />
-        <mark key="^" line="9" column="95" />
-      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/resources/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/util/taxatie_analyse.xhtml" timestamp="1517923303722">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="24" />
@@ -675,11 +668,11 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/VoorbladAction.java" timestamp="1520966342381">
-        <mark key="[" line="45" column="133" />
-        <mark key="]" line="46" column="47" />
-        <mark key="^" line="46" column="47" />
-        <mark key="." line="46" column="47" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/VoorbladAction.java" timestamp="1521024631305">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="32" column="2" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/repeatableFragment.xhtml" timestamp="1519822152430">
         <mark key="[" line="23" column="29" />
@@ -819,8 +812,8 @@
       <register name="a" type="4">
         <text>action.getVeldWrapper(blok,veldNaam, fragmentType, volgNr, optionalForCompleteness)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ua_kans_letselschade</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>col col-vraag-sub2</text>
@@ -832,7 +825,7 @@
         <text encoding="base64">ICAsIElURUtTVF9JRCk=</text>
       </register>
       <register name="-" type="4">
-        <text>ganisatieNaam</text>
+        <text encoding="base64">QWJzdHJhY3RWZWxkV3JhcHBlciA=</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
@@ -847,15 +840,30 @@
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aW9uIG9uLXBvc3RiYWNrPSJmYWxzZSIgZXhlY3V0ZT0iI3t2b29yYmxhZEFjdGlvbi5pbml0fSIvPgo=</text>
+        <text encoding="base64">ICAgcHVibGljIEFic3RyYWN0VmVsZFdyYXBwZXIgb3JnYW5pc2F0aWVOYWFtID0gYWN0aW9uLmdldFZlbGRXcmFwcGVyKGJsb2tXcmFwcGVyLCAidWl0Z2VicmVpZF9vcmdhbmlzYXRpZV9uYWFtIiwgIlRFWFRfSFRNTCIsIDFMKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgQmxva1dyYXBwZXIgYmxva1dyYXBwZXIgPSBhY3Rpb24uZ2V0Qmxva1dpdGhOYW1lKCJ1aXRnZWJyZWlkX2dlZ2V2ZW5zdm9vcmJsYWQiKTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgQENyZWEK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8YWN0aW9uIG9uLXBvc3RiYWNrPSJmYWxzZSIgZXhlY3V0ZT0iI3t2b29yYmxhZEFjdGlvbi5pbml0fSIvPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>/**
  * ????
  *
@@ -865,21 +873,6 @@
 public class VoorbladAction
 {
 }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">V0hFUkUgTkFBTSA9ICdhbmFseXNlX3JlY2lkaXZlcmlzaWNvJwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">U0VUIE9NU0NIUklKVklORyA9ICdJbnNjaGF0dGluZyByaXNpY28nJ3MnCg==</text>
-      </register>
-      <register name="w" type="4">
-        <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">VVBEQVRFIEJMT0tfREVGSU5JVElFUwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
