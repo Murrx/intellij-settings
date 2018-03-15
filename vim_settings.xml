@@ -63,19 +63,11 @@
         <mark key="^" line="30" column="31" />
         <mark key="." line="30" column="31" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/generic/ClientAdresVeldValueGenerator.java" timestamp="1521109572451">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="56" />
-      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/infoTekstFragment.xhtml" timestamp="1519217699623">
         <mark key="[" line="11" column="99" />
         <mark key="]" line="11" column="99" />
         <mark key="^" line="14" column="94" />
         <mark key="." line="11" column="99" />
-      </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/textBoxFragment.xhtml" timestamp="1521037874522">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="38" column="15" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/uitgebreidadviesList.xhtml" timestamp="1521126746069">
         <mark key="'" line="51" column="58" />
@@ -85,7 +77,7 @@
         <mark key="." line="106" column="69" />
         <mark key="^" line="106" column="69" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1521126894539">
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1521129857728">
         <mark key="[" line="53" column="108" />
         <mark key="]" line="53" column="111" />
         <mark key="." line="53" column="111" />
@@ -135,7 +127,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/uitgebreidadvies/BuurtScorePostcodeValueGenerator.java" timestamp="1521127759155">
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/uitgebreidadvies/BuurtScorePostcodeValueGenerator.java" timestamp="1521130189830">
         <mark key="[" line="93" column="7" />
         <mark key="]" line="93" column="6" />
         <mark key="^" line="93" column="6" />
@@ -159,11 +151,10 @@
         <mark key="^" line="9" column="137" />
         <mark key="." line="9" column="137" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/login.xhtml" timestamp="1520966307337">
-        <mark key="[" line="24" column="45" />
-        <mark key="]" line="24" column="52" />
-        <mark key="^" line="24" column="52" />
-        <mark key="." line="24" column="52" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/login.xhtml" timestamp="1521130554485">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/filter/VdlLoggerFactory.java" timestamp="1516029708947">
         <mark key="[" line="12" column="0" />
@@ -189,6 +180,12 @@
         <mark key="]" line="41" column="99" />
         <mark key="." line="41" column="134" />
         <mark key="^" line="41" column="134" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorbladNew.xhtml" timestamp="1521131102895">
+        <mark key="'" line="42" column="110" />
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="15" column="102" />
+        <mark key="." line="10" column="83" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/verdieping_scil.xhtml" timestamp="1520429246865">
         <mark key="[" line="20" column="128" />
@@ -249,6 +246,11 @@
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="15" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/component/activiteit/uitgebreidadvies/uitgebreidadvies.pages.xml" timestamp="1520962372889">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/imageFragment2.xhtml" timestamp="1519897650119">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="47" />
@@ -268,6 +270,11 @@
         <mark key="^" line="153" column="70" />
         <mark key="." line="153" column="70" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" timestamp="1520955173747">
+        <mark key="[" line="969" column="0" />
+        <mark key="]" line="969" column="0" />
+        <mark key="." line="969" column="0" />
+      </file>
       <file name="$USER_HOME$/git/jsf-playground/web/WEB-INF/faces-config.xml" timestamp="1516986663096">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="22" column="15" />
@@ -285,6 +292,11 @@
         <mark key="]" line="16" column="146" />
         <mark key="^" line="16" column="146" />
         <mark key="." line="31" column="144" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/voorblad.xhtml" timestamp="1521130862379">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/doelenregistratie/GroepeerType.java" timestamp="1509369855361">
         <mark key="[" line="58" column="34" />
@@ -547,11 +559,11 @@
         <mark key="^" line="25" column="9" />
         <mark key="." line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/VoorbladAction.java" timestamp="1521024631305">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="32" column="2" />
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/VoorbladAction.java" timestamp="1521132067356">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="48" column="85" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/repeatableFragment.xhtml" timestamp="1519822152430">
         <mark key="[" line="23" column="29" />
@@ -576,9 +588,6 @@
         <mark key="]" line="0" column="59" />
         <mark key="." line="0" column="59" />
         <mark key="^" line="0" column="59" />
-      </file>
-      <file name="/fragment.java" timestamp="1521106236714">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/gdisqlgen/test.yaml" timestamp="1521117218794">
         <mark key="[" line="3" column="18" />
@@ -691,21 +700,10 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>/*------------------------------------------------------------------------------
- **     Ident: Delivery Center Java
- **    Author: Robin Altena
- ** Copyright: (c) 15 Mar. 2018 Sogeti Nederland B.V. All Rights Reserved.
- **------------------------------------------------------------------------------
- ** Sogeti Nederland B.V.            |  No part of this file may be reproduced  
- ** Distributed Software Engineering |  or transmitted in any form or by any        
- ** Lange Dreef 17                   |  means, electronic or mechanical, for the      
- ** 4131 NJ Vianen                   |  purpose, without the express written    
- ** The Netherlands                  |  permission of the copyright holder.
- *------------------------------------------------------------------------------
- */</text>
+        <text encoding="base64">ICAgICA8Z2RpOnRleHRCb3hGcmFnbWVudE5ldyB2ZWxkTmFhbT0idWl0Z2VicmVpZF9vcmdhbmlzYXRpZV9hZHJlcyIgdm9sZ05yPSIyIiBlZGl0YWJsZT0iZmFsc2UiLz4KICAgICAgICAgICAgPGdkaTp0ZXh0Qm94RnJhZ21lbnROZXcgdmVsZE5hYW09InVhX3Zvb3JibGFkX3RpamRlbGlqa2VfdmVyYmxpamZwbGFhdHMiIHZvbGdOcj0iOTkiIGVkaXRhYmxlPSJmYWxzZSIvPgogICAgICAgICAgICA8Z2RpOnRleHRCb3hGcmFnbWVudE5ldyB2ZWxkTmFhbT0idWFfdm9vcmJsYWRfY29udGFjdHBlcnNvb24iIHZvbGdOcj0iMyIgZWRpdGFibGU9ImZhbHNlIi8+</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>bepaalBuurtScore(adresseringClientTableView.getAdrespostcode().substring(0, 4)) != null) // Buurtscore gevonden</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text>0% - 9%</text>
@@ -717,13 +715,13 @@
         <text>31% of meer</text>
       </register>
       <register name="-" type="4">
-        <text>bepaalBuurtScore(adresseringClientTableView.getAdrespostcode().substring(0, 4)) != null) // Buurtscore gevonden</text>
+        <text>uitgebreid_organisatie_adres</text>
       </register>
       <register name="/" type="4">
         <text>\cbuurt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgcHVibGljIEJ1dXJ0U2NvcmUgYmVwYWFsQnV1cnRTY29yZUJpakNsaWVudEFkcmVzKEFkcmVzc2VyaW5nQ2xpZW50VGFibGVWaWV3IGFkcmVzc2VyaW5nQ2xpZW50VGFibGVWaWV3KQo=</text>
+        <text encoding="base64">ICAgICAgb3JnYW5pc2F0aWVBZHJlcyA9IGFjdGlvbi5nZXRWZWxkV3JhcHBlcihibG9rV3JhcHBlciwgInVpdGdlYnJlaWRfb3JnYW5pc2F0aWVfYWRyZXMiLCAiVEVYVF9IVE1MIiwgMkwpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -731,54 +729,32 @@
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
-      <register name="2" type="4">
-        <text>/*------------------------------------------------------------------------------
- **     Ident: Delivery Center Java
- **    Author: Robin Altena
- ** Copyright: (c) 15 Mar. 2018 Sogeti Nederland B.V. All Rights Reserved.
- **------------------------------------------------------------------------------
- ** Sogeti Nederland B.V.            |  No part of this file may be reproduced  
- ** Distributed Software Engineering |  or transmitted in any form or by any        
- ** Lange Dreef 17                   |  means, electronic or mechanical, for the      
- ** 4131 NJ Vianen                   |  purpose, without the express written    
- ** The Netherlands                  |  permission of the copyright holder.
- *------------------------------------------------------------------------------
- */</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgdm9sZ05yPSIzImVkaXRhYmxlPSJmYWxzZSIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgdGV4dEJveEZyYWdtZW50TmV3IHZlbGROYWFtID0gInVhX3Zvb3JibGFkX2NvbnRhY3RwZXJzb29uIgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>/*------------------------------------------------------------------------------
- **     Ident: Delivery Center Java
- **    Author: henryean
- ** Copyright: (c) 8 feb. 2016 Sogeti Nederland B.V. All Rights Reserved.
- **------------------------------------------------------------------------------
- ** Sogeti Nederland B.V.            |  No part of this file may be reproduced  
- ** Distributed Software Engineering |  or transmitted in any form or by any        
- ** Lange Dreef 17                   |  means, electronic or mechanical, for the      
- ** 4131 NJ Vianen                   |  purpose, without the express written    
- ** The Netherlands                  |  permission of the copyright holder.
- *------------------------------------------------------------------------------
- */</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGdkaToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+I3thY3Rpb24uZ2V0VmVsZFdyYXBwZXIoYmxvaywndWFfYnV1cnRzY29yZV9wb3N0Y29kZWxhYmVsJywgJ1RFWFQnLCAzMjMpLndhYXJkZX08L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdkaTp0ZXh0Qm94RnJhZ21lbnQgdmVsZE5hYW09InVhX2J1dXJ0c2NvcmVfcG9zdGNvZGVsYWJlbCIgc2hvd0luZm9UZWtzdD0iZmFsc2UiIHZvbGdOcj0iMzIzIiBlZGl0YWJsZT0iZmFsc2UiLz4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICA8Z2RpOgogICB0ZXh0Qm94RnJhZ21lbnROZXcgdmVsZE5hYW0gPSAidWl0Z2VicmVpZF9vcmdhbmlzYXRpZV9hZHJlcyIKICAgdm9sZ05yPSIyImVkaXRhYmxlPSJmYWxzZSIvPgogICAgICAgICAgICA8Z2RpOgogICB0ZXh0Qm94RnJhZ21lbnROZXcgdmVsZE5hYW0gPSAidWFfdm9vcmJsYWRfdGlqZGVsaWprZV92ZXJibGlqZnBsYWF0cyIKICAgdm9sZ05yPSI5OSJlZGl0YWJsZT0iZmFsc2UiLz4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VUIERFRklORSBPRkYKLwotLS0tLS0gVmVsZCBkZWZpbml0aWUgdWFfYnV1cnRzY29yZV9wb3N0Y29kZWxhYmVsCk1FUkdFIElOVE8gVkVMRF9ERUZJTklUSUVTIFZERQpVU0lORwogIChTRUxFQ1QgJ3VhX2J1dXJ0c2NvcmVfcG9zdGNvZGVsYWJlbCcgQVMgTkFBTQogICBGUk9NIERVQUwpIEQKT04gKFZERS5OQUFNID0gRC5OQUFNKQpXSEVOIE1BVENIRUQgVEhFTgpVUERBVEUgU0VUCiAgVkRFLk9NU0NIUklKVklORyAgICAgICAgICAgICAgPSAnZ2VnZW5lcmVlcmQgdmFsdWUgdm9vciBveHJlYyBidXVydHNjb3JlJwogICwgVkRFLldBQVJERV9CRVJFSUtfSUQgICAgICAgID0gKFNFTEVDVCBpZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZST00gV0FBUkRFX0JFUkVJS0VOCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV0hFUkUgbmFhbSA9ICdVbmJvdW5kJykKICAsIFZERS5SRUxFVkFOVElFX0ZVTkNUSUVfVFlQRSA9IE5VTEwKICAsIFZERS5WQUxVRV9HRU5FUkFUT1JfVFlQRSAgICA9ICd1YV9idXVydHNjb3JlX3Bvc3Rjb2RlbGFiZWwnCldIRU4gTk9UIE1BVENIRUQgVEhFTgpJTlNFUlQKKFZFUlNJT04KICAsIERBVFVNX1RJSkRfTEFBVFNUX0dFV0lKWklHRAogICwgREFUVU1fVElKRF9UT0VHRVZPRUdECiAgLCBUT0VHRVZPRUdEX0RPT1JfT1JHQU5JU0FUSUUKICAsIE5BQU0KICAsIE9NU0NIUklKVklORwogICwgV0FBUkRFX0JFUkVJS19JRAogICwgUkVMRVZBTlRJRV9GVU5DVElFX1RZUEUKICAsIFZBTFVFX0dFTkVSQVRPUl9UWVBFKQpWQUxVRVMKICAoMAogICAgLCBzeXN0aW1lc3RhbXAKICAgICwgc3lzdGltZXN0YW1wCiAgICAsICdJUklTVUEnCiAgICAsICd1YV9idXVydHNjb3JlX3Bvc3Rjb2RlbGFiZWwnCiAgICAsICdnZWdlbmVyZWVyZCB2YWx1ZSB2b29yIG94cmVjIGJ1dXJ0c2NvcmUnCiAgICAsIChTRUxFQ1QgaWQKICAgICAgIEZST00gV0FBUkRFX0JFUkVJS0VOCiAgICAgICBXSEVSRSBuYWFtID0gJ1VuYm91bmQnKQogICAgLCBOVUxMCiAgICAsICd1YV9idXVydHNjb3JlX3Bvc3Rjb2RlbGFiZWwnKQovClNFVCBERUZJTkUgT04KLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBWV19BRFJFU1NFUklOR19DTElFTlQgd2hlcmUgQURSRVNMQU5ETkFBTSBpcyBub3QgbnVsbDsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgcHVibGljIEFic3RyYWN0VmVsZFdyYXBwZXIgZ2V0T3JnYW5pc2F0aWVOYWFtKCkKICAgewogICAgICByZXR1cm4gb3JnYW5pc2F0aWVOYWFtOwogICB9CgogICBwdWJsaWMgdm9pZCBzZXRPcmdhbmlzYXRpZU5hYW0oQWJzdHJhY3RWZWxkV3JhcHBlciBvcmdhbmlzYXRpZU5hYW0pCiAgIHsKICAgICAgdGhpcy5vcmdhbmlzYXRpZU5hYW0gPSBvcmdhbmlzYXRpZU5hYW07CiAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgIEBDcmVhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
