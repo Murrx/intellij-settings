@@ -140,11 +140,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/uitgebreidadvies/BuurtScorePostcodeValueGenerator.java" timestamp="1521106350636">
-        <mark key="[" line="32" column="48" />
-        <mark key="]" line="32" column="68" />
-        <mark key="." line="32" column="68" />
-        <mark key="^" line="32" column="68" />
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/uitgebreidadvies/BuurtScorePostcodeValueGenerator.java" timestamp="1521107522710">
+        <mark key="[" line="67" column="55" />
+        <mark key="]" line="67" column="54" />
+        <mark key="." line="67" column="54" />
+        <mark key="^" line="67" column="54" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
         <mark key="[" line="4" column="0" />
