@@ -124,10 +124,10 @@
         <mark key="^" line="442" column="19" />
         <mark key="." line="442" column="19" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.120.sql" timestamp="1521104087760">
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.120.sql" timestamp="1521116812258">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1039" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="149" column="0" />
         <mark key="^" line="1039" column="2" />
         <mark key="." line="1039" column="1" />
       </file>
@@ -143,10 +143,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/uitgebreidadvies/BuurtScorePostcodeValueGenerator.java" timestamp="1521115586798">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="95" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/uitgebreidadvies/BuurtScorePostcodeValueGenerator.java" timestamp="1521116428818">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="35" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
         <mark key="[" line="4" column="0" />
@@ -280,6 +280,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.121.sql" timestamp="1521116954799">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/component/training/TrainingListAction.java" timestamp="1509633061419">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="3" />
@@ -309,11 +314,12 @@
         <mark key="." line="78" column="77" />
         <mark key="^" line="78" column="77" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/VeldValueGeneratorType.java" timestamp="1519914090532">
-        <mark key="[" line="114" column="19" />
-        <mark key="]" line="114" column="20" />
-        <mark key="^" line="114" column="20" />
-        <mark key="." line="114" column="20" />
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/VeldValueGeneratorType.java" timestamp="1521116854694">
+        <mark key="'" line="42" column="69" />
+        <mark key="[" line="153" column="3" />
+        <mark key="]" line="153" column="29" />
+        <mark key="^" line="153" column="70" />
+        <mark key="." line="153" column="70" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/WEB-INF/gdi.taglib.xml" timestamp="1520955173747">
         <mark key="[" line="969" column="0" />
@@ -424,9 +430,9 @@
         <mark key="." line="6" column="80" />
         <mark key="^" line="6" column="80" />
       </file>
-      <file name="$USER_HOME$/git/gdisqlgen/src/main/java/VeldDefinitie.java" timestamp="1519911051289">
-        <mark key="[" line="363" column="33" />
-        <mark key="]" line="373" column="32" />
+      <file name="$USER_HOME$/git/gdisqlgen/src/main/java/VeldDefinitie.java" timestamp="1521117076102">
+        <mark key="[" line="373" column="34" />
+        <mark key="]" line="373" column="53" />
         <mark key="^" line="373" column="32" />
         <mark key="." line="373" column="32" />
       </file>
@@ -505,11 +511,6 @@
         <mark key="^" line="65" column="35" />
         <mark key="." line="45" column="19" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/diagnose/uitvoering/uitgebreidadvies/action/UitgebreidAdviesAction.java" timestamp="1520965164472">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="84" column="82" />
-      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_relatiepartner.xhtml" timestamp="1520944020596">
         <mark key="[" line="22" column="119" />
         <mark key="]" line="16" column="138" />
@@ -578,6 +579,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/gdisqlgen/test.sql" timestamp="1521117237179">
+        <mark key="'" line="0" column="49" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/gdi/fragment-template-new.xhtml" timestamp="1520961244762">
         <mark key="[" line="7" column="80" />
@@ -727,18 +733,14 @@
       <file name="/fragment.java" timestamp="1521106236714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/gdisqlgen/test.yaml" timestamp="1520850907915">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="74" column="22" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/git/gdisqlgen/test.yaml" timestamp="1521117218794">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="2" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="48" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_primaire_delict.xhtml" />
-      <jump line="66" column="96" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_primaire_delict.xhtml" />
-      <jump line="16" column="71" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_primaire_delict.xhtml" />
-      <jump line="25" column="72" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_primaire_delict.xhtml" />
-      <jump line="32" column="37" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_primaire_delict.xhtml" />
       <jump line="37" column="37" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_primaire_delict.xhtml" />
       <jump line="42" column="37" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_primaire_delict.xhtml" />
       <jump line="47" column="37" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_primaire_delict.xhtml" />
@@ -834,13 +836,114 @@
       <jump line="1039" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" />
       <jump line="20" column="13" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/view/AdresseringClientTableView.java" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/VeldValueGeneratorType.java" />
+      <jump line="42" column="69" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/VeldValueGeneratorType.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/sql/update/iris_change_UA.121.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/gdisqlgen/test.yaml" />
+      <jump line="0" column="49" filename="$USER_HOME$/git/gdisqlgen/test.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>VW_ADRESSERING</text>
+        <text>/* Generated with gdisqlgen. Original YAML input:
+
+entries:
+  - naam: ua_buurtscore_postcodelabel
+    omschrijving: gegenereerd value voor oxrec buurtscore
+    valuegenerator: ua_buurtscore_postcodelabel
+*/
+SET DEFINE OFF
+/
+------ Veld definitie ua_buurtscore_postcodelabel
+MERGE INTO VELD_DEFINITIES VDE
+USING
+  (SELECT 'ua_buurtscore_postcodelabel' AS NAAM
+   FROM DUAL) D
+ON (VDE.NAAM = D.NAAM)
+WHEN MATCHED THEN
+UPDATE SET
+  VDE.OMSCHRIJVING = 'gegenereerd value voor oxrec buurtscore'
+  , VDE.WAARDE_BEREIK_ID = (SELECT id
+                            FROM WAARDE_BEREIKEN
+                            WHERE naam = 'Unbound')
+  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
+  , VDE.VALUE_GENERATOR_TYPE = 'ua_buurtscore_postcodelabel'
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , NAAM
+  , OMSCHRIJVING
+  , WAARDE_BEREIK_ID
+  , RELEVANTIE_FUNCTIE_TYPE
+  , VALUE_GENERATOR_TYPE)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_buurtscore_postcodelabel'
+    , 'gegenereerd value voor oxrec buurtscore'
+    , (SELECT id
+       FROM WAARDE_BEREIKEN
+       WHERE naam = 'Unbound')
+    , NULL
+    , 'ua_buurtscore_postcodelabel')
+/
+SET DEFINE ON
+/</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICB2ZWxkV2FhcmRlID0gbmV3IFZlbGRXYWFyZGUoZ2V0Rm9ybWF0dGVkQWRyZXMoYWRyZXNzZXJpbmdDbGllbnRUYWJsZVZpZXcpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>/* Generated with gdisqlgen. Original YAML input:
+
+entries:
+  - naam: ua_buurtscore_postcodelabel
+    omschrijving: gegenereerd value voor oxrec buurtscore
+    valuegenerator: ua_buurtscore_postcodelabel
+*/
+SET DEFINE OFF
+/
+------ Veld definitie ua_buurtscore_postcodelabel
+MERGE INTO VELD_DEFINITIES VDE
+USING
+  (SELECT 'ua_buurtscore_postcodelabel' AS NAAM
+   FROM DUAL) D
+ON (VDE.NAAM = D.NAAM)
+WHEN MATCHED THEN
+UPDATE SET
+  VDE.OMSCHRIJVING = 'gegenereerd value voor oxrec buurtscore'
+  , VDE.WAARDE_BEREIK_ID = (SELECT id
+                            FROM WAARDE_BEREIKEN
+                            WHERE naam = 'Unbound')
+  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
+  , VDE.VALUE_GENERATOR_TYPE = 'ua_buurtscore_postcodelabel'
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , NAAM
+  , OMSCHRIJVING
+  , WAARDE_BEREIK_ID
+  , RELEVANTIE_FUNCTIE_TYPE
+  , VALUE_GENERATOR_TYPE)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_buurtscore_postcodelabel'
+    , 'gegenereerd value voor oxrec buurtscore'
+    , (SELECT id
+       FROM WAARDE_BEREIKEN
+       WHERE naam = 'Unbound')
+    , NULL
+    , 'ua_buurtscore_postcodelabel')
+/
+SET DEFINE ON
+/</text>
       </register>
       <register name="b" type="4">
         <text>0% - 9%</text>
@@ -852,61 +955,175 @@
         <text>31% of meer</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IHdhYXJkZVN0eWxl</text>
+        <text>\cbuurt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcmVzdWx0LmFwcGVuZCgidm9vciBvbmJla2VuZGUgcG9zdGNvZGUpIik7Cg==</text>
+        <text encoding="base64">ICAgLyogR2XDr250ZWdyZWVyZCBEaWFnbm9zZSBJbnN0cnVtZW50IGJsb2sgZ2VnZXZlbnMgdm9vcmJsYWQsIGdlZ2V2ZW5zIG9wZHJhY2h0LCB2ZWxkIHYuaS4gemFha251bW1lciAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICB2ZWxkV2FhcmRlID0gbmV3IFZlbGRXYWFyZGUoZ2V0Rm9ybWF0dGVkQWRyZXMoYWRyZXNzZXJpbmdDbGllbnRUYWJsZVZpZXcpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGl0ZWtzdDogVTM1MDYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdhYXJkZWJlcmVpazogSmFOZWUK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+      <register name="4" type="4">
+        <text>entries:
+  - naam: ua_oxrec_geweldadig
+    omschrijving: Gewelddadig indexdelict
+    itekst: U3506
+    waardebereik: JaNee
+
+  - naam: ua_oxrec_veroordeling
+    omschrijving: Eerdere veroordeling voor een geweldsdelict (vóór indexdelict)
+    itekst: U3507
+    waardebereik: JaNee
+
+  - naam: ua_oxrec_burgelijke_staat
+    omschrijving: Burgerlijke staat
+    itekst: U3508
+    waardebereik: ua_oxrec_burgelijkestaat
+
+  - waardebereik: ua_oxrec_burgelijkestaat
+    waarden:
+      - code: ua_burgelijkestaat_ongehuwd
+        omschrijving: Alleenstaand
+        volgnummer: 1
+      - code: ua_burgelijkestaat_overig
+        omschrijving: Samenwonend, Getrouwd, LAT-relatie
+        volgnummer: 5
+      - code: ua_burgelijkestaat_onbekend
+        omschrijving: Onbekend
+        volgnummer: 10
+
+  - naam: ua_oxrec_opleiding
+    omschrijving: Opleidingsniveau
+    itekst: U3509
+    waardebereik: ua_oxrec_opleiding
+
+  - waardebereik: ua_oxrec_opleiding
+    waarden:
+      - code: ua_opleiding_vmbo
+        omschrijving: Een opleiding gevolgd tot 16e jaar of jonger
+        volgnummer: 1
+      - code: ua_opleiding_vwo
+        omschrijving: Een opleiding gevolgd t/m 18e jaar
+        volgnummer: 5
+      - code: ua_opleiding_wo
+        omschrijving: Een opleiding gevolgd to ná 18e jaar
+        volgnummer: 10
+      - code: ua_opleiding_onbekend
+        omschrijving: Onbekend
+        volgnummer: 15
+
+  - naam: ua_oxrec_werk
+    omschrijving: Zinvolle dagbesteding
+    itekst: U3510
+    waardebereik: JaNeeOnbekend
+
+  - naam: ua_oxrec_inkomen
+    omschrijving: Besteedbaar inkomen
+    itekst: U3511
+    waardebereik: ua_oxrec_inkomen
+
+  - waardebereik: ua_oxrec_inkomen
+    waarden:
+      - code: ua_inkomen_oxrec_tot18000
+        omschrijving: Laag
+        volgnummer: 1
+      - code: ua_inkomen_oxrec_18_60000
+        omschrijving: Gemiddeld
+        volgnummer: 5
+      - code: ua_inkomen_oxrec_60000
+        omschrijving: Hoog
+        volgnummer: 10
+      - code: ua_inkomen_oxrec_zero
+        omschrijving: Geen inkomen
+        volgnummer: 15
+      - code: ua_inkomen_oxrec_onbekend
+        omschrijving: Onbekend
+        volgnummer: 20</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+      <register name="5" type="4">
+        <text>MERGE INTO VELD_DEFINITIES VDE
+USING
+  (SELECT 'ua_buurtscore_postcodelabel' AS NAAM
+   FROM DUAL) D
+ON (VDE.NAAM = D.NAAM)
+WHEN MATCHED THEN
+  , VDE.ITEKST_ID               = (SELECT ID
+                                   FROM INFOTEKSTEN
+                                   WHERE CODE = 'U3506')
+  , VDE.WAARDE_BEREIK_ID        = (SELECT id
+                                   FROM WAARDE_BEREIKEN
+                                   WHERE naam = 'JaNee')
+  , VDE.RELEVANTIE_FUNCTIE_TYPE = NULL
+  , VDE.VALUE_GENERATOR_TYPE    = NULL
+WHEN NOT MATCHED THEN
+INSERT
+(VERSION
+  , DATUM_TIJD_LAATST_GEWIJZIGD
+  , DATUM_TIJD_TOEGEVOEGD
+  , TOEGEVOEGD_DOOR_ORGANISATIE
+  , NAAM
+  , OMSCHRIJVING
+  , WAARDE_BEREIK_ID
+  , ITEKST_ID
+  , RELEVANTIE_FUNCTIE_TYPE
+  , VALUE_GENERATOR_TYPE)
+VALUES
+  (0
+    , systimestamp
+    , systimestamp
+    , 'IRISUA'
+    , 'ua_buurtscore_postcodelabeL'
+    , 'Gewelddadig indexdelict'
+    , (SELECT id
+       FROM WAARDE_BEREIKEN
+       WHERE naam = 'JaNee')
+    , (SELECT ID
+       FROM INFOTEKSTEN
+       WHERE CODE = 'U3506')
+    , NULL
+    , NULL)
+/</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">VVBEQVRFIFNFVAogIFZERS5PTVNDSFJJSlZJTkcgICAgICAgICAgICAgID0gJ0dld2VsZGRhZGlnIGluZGV4ZGVsaWN0Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgVmVsZFdhYXJkZSB2ZWxkV2FhcmRlID0gbnVsbDsK</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IHdhYXJkZVN0eWxl</last-search>
+      <last-search>\cbuurt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IHdhYXJkZVN0eWxl</last-pattern>
+      <last-pattern>\cbuurt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>veldWrapper.setKern</entry>
         <entry>kernvraag</entry>
         <entry>optional</entry>
         <entry>hide</entry>
@@ -926,6 +1143,7 @@
         <entry>tooltip</entry>
         <entry>static</entry>
         <entry encoding="base64">IHdhYXJkZVN0eWxl</entry>
+        <entry>\cbuurt</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
