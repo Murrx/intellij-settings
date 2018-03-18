@@ -536,11 +536,11 @@
         <mark key="^" line="58" column="67" />
         <mark key="." line="58" column="67" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" timestamp="1521126057112">
-        <mark key="[" line="0" column="57" />
-        <mark key="]" line="0" column="59" />
-        <mark key="." line="0" column="59" />
-        <mark key="^" line="0" column="59" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" timestamp="1521393104556">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="81" />
+        <mark key="." line="1" column="81" />
+        <mark key="^" line="1" column="81" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/delictverleden.xhtml" timestamp="1517833654774">
         <mark key="[" line="2" column="153" />
@@ -662,7 +662,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPCEtLTx1aTppbmNsdWRlIHNyYz0iYmxva2tlbi92b29yYmxhZC54aHRtbCIvPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVpOmluY2x1ZGUgc3JjPSJibG9ra2VuL3Zvb3JibGFkTmV3LnhodG1sIi8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPHVpOmluY2x1ZGUgc3JjPSJibG9ra2VuL3Zvb3JibGFkTmV3ZXIueGh0bWwiLz4tLT4=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPHVpOmluY2x1ZGUgc3JjPSJibG9ra2VuL3Zvb3JibGFkTmV3ZXIueGh0bWwiLz4tLT4K</text>
+        <text encoding="base64">c2VsZWN0ICogRlJPTSBWRUxEX0RFRklOSVRJRVMgd2hlcmUgVkFMVUVfR0VORVJBVE9SX1RZUEUgaXMgbm90IG51bGw7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGdkaTp0ZXh0Qm94RnJhZ21lbnROZXcgdmVsZE5hYW09InVhX3Zvb3JibGFkX3ZpX3phYWtudW1tZXIiIHZvbGdOcj0iOSIgZWRpdGFibGU9ImZhbHNlIi8+Cg==</text>
@@ -677,25 +677,25 @@
         <text>blokken/voorblad.xhtml</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PDw=</text>
+        <text>\cua_oxrec_buurt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWk6aW5jbHVkZSBzcmM9ImRpYWdub3NlL3VpdGdlYnJlaWRhZHZpZXMvYmxva2tlbi92b29yYmxhZC54aHRtbCIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPHVpOmluY2x1ZGUgc3JjPSJibG9ra2VuL3Zvb3JibGFkTmV3ZXIueGh0bWwiLz4tLT4K</text>
+        <text encoding="base64">c2VsZWN0ICogRlJPTSBWRUxEX0RFRklOSVRJRVMgd2hlcmUgVkFMVUVfR0VORVJBVE9SX1RZUEUgaXMgbm90IG51bGw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPHVpOmluY2x1ZGUgc3JjPSJibG9ra2VuL3Zvb3JibGFkTmV3LnhodG1sIi8+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPHVpOmluY2x1ZGUgc3JjPSJibG9ra2VuL3Zvb3JibGFkTmV3ZXIueGh0bWwiLz4tLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWk6aW5jbHVkZSBzcmM9ImdkaS9ibG9ra2VuL3Zvb3JibGFkLnhodG1sIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPHVpOmluY2x1ZGUgc3JjPSJibG9ra2VuL3Zvb3JibGFkTmV3LnhodG1sIi8+LS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWk6aW5jbHVkZSBzcmM9ImdkaS9ibG9ra2VuL3Zvb3JibGFkLnhodG1sIi8+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8Cg==</text>
@@ -720,15 +720,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PDw=</last-search>
+      <last-search>\cua_oxrec_buurt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PDw=</last-pattern>
+      <last-pattern>\cua_oxrec_buurt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>labelLayout</entry>
         <entry>textbox</entry>
         <entry>textBox</entry>
         <entry>New</entry>
@@ -748,6 +747,7 @@
         <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">PDw8</entry>
         <entry encoding="base64">PDw=</entry>
+        <entry>\cua_oxrec_buurt</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
