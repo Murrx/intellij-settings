@@ -87,6 +87,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" timestamp="1521457209686">
+        <mark key="[" line="1" column="57" />
+        <mark key="]" line="1" column="58" />
+        <mark key="." line="1" column="58" />
+        <mark key="^" line="1" column="7" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/taxatie_risicos.xhtml" timestamp="1509629152461">
         <mark key="[" line="19" column="87" />
         <mark key="]" line="19" column="87" />
@@ -430,8 +436,8 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="26" column="45" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/VeldValueGeneratorType.java" timestamp="1521116854694">
-        <mark key="'" line="42" column="69" />
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/VeldValueGeneratorType.java" timestamp="1521457302026">
+        <mark key="'" line="141" column="0" />
         <mark key="[" line="153" column="3" />
         <mark key="]" line="153" column="29" />
         <mark key="^" line="153" column="70" />
@@ -536,12 +542,6 @@
         <mark key="^" line="58" column="67" />
         <mark key="." line="58" column="67" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/878c2709-dc2a-47d0-8c2e-45816cbb63aa/console.sql" timestamp="1521393104556">
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="1" column="81" />
-        <mark key="." line="1" column="81" />
-        <mark key="^" line="1" column="81" />
-      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/delictverleden.xhtml" timestamp="1517833654774">
         <mark key="[" line="2" column="153" />
         <mark key="]" line="3" column="37" />
@@ -556,7 +556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="81" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_recidiverisico.xhtml" />
       <jump line="13" column="96" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/analyse_recidiverisico.xhtml" />
       <jump line="16" column="130" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_huisvesting.xhtml" />
       <jump line="22" column="119" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/factoren_huisvesting.xhtml" />
@@ -656,6 +655,7 @@
       <jump line="1326" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1325" column="3" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
       <jump line="1279" column="0" filename="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/resources/stylesheet/instrument.css" />
+      <jump line="141" column="0" filename="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/VeldValueGeneratorType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -677,7 +677,7 @@
         <text>blokken/voorblad.xhtml</text>
       </register>
       <register name="/" type="4">
-        <text>\cua_oxrec_buurt</text>
+        <text>\cua_buurtscore</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWk6aW5jbHVkZSBzcmM9ImRpYWdub3NlL3VpdGdlYnJlaWRhZHZpZXMvYmxva2tlbi92b29yYmxhZC54aHRtbCIvPgo=</text>
@@ -720,15 +720,14 @@
       </register>
     </registers>
     <search>
-      <last-search>\cua_oxrec_buurt</last-search>
+      <last-search>\cua_buurtscore</last-search>
       <last-offset />
-      <last-pattern>\cua_oxrec_buurt</last-pattern>
+      <last-pattern>\cua_buurtscore</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>textbox</entry>
         <entry>textBox</entry>
         <entry>New</entry>
         <entry>escape</entry>
@@ -748,6 +747,7 @@
         <entry encoding="base64">PDw8</entry>
         <entry encoding="base64">PDw=</entry>
         <entry>\cua_oxrec_buurt</entry>
+        <entry>\cua_buurtscore</entry>
       </history-search>
       <history-cmd>
         <entry>%</entry>
