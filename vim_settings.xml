@@ -153,6 +153,12 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/blokken/oxrec.xhtml" timestamp="1521464105443">
+        <mark key="[" line="50" column="110" />
+        <mark key="]" line="50" column="110" />
+        <mark key="." line="50" column="110" />
+        <mark key="^" line="50" column="108" />
+      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/pages/diagnose/uitgebreidadvies/summary_popup.xhtml" timestamp="1511956772199">
         <mark key="[" line="8" column="97" />
         <mark key="]" line="8" column="96" />
@@ -221,11 +227,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/uitgebreidadvies/BuurtScorePostcodeValueGenerator.java" timestamp="1521130189830">
-        <mark key="[" line="93" column="7" />
-        <mark key="]" line="93" column="6" />
-        <mark key="^" line="93" column="6" />
-        <mark key="." line="93" column="6" />
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/uitgebreidadvies/BuurtScorePostcodeValueGenerator.java" timestamp="1521463411973">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="89" column="3" />
+        <mark key="^" line="60" column="48" />
+        <mark key="." line="60" column="48" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/si/veld.xhtml" timestamp="1517002899079">
         <mark key="[" line="4" column="0" />
@@ -436,13 +442,6 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="26" column="45" />
       </file>
-      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/VeldValueGeneratorType.java" timestamp="1521457302026">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="153" column="3" />
-        <mark key="]" line="153" column="29" />
-        <mark key="^" line="153" column="70" />
-        <mark key="." line="153" column="70" />
-      </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/webapp/layout/components/instrument/snelinstrument/si-infoIcon.xhtml" timestamp="1516315446018">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="7" />
@@ -535,6 +534,12 @@
         <mark key="]" line="81" column="57" />
         <mark key="." line="81" column="57" />
         <mark key="^" line="76" column="70" />
+      </file>
+      <file name="$USER_HOME$/git/IRIS/iris-domain-model/src/main/java/nl/reclassering/iris/model/diagnose/valuegen/uitgebreidadvies/BuurtScoreVeldValueGenerator.java" timestamp="1521463324748">
+        <mark key="[" line="61" column="34" />
+        <mark key="]" line="61" column="47" />
+        <mark key="^" line="61" column="47" />
+        <mark key="." line="61" column="47" />
       </file>
       <file name="$USER_HOME$/git/IRIS/iris-web/src/main/java/nl/reclassering/iris/web/action/doelenregistratie/GroepeerType.java" timestamp="1509369855361">
         <mark key="[" line="58" column="34" />
@@ -659,10 +664,10 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx1aTppbmNsdWRlIHNyYz0iYmxva2tlbi92b29yYmxhZC54aHRtbCIvPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVpOmluY2x1ZGUgc3JjPSJibG9ra2VuL3Zvb3JibGFkTmV3LnhodG1sIi8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPHVpOmluY2x1ZGUgc3JjPSJibG9ra2VuL3Zvb3JibGFkTmV3ZXIueGh0bWwiLz4tLT4=</text>
+        <text>getOpdracht().getClient()</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogRlJPTSBWRUxEX0RFRklOSVRJRVMgd2hlcmUgVkFMVUVfR0VORVJBVE9SX1RZUEUgaXMgbm90IG51bGw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PC9nZGk6dGV4dEJveEZyYWdtZW50Pg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGdkaTp0ZXh0Qm94RnJhZ21lbnROZXcgdmVsZE5hYW09InVhX3Zvb3JibGFkX3ZpX3phYWtudW1tZXIiIHZvbGdOcj0iOSIgZWRpdGFibGU9ImZhbHNlIi8+Cg==</text>
@@ -674,46 +679,46 @@
         <text>31% of meer</text>
       </register>
       <register name="-" type="4">
-        <text>blokken/voorblad.xhtml</text>
+        <text encoding="base64">PC9nZGk6dGV4dEJveEZyYWdtZW50Pg==</text>
       </register>
       <register name="/" type="4">
         <text>\cua_buurtscore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWk6aW5jbHVkZSBzcmM9ImRpYWdub3NlL3VpdGdlYnJlaWRhZHZpZXMvYmxva2tlbi92b29yYmxhZC54aHRtbCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWRyZXNzZXJpbmdDbGllbnRUYWJsZVZpZXcgYWRyZXNzZXJpbmdDbGllbnRUYWJsZVZpZXcgPSBnZXRDbGllbnRBZHJlc0hlbHBlckNvbXBvbmVudCgpLmJlcGFhbEFkcmVzc2VyaW5nQ2xpZW50KGNsaWVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogRlJPTSBWRUxEX0RFRklOSVRJRVMgd2hlcmUgVkFMVUVfR0VORVJBVE9SX1RZUEUgaXMgbm90IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdWk6ZGVmaW5lPgo=</text>
       </register>
       <register name="q" type="4">
         <text>Onbekend</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPHVpOmluY2x1ZGUgc3JjPSJibG9ra2VuL3Zvb3JibGFkTmV3ZXIueGh0bWwiLz4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3Bhbj4je2FjdGlvbi5nZXRWZWxkV3JhcHBlcihibG9rLCd1YV9idXVydHNjb3JlX3Bvc3Rjb2RlbGFiZWwnLCAnVEVYVCcsIDMyMykud2FhcmRlfTwvc3Bhbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPHVpOmluY2x1ZGUgc3JjPSJibG9ra2VuL3Zvb3JibGFkTmV3LnhodG1sIi8+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDpvdXRwdXRUZXh0IGVzY2FwZT0iI3tlc2NhcGV9IiB2YWx1ZT0iI3t2ZWxkV3JhcHBlci53YWFyZGUgfSIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWk6aW5jbHVkZSBzcmM9ImdkaS9ibG9ra2VuL3Zvb3JibGFkLnhodG1sIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1aTpkZWZpbmUgbmFtZT0icmVhZG9ubHlDb250ZW50Ij4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgVUFfQlVVUlRTQ09SRV9QT1NUQ09ERUxBQkVMKEJ1dXJ0U2NvcmVQb3N0Y29kZVZhbHVlR2VuZXJhdG9yLmNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgLyogR2XDr250ZWdyZWVyZCBEaWFnbm9zZSBJbnN0cnVtZW50IGJsb2sgT1hSRUMsIHZlbGQgdWFfYnV1cnRzY29yZV9wb3N0Y29kZWxhYmVsICovCg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ICAgICwgKFNFTEVDVCBJRAogICAgICAgRlJPTSBJTkZPVEVLU1RFTgogICAgICAgV0hFUkUgQ09ERSA9ICdVOTA3MScpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgd2FhcmRlTGFiZWwgPSBidXVydFNjb3JlUG9zdGNvZGVWYWx1ZShnZXRDbGllbnRBZHJlc0hlbHBlckNvbXBvbmVudCgpLmJlcGFhbEFkcmVzc2VyaW5nQ2xpZW50KGNsaWVudCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgQWRyZXNzZXJpbmdDbGllbnRUYWJsZVZpZXcgYWRyZXNzZXJpbmdDbGllbnRUYWJsZVZpZXcgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -757,7 +762,6 @@
         <entry>fw</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>f</entry>
-        <entry>ww</entry>
         <entry>wf</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">Z3JhcGhpY0ltYWdlIHVybD0iL2ltYWdlcy9pY29uX2luZm9fMC5naWYiIHN0eWxlQ2xhc3M9ImluZm8taWNvbiAje2ljb25DbGFzc30iPg==</entry>
@@ -765,6 +769,7 @@
         <entry>qw</entry>
         <entry>q</entry>
         <entry>wr</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
